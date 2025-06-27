@@ -1,0 +1,33 @@
+{
+  "files.autoSave": "afterDelay",
+  "files.autoSaveWhenNoErrors": true,
+  "files.autoSaveWorkspaceFilesOnly": true,
+
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "notebook.formatOnSave.enabled": true,
+  "editor.defaultFormatter": "ms-python.black-formatter",
+
+  "[powershell]": {
+    "editor.defaultFormatter": "ms-vscode.powershell"
+  },
+  "powershell.codeFormatting.autoCorrectAliases": true,
+  "powershell.codeFormatting.avoidSemicolonsAsLineTerminators": true,
+  "powershell.codeFormatting.pipelineIndentationStyle": "IncreaseIndentationAfterEveryPipeline",
+  "powershell.codeFormatting.trimWhitespaceAroundPipe": true,
+  "powershell.codeFormatting.useConstantStrings": true,
+  "powershell.codeFormatting.whitespaceBetweenParameters": true,
+
+  "[bicep]": {
+    "editor.defaultFormatter": "ms-azuretools.vscode-bicep"
+  },
+  "bicep.enableSurveys": false,
+
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+
+  "git.autofetch": true,
+  "git.enableSmartCommit": true,
+  "git.pruneOnFetch": true
+}
