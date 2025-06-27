@@ -32,7 +32,7 @@ window.searchData = [
   {
     "title": "Thai Hot & Sour Prawn Soup",
     "source": "Aroy.pdf",
-    "url": "recipes/Thai_Hot_&_Sour_Prawn_Soup.html",
+    "url": "recipes/Thai_Hot_Sour_Prawn_Soup.html",
     "body": "The Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\nThai Hot & Sour Prawn Soup\n8 prawns, cleaned (keep shell on)\n5 oyster mushrooms, cut into slices\n2 tomatoes, cut into chunks\n3 red onion, cut into 8ths\n5 crushed green chillies\n1 stalk lemongrass, cut into thin pieces and crushed\n4 slices galangal/ginger (half of each),\n4  lime leaves, sliced thin\n1/2 cup spring onion, chopped\nHandful of chopped coriander\n2 cups chicken stock, 1 cup water\n1 tbsp lime juice\n1 tbsp fish sauce\nSunflower oil for frying\nIn a medium saucepan, on medium high heat, lightly pan fry the prawns until they are blushed pink on\nboth sides. Remove them from the saucepan and set aside.\nAdd chicken stock and water to the same saucepan and bring to the boil.\nAdd lemongrass, galangal/ginger, red onion, chillies and lime leaves and boil for 2-3 minutes until\nfragrant\nAdd red onion (leave your spring onion for the end), tomato, mushrooms, lime juice and fish sauce and\nboil for a further 2-3 minutes.\nAdd the prawns, along with any of the prawn juices collected, back into the soup and cook for 1-2\nminutes or until prawns are cooked through.\nGarnish with spring onion and coriander.\n"
   },
   {
@@ -56,7 +56,7 @@ window.searchData = [
   {
     "title": "CHAO SAN GU & BOK CHOY",
     "source": "Aroy.pdf",
-    "url": "recipes/CHAO_SAN_GU_&_BOK_CHOY.html",
+    "url": "recipes/CHAO_SAN_GU_BOK_CHOY.html",
     "body": "2 tbsp (30g) dried shitake mushrooms, rinsed\nand soaked (soaking water retained)\n1 tbsp oil\n3 garlic cloves, thinly sliced\n230gms enoki or shimeji mushrooms\n80g portabellini mushrooms, washed,\ntrimmed and sliced\n2 tbsp rice wine vinegar\n3 tbsp oyster sauce\n1 tbsp soy sauce\n2 tsp sugar\n4 tbsp mushroom soaking water\n2 tbsp minced green onions (scallions)\nA few sprigs cilantro\n300gms baby bok choy (280 grams, bottoms\ntrimmed and split in half lengthwise)\n1tbsp vegetable oil\n1 teaspoon salt\nCHAO SAN GU & BOK CHOY\nSoak the shitake in warm water, once tender remove, reserve\nsoaking water. Cut larger mushrooms into 3 or 4 and leave\nsmall ones complete.\nHeat the oil in a pan and fry the garlic slivers until lightly golden,\nnow add the soaked shitake and stir fry for 1 minute.\nNow add the remaining mushrooms and continue to fry\nAdd the rice wine, soy sause and oyster sauce, sugar and 4 tbsp\nsoaking water.\nReduce the heat and cook for about 8-minutes, stirring\nconstantly, until the mushrooms are cooked and most of the\nliquid is gone. While this is happening prepare your bok choy.\nServe onto the same platter as your cooked and waiting bok\nchoy, drizlle lightly with sesame oil and garnish with chopped\nscallions and coriander\nWash your cut bok choy in a large bowl of water so the\nvegetables are fully submerged. Agitating or stirring the\nvegetables in the water will release any dirt or sand. Repeat this\nprocess another 2 times or as necessary, until the water is clean\nand there is no sand or dirt at the bottom of the bowl.\nBring 6 cups of water, 1 tablespoon vegetable oil, and 1\nteaspoon salt to a boil. Blanch the bok choy for 40 seconds,\nstirring occasionally. They should be just wilted and bright green.\nScoop out the bok choy into a bowl and pour 2 cups of cool\nwater over them. The water will stop the cooking process, but\nyou don\u2019t want your veggies to be ice cold, so pour the bok choy\ninto a colander right after they\u2019ve been submerged in the cool\nwater. Drain.\nNext, arrange the bok choy into a circle around a large serving\nplate, with a space in the middle for the mushrooms.\n"
   },
   {
@@ -86,7 +86,7 @@ window.searchData = [
   {
     "title": "Prawn & Chicken Nasi Goreng",
     "source": "Aroy.pdf",
-    "url": "recipes/Prawn_&_Chicken_Nasi_Goreng.html",
+    "url": "recipes/Prawn_Chicken_Nasi_Goreng.html",
     "body": "Prawn & Chicken Nasi Goreng\nOlive oil spray\n2 eggs, lightly whisked\n1 brown onion, finely chopped\n1 carrot, peeled, finely chopped\n2 teaspoons sambal oelek\n1 (about 200g) single chicken breast fillet, thinly sliced\n250g peeled small green prawns\n450g (3 cups) cooked white long-grain rice, chilled\n1/2 small wombok (Chinese cabbage), hard core removed, finely shredded\n200g grape tomatoes, halved\n1 tablespoon salt-reduced soy sauce\n1 Lebanese cucumber, halved, thinly sliced\nHeat a wok over high heat. Spray with olive oil spray. Add half the egg and swirl to coat the base. Cook for 30\nseconds or until just set. Transfer the omelette to a chopping board. Roll up and thinly slice. Repeat with\nremaining egg.\nHeat wok over high heat. Spray with olive oil spray. Add the onion, carrot and sambal oelek. Stir-fry for 1 minute.\nAdd the chicken and stir-fry for 2 minutes or until golden. Add the prawns. Stir-fry for 1 minute or until prawns\nchange colour.\nAdd the rice, wombok and tomato to the wok and stir-fry for 2 minutes. Add the soy sauce and stir-fry for 1-2\nminutes. Add half the omelette. Toss to combine. Divide among serving bowls. Top with cucumber and remaining\nomelette to serve.\nThe Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\n"
   },
   {
@@ -98,7 +98,7 @@ window.searchData = [
   {
     "title": "PASSION FRUIT & COCONUT",
     "source": "Aroy.pdf",
-    "url": "recipes/PASSION_FRUIT_&_COCONUT.html",
+    "url": "recipes/PASSION_FRUIT_COCONUT.html",
     "body": "1 cup passionfruit puree\n1 can (400ml) coconut milk\n1 can (400gms) condensed milk\n1 cup heavy cream\n\u00bc cup milk powder\nBlend all the ingredients together in a blender till well combined.\nTransfer to ice cream maker and freeze according to the\nmanufacturer's instructions.\nTo make this ice cream without an ice cream maker, after you\nhave blended all the ingredients, either transfer it in into the\ncontainer that you plan to freeze the ice cream in, or if you have\nenough freezer space leave the blended ice cream in the\nblender. After 45min- 1 hour check on it and if you see the\nmixture freezing at the edges, remove from freezer and give it a\nwhizz. Repeat process 3-4 times and then transfer to the\ncontainer you want the ice cream to freeze in and let freeze\ncompletely.\nPASSION FRUIT & COCONUT\nICECREAM\n"
   },
   {
@@ -260,7 +260,7 @@ window.searchData = [
   {
     "title": "Chili & Cumin Marinade",
     "source": "Brasiliano 2024.pdf",
-    "url": "recipes/Chili_&_Cumin_Marinade.html",
+    "url": "recipes/Chili_Cumin_Marinade.html",
     "body": "The Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\nChili & Cumin Marinade\n70g red chillies, deseeded and roughly chopped \n5-6 garlic cloves\n3 tbsp rice wine vinegar\n2 tbsp red wine vinegae\n2 tsp fine salt\n1 heaped teaspoon toasted cumin seeds \n1/2 tsp dry oregano\n60ml olive oil\nPlace all your ingredients into a small food processor or mortar and pestle and blend till smooth.\n"
   },
   {
@@ -296,7 +296,7 @@ window.searchData = [
   {
     "title": "BRASILIAN COCONUT &",
     "source": "Brasiliano 2024.pdf",
-    "url": "recipes/BRASILIAN_COCONUT_&.html",
+    "url": "recipes/BRASILIAN_COCONUT.html",
     "body": "The Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\nBRASILIAN COCONUT & \nCHICK PEA CURRY\n1.5 tbsp olive oil\n1 onion , finely chopped\n2 garlic cloves , minced\n1 red capsicum/bell peppers , cut into 3 x 0.75cm \nstrips\n2 cans chickpeas , drained\n400ml coconut milk , full fat for best flavour \n400ml can crushed tomato\n1 cup (250ml) chicken or vegetable stock/broth , low \nsodium\n1 tbsp paprika\n1 tbsp cumin\n1/2 - 1 tsp cayenne pepper (adjust spiciness to \ntaste)\n1.5 tsp sugar\n0.5 tsp salt\n50g baby spinach leaves (or kale)\nFINISHING & SERVING:\n3 tbsp coriander cilantro , roughly chopped, plus \nmore for serving)\n1 tbsp lime juice , plus extra wedges for serving\nStep 1:  Heat oil in a pot or large deep skillet over \nhigh heat. Add garlic and onion, cook for 1 \nminute.\nStep 2:  Add capsicum, cook for 2 minutes until \nonion is translucent and slightly golden on \nedges.\nStep 3:  Add remaining Curry ingredients except \nbaby spinach. Stir, bring to simmer then lower to \nmedium low so it's simmering gently.\nStep 4:  Simmer 12 - 15 minutes until it changes \nfrom pale pink to an orangey red colour.\nStep 5:  Stir in spinach until just wilted, then stir in \ncoriander and lime juice. Add more salt it \nneeded.\nStep 6:  Serve over rice with a dollop of yogurt, \nextra sprinkle of coriander and squeeze of lime \n(don't go overboard, I often do and it's too sour!)\n"
   },
   {
@@ -338,7 +338,7 @@ window.searchData = [
   {
     "title": "Grilled Lemon & Chicken Skewers",
     "source": "Coming Home.pdf",
-    "url": "recipes/Grilled_Lemon_&_Chicken_Skewers.html",
+    "url": "recipes/Grilled_Lemon_Chicken_Skewers.html",
     "body": "Grilled Lemon & Chicken Skewers\n800gms, skinless deboned chicken thighs, trimmed of excess fat\n1 teaspoon salt\n2 Tbsp plain yogurt\n2 cloves garlic, minced (about 2 teaspoons)\n1 Tbsp minced fresh oregano\n1/2 teaspoons dried oregano\n1/8 teaspoon freshly ground black pepper\n1 teaspoon lemon juice\n1 Tbsp olive oil plus more for the grill\n2 lemons, thinly sliced\nIf using bamboo or wooden skewers, place them in water to soak while you prepare the recipe. You'll need either 4 flat skewers or 8\nregular round skewers.\nCut the chicken thigh into even chunks, then place in a bowl and sprinkle with salt. Add the yogurt, minced garlic, oregano, pepper, lemon\njuice, and olive oil to the bowl with the chicken, stir to combine. Marinate for 30 minutes to an hour - the longer the better.\nThread skewers with chicken and lemon slices: Prepare your grill for direct high heat. While the grill is heating, prepare the skewers. Use\neither flat bamboo or metal skewers or double up regular bamboo skewers so that the chicken is easier to turn on the grill. Thread the\nchicken pieces onto the skewers with a lemon slice folded over like a taco between each piece of chicken.\nWhen the grill is ready brush the grill grates with a little olive oil (use a paper towel folded over several times and dipped in olive oil, hold\nwith tongs). Brush some olive oil over the chicken skewers as well. Place the chicken skewers directly over the hottest part of the grill and\ncover the grill.\nAllow to sear on one side (about 2 to 3 minutes), then turn the chicken skewers over to the other side, cover and cook 2 to 3 minutes more,\nuntil the chicken is browned and just cooked through.\nRemove from grill and serve immediately with tzatziki sauce.\nThe Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\n"
   },
   {
@@ -350,7 +350,7 @@ window.searchData = [
   {
     "title": "GREEK ZUCCHINI & FETA SALAD",
     "source": "Coming Home.pdf",
-    "url": "recipes/GREEK_ZUCCHINI_&_FETA_SALAD.html",
+    "url": "recipes/GREEK_ZUCCHINI_FETA_SALAD.html",
     "body": "4-5 cups diced zucchini from 1.5 lbs whole\nzucchini\n4 oz crumbled feta cheese\n15 ounce can chickpeas drained and rinsed\n1/3 cup chopped kalamata olives\n1/4 cup chopped shallot or red onion\n1/2 cup chopped parsley\n2 tbsp fresh lemon juice\n1/4 cup extra virgin olive oil\n1/2 tsp salt\n1/4 tsp pepper or to taste\nGREEK ZUCCHINI & FETA SALAD\nMix together all ingredients.\nAdjust seasoning as desired. Enjoy!\n"
   },
   {
@@ -428,13 +428,13 @@ window.searchData = [
   {
     "title": "ROASTED CHERRY TOMATO &",
     "source": "Cooking Bliss.pdf",
-    "url": "recipes/ROASTED_CHERRY_TOMATO_&.html",
+    "url": "recipes/ROASTED_CHERRY_TOMATO.html",
     "body": "300gms multicolored cherry tomatoes\n2 garlic cloves, thickly sliced\n5 tablespoons extra-virgin olive oil, plus\nmore for drizzling\nSalt & Pepper\n4 thin slices of pancetta\n32 sage leaves\n1 pound fresh ricotta cheese\n8 slices of country bread, cut 1/4-inch\nthick and toasted\nFlaky sea salt, for serving\nPreheat the oven to 190C\u00b0. In a bowl, toss the tomatoes\nwith the garlic and 1 tablespoon of the olive oil; season\nwith kosher salt and pepper. Transfer the tomatoes to one\nside of a parchment-lined baking sheet and lay the\npancetta slices out on the other side. Bake for 25 minutes,\nuntil the pancetta is crisp. Transfer the pancetta to paper\ntowels to drain, then crumble.\nRoast the tomatoes for about 10 more minutes, until\nbursting and lightly caramelized. Transfer the tomatoes and\nany rendered fat from the pancetta to a bowl.\nMeanwhile, in a small skillet, heat the remaining 1/4 cup\nof olive oil over moderately high heat. Add the sage and fry\nuntil bright green and crisp, 30 to 45 seconds. Drain the\nsage on paper towels; reserve the oil for another use.\nSpread the ricotta on the toasts and top with the tomatoes\nand crumbled pancetta. Drizzle with olive oil, sprinkle with\nsea salt and pepper and top the toasts with the sage\nleaves. Serve immediately.\nROASTED CHERRY TOMATO &\nRICOTTA BRUSCHETTA\n"
   },
   {
     "title": "GRILLED NECTARINE &",
     "source": "Cooking Bliss.pdf",
-    "url": "recipes/GRILLED_NECTARINE_&.html",
+    "url": "recipes/GRILLED_NECTARINE.html",
     "body": "GRILLED NECTARINE &\nMOZARELLA SALAD\n15g unsalted butter\n2 tbsp caster sugar\n50g whole pecans\n3 ripe nectarines, stoned and cut into eighths\nlengthways\n4 tbsp extra virgin olive oil, plus extra for\nbrushing\n2 tbsp balsamic vinegar\n1 tsp honey\n2 x 100g balls of fresh mozarella\n70g rocket\nbunch of basil leaves, roughly torn\npinch of chilli flakes\nHeat the butter and sugar in a small frying pan over a medium\nheat until the butter has melted. Add the pecans and stir to coat\nin the buttery sugar. Continue to cook for about 5 mins, stirring\nuntil the pecans are crisp and caramelised. Tip out onto a sheet\nof baking parchment and leave to cool. Once cooled, roughly\nchop and set aside.\nHeat a griddle pan over a high heat and generously brush the\nnectarine slices with some olive oil. Griddle for 1-2 mins on each\nside until charred and caramelised. Remove to a serving platter\nand set aside.\nWhisk the 4 tbsp olive oil, vinegar and honey together with some\nseasoning to make a dressing.\nScatter the rocket and basil across the base of your serving plate,\nthen nestle the charrred nectarine before tearing the balls of\nmozzarella and dotting across the salad. Drizzle over the\ndressing, scatter with the pecans and sprinkle with a pinch of\nchilli flakes to serve.\n"
   },
   {
@@ -464,7 +464,7 @@ window.searchData = [
   {
     "title": "STEAK & CAFE AU LAIT",
     "source": "Cooking Bliss.pdf",
-    "url": "recipes/STEAK_&_CAFE_AU_LAIT.html",
+    "url": "recipes/STEAK_CAFE_AU_LAIT.html",
     "body": "STEAK & CAFE AU LAIT \nSAUCE\n3 Tbsp (45 ml), medium ground coffee beans \n2 Tbsp (30 ml) sea salt\n1 Tbsp (15 ml) paprika\n1 Tbsp (15 ml) brown sugar\n1 Tbsp (15 ml) ground garlic\n1 Tbsp (15 ml) onion powder\n1 Tbsp (15 ml) mustard powder\n1 Tbsp (15 ml) cumin\n1-2 tsp (5-10 ml) chilli powder\n1 tsp (5 ml) black pepper\nSunflower oil\n4 x 250 g centre cut fillet steaks \na big knob of butter\n2 garlic cloves, whole but squashed \na big spring of thyme\nMix the rub ingredients together well set aside until ready to use.\nAdd the cream and ground coffee to a small saucepan over medium heat and stir to combine. Bring the \ncream to a boil and then simmer for 1 minute before removing from the heat. Allow the cream to infuse for 15 \nminutes then strain the cream through a very fine sieve or a piece of muslin cloth. Set the coffee cream aside until \nready to use.\nMelt the butter in a large frying pan over a medium-high heat. Fry the mushrooms for 3-4 minutes until \ngolden brown, then remove the mushrooms from the pan a set aside.\nAdd the coffee cream and stock to the pan and bring to a boil. Simmer for a 5-7 minutes to reduce and \nthicken.  Then add the mushrooms, thyme and chives to the cream and stir gently to combine. Season with salt \nand pepper and turn off the heat. Reheat the sauce when you are ready to serve your steaks.\nPat the fillet steaks dry and then season with coffee rub. Drizzle with canola oil and set aside.\nHeat a large cast iron pan over high heat until the pan begins to smoke. Carefully place the oiled steaks \ninto the pan and cook for 1 minute. Flip the steaks and cook for another minute then add the butter, thyme and \ngarlic.\nCarefully tilt the pan and baste the steaks with the foaming, melted butter. Continue cooking the steaks \nfor 1 minute a side and basting with every flip for a total of 3-4 minutes a side depending on how you like your \nsteak.\nRest the steaks for at least 10-minutes, then serve with warm caf\u00e9 au lait mushroom sauce.\n375 ml fresh cream\n1\u00bd Tbsp freshly ground coffee\na knob of butter\n150 g shiitake and shimeji mushroom \nmix\n125 ml good quality beef stock\n1 Tbsp fresh thyme, chopped\n1 Tbsp chives, chopped\nsea salt and freshly ground pepper\n"
   },
   {
@@ -476,7 +476,7 @@ window.searchData = [
   {
     "title": "Sage & Butternut Risotto",
     "source": "Cooking Bliss.pdf",
-    "url": "recipes/Sage_&_Butternut_Risotto.html",
+    "url": "recipes/Sage_Butternut_Risotto.html",
     "body": "The Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\nSage & Butternut Risotto\nPaul Maciel - The Cookery\n6-8\n800gms butternut\n3tbsp butter\n1/4 cup olive oil\n4 cloves of garlic\n8 cups vegetable stock\n1/4 cup olive oil\n1 medium onion, diced\n1 stick of celery, finely chopped\n1 carrot, finely chopped\nSalt and pepper\n2 cups arborio rice\n1 cup dry white wine\n1 tablespoon flat leaf parsley, chopped\n4 tablespoons cold butter\n1/2 cup Parmesan, finely grated\n1. Preheat the oven to 200C. Now cut the butternut into 2cm cube pieces. Add to a roasting pan, dot with the butter, drizzle with olive oil.\nNow add the finely chopped thyme, salt, pepper and the whole pieces of garlic.\n2. Bake the butternut in the centre of the oven for 30-40 minutes, until it is charred and caramelised.\n3. Heat the oil in a large saucepan over medium heat; add onion, carrot and celery and season with salt and pepper; add some of the\nroasted garlic from the butternut, and cook until slightly translucent. Cook until the vegetable mix has cooked and softened but not\nbrowned.\n4. Now add a third of the roasted butternut, and stir to coat with oil. Cook for one minute.\n5. Add the rice and stir to coat with the oil; season with salt and pepper and cook until slightly translucent.\n6. The rice should be hot and sizzling, you should stir carefully to ensure it does not stick.\n7 . Add wine to the hot rice, the liquid should hiss and be quickly absorbed. Stir gently until almost all the liquid has cooked off. Add hot\nstock and broth mixture, a ladleful at a time, completely stirring in the liquid each time. Remember at this stage you are trying to coax the\nstarches out the rice by gently and continuosly stirring.\n8. Keep adding broth as needed so there is always a 1/2cm liquid layer over the rice.\n9. After about 8 minutes add another third of the roasted butternut.\n10. After 15 to 20 minutes, the rice should be close to al dente.\n11. At this stage add the remaining butternut and stir to combine well.\n12. Taste and adjust seasoning, remember the butternut is sweet. Remove from heat and stir in butter, then cheese.\n13. Now cover the pan, and allow it to stand for 2-3minutes.\n14. While the risotto is standing, heat the remaining butter, and olive oil until hot. Then add the washed and dried sage leaves. Cook for\nabout 60 seconds until the leaves have crisped, remove from heat.\nTo serve, spoon risotto into shallow bowls, add a crispy sag leaf and some of the sage flavoured butter, a shave of Parmesan and enjoy.\n4tbsp butter\n2tbsp olive oil\n20 fresh sage leaves\n"
   },
   {
@@ -512,7 +512,7 @@ window.searchData = [
   {
     "title": "GREEN BEAN, OLIVE & FETA",
     "source": "Cooking Bliss.pdf",
-    "url": "recipes/GREEN_BEAN,_OLIVE_&_FETA.html",
+    "url": "recipes/GREEN_BEAN_OLIVE_FETA.html",
     "body": "INGREDIENTS\nWater\n450gms green beans, trimmed\nSalt and pepper, to taste\nCrushed red pepper flakes, optional, to taste\n100gms quality crumbled feta cheese, to \ntaste\n2 tbsp (or more to your liking) pitted olives, \nchopped\nHandful of cherry tomatoes, cut in half\nFor dressing \n2 tbsp extra virgin olive oil\n2 tbsp freshly squeezed lemon juice\n1 to 2 garlic cloves, minced\n2 tbsp chopped fresh dill\n1/2 tsp sweet Spanish paprika\nSalt and pepper, to taste\nINSTRUCTIONS\nStep 1:  Prepare dressing. In a small bowl, whisk together \nextra virgin olive oil, lemon juice, garlic, fresh dill, Spanish \npaprika, pinch of salt and pepper. Set aside for now.\nStep 2:   Bring a large pot filled with water to a boil. Add green \nbeans. Cook for 5 minutes, then, keep the pot of boiling water \ngoing, but using tongs, transfer green beans to an ice bath (a \nbowl of ice and ice cold water) for 5 minutes. Return beans to \nboiling water to finish cooking until tender, about 10 more \nminutes or so.  Drain well.\nStep 3:   Transfer warm beans to a mixing bowl.   Add the \nchopped tomatoes, toss with a little salt and pepper. Give the \ndressing a quick stir to combine well, then pour over the green \nbeans. Toss again to coat.\nStep 4:   Transfer to a serving platter. Sprinkle crushed pepper \nflakes and crumbled feta. Top with chopped olives. Serve at \nroom temperature.\nGREEN BEAN, OLIVE & FETA \nSALAD\n"
   },
   {
@@ -524,7 +524,7 @@ window.searchData = [
   {
     "title": "Seasonings (optional):",
     "source": "Cooking Bliss.pdf",
-    "url": "recipes/Seasonings_(optional):.html",
+    "url": "recipes/Seasonings_optional.html",
     "body": "4 CHEESE BAKED PASTA\n250 g (elbow pasta)\n1 tbsp unsalted butter\n2/3 cup panko breadcrumbs\n2 tbsp unsalted butter\n1/4 tsp salt\n60 g unsalted butter\n1/3 cup plain flour (all purpose flour)\n3-4 cups milk, warmed\n200g grated cheese (cheddar/gruyere)\n100g grated mozzarella cheese, or more other cheese of choice (Note 2)\n3/4 tsp salt\nSeasonings (optional):\n\u00bd tsp mustard powder\n1 tsp black truffle paste\n100gm pancetta, cut into cubes, and dry fried until crispy\nPreheat oven to 180C/350F.\nBring a large pot of water to the boil. Add macaroni and cook per packet directions MINUS 1 minute.\nDrain, return pasta to pot, add butter and toss until melted. Set aside to cool while making the Sauce\nMix together Topping. Set aside.\nIn a large saucepan or in an ovenproof skillet, melt butter over medium heat. Add flour and cook, stirring\nconstantly, for 1 minute.\nAdd about 1 cup of the milk and mix to dissolve the paste into the milk. Then add remaining milk and mix\nuntil lump free (use whisk if required).\nMix in salt and Seasonings if using.\nCook, stirring/whisking regularly, for 5 - 8 minutes until thickened to a cream consistency. When the Sauce\ncoats the back of a wooden spoon, you should be able to draw a path with your finger.\nRemove from stove, add the crisp pancetta pieces, truffle paste and cheese and stir - the cheese doesn't\nneed to melt. Taste and adjust salt to taste.\nPour Sauce into pot with Macaroni. Stir quickly, then pour back into the skillet or a baking dish. Sprinkle with\nbreadcrumb topping.\n"
   },
   {
@@ -590,7 +590,7 @@ window.searchData = [
   {
     "title": "ASPARAGUS, PEA & BABY",
     "source": "Cucina di Primavera.pdf",
-    "url": "recipes/ASPARAGUS,_PEA_&_BABY.html",
+    "url": "recipes/ASPARAGUS_PEA_BABY.html",
     "body": "2 tablespoons unsalted butter or olive oil\n1 pound gnocchi\n10 spears asparagus, give or take, cut into 1\ninch lengths\n1 clove garlic, minced\n\u215b teaspoon red pepper flakes\njuice of \u00bd lemon\n2 tablespoons cream\n1 cup fresh or frozen peas\n100g baby spinach (couple of big handfuls)\nsalt and pepper, to taste\nIn a large pot or frying pan with a lid, heat the butter or oil on\nlow heat.\nAdd the garlic and the red pepper flakes, and fry until just\nfragrant.\nNow add the peas and asparagus and fry for 1 minute.\nAdd the lemon juice, and cream and for until slightly thickened.\nNow add the baby spinach and allow to collapse before\nadjusting seasoning\nAdd the gnocchi and some of the reserved pasta water, toss to\ncoat and serve\nASPARAGUS, PEA & BABY\nSPINACH SAUCE\n"
   },
   {
@@ -608,13 +608,13 @@ window.searchData = [
   {
     "title": "ARANCINI WITH ANCHOVY &",
     "source": "Cucina di Primavera.pdf",
-    "url": "recipes/ARANCINI_WITH_ANCHOVY_&.html",
+    "url": "recipes/ARANCINI_WITH_ANCHOVY.html",
     "body": "1 cup long-grain rice\n1 small onion\n1 stick celery finely chopped\n1 small carrot finely chopped 4 \ntbs. butter\n3 cups chicken broth\n5 tbs. grated Parmigiano\n80 gms finely diced Mozzarella \n10 - 12 anchovy fillets\n30gms parsley, chopped\n1 egg\n3 eggs \nbreadcrumbs \nnutmeg\nolive oil\nsalt\npepper\nFlour\nIn a heavy based pot saute the onion, carrot and celery \nin the butter until soft and translucent.  Then add the rice and fry \nit until it is sizzling.  Then add the hot broth slowly, stirring \nfrequently. The rice should be done in about 20 min. When the \nrice is ready, mix in half the parmesan, and then spread the rice \nout in a flat baking tray to cool.\nMix the chopped mozzarella and finely chopped \nanchovies, the rest of the parmesan, the chopped parsley, 1 egg, \nnutmeg, salt and pepper (If the mixture is a little wet add some \nmore parmesan). With slightly damp hands, take a handful of \nrice in one hand, and a pinch of stuffing with the other. Push the \nstuffing into the middle of the rice. Squeeze the rice all around \nthe stuffing and mould it into an egg shape.\nWhen you have used up all the mix, flour the croquettes, \ndip into beaten eggs, and then roll again in breadcrumbs. Fry the \nsuppli' in very hot oil, once golden and cooked through place on \npaper towel to darin and serve immediately\nARANCINI WITH ANCHOVY & \nMOZARELLA\n"
   },
   {
     "title": "GARLIC & MINT ZUCCHINI",
     "source": "Cucina di Primavera.pdf",
-    "url": "recipes/GARLIC_&_MINT_ZUCCHINI.html",
+    "url": "recipes/GARLIC_MINT_ZUCCHINI.html",
     "body": "2 courgettes (zucchinis)\n2 tablespoon extra virgin olive oil\n1 garlic clove, (peeled but not sliced)\n1 handful fresh mint\njuice of \u00bc lemon\nsalt and pepper, to taste\nInstructions\nStep 1: First, cut the zucchini into 3cm x .5cm batons.\n[Optional pre-salting the zucchini - Place the zucchini batons \nin a colander set over a bowl and liberally sprinkle salt over \nthem. Quickly mix the salt into the courgettes with your hands \nand leave for 5-10 minutes so that the salt can draw out the \njuices from the courgette. Once the batons look wet and \nglistening, rinse them under the tap in the colander to wash \naway all the salt and any juices. Then dry in a clean tea towel \nor kitchen towel.]\nStep 2:  In the meantime, slice the fresh mint thinly. \nStep 3:  Heat the oil in a large frying pan over a medium heat. \nOnce hot, add the whole garlic clove and move around in the \npan to brown on all sides and flavour the oil. Once browned, \nremove from the pan and discard (or use to flavour in \nsomething else).\nStep 4:  Add the courgette batons in one single layer. Do not \noverlap the batons. You may need to saut\u00e9 the courgette \nbatons in batches. Saut\u00e9 the courgette batons until the \nunderside is golden brown (about 2-4 minutes), then, using a \npair of kitchen tongs, turn each slice over to cook on all the \nother side. Cook until golden brown on all sides.\nStep 5:  Once cooked, add the chopped mint and a squeeze \nof lemon juice and stir over the heat for 30 seconds until the \nmint has wilted and the lemon juice is mixed into the \ncourgette batons. (If cooking in batches, add the pre-cooked \nslices back into the pan at this point and stir all together over \nthe heat). Season with salt and pepper to your taste.  Serve \nhot.\nGARLIC & MINT ZUCCHINI\n"
   },
   {
@@ -626,13 +626,13 @@ window.searchData = [
   {
     "title": "Asparagus & Pancetta Risotto",
     "source": "Cucina di Primavera.pdf",
-    "url": "recipes/Asparagus_&_Pancetta_Risotto.html",
+    "url": "recipes/Asparagus_Pancetta_Risotto.html",
     "body": "The Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\nAsparagus & Pancetta Risotto\n8 cups vegetable stock\n2tbsp olive oil\n1 medium onion, diced\n1 stick of celery, finely chopped\n1 carrot, finely chopped\n200gms, diced pancetta\n2 cups arborio rice\n1 cup white wine\n1 tablespoon flat leaf parsley, chopped\n4 tablespoons cold butter\n200gms asparagus\n150gms grated pecorino\nSalt and pepper\n1. Heat the oil in a large saucepan. Now add the diced pancetta. Fry until golden and crispy.\n2. Remove half the pancetta and reserve for later. Add onion, carrot and celery and season with salt and pepper\n4. Add the rice and stir to coat with pork fat and oil; cook until rice is slightly translucent.\n5. The rice should be hot and sizzling, you should stir carefully to ensure it does not stick.\n6. Add wine to the hot rice, the liquid should hiss and be quickly absorbed. Stir gently until almost all the liquid has cooked off. Add hot\nstock mixture, a ladleful at a time, stirring in the liquid each time.\n7. Remember at this stage you are trying to coax the starches out the rice by gently and continuously stirring. After about 10-minutes add\nthe reserved asparagus trimmings.\n8. Keep adding stock as needed so there is always a 1/2cm liquid layer over the rice.\n9. After 15 to 20 minutes, the rice should be close to al dente.\n10. At this stage add the reserved pancetta, asparagus and asparagus puree and cold butter and the finely grated cheese.\n11. Taste and adjust seasoning\n12. Now cover the pan, and allow it to stand for 2-3 minutes.\n1. Bring your vegetable stock to the boil then blanche the asparagus spears briefly in it. Remove and set aside.\n2. Trim the bottom 1cm from the asparagus and set aside to use half way through the cooking of the risotto\n3. Now cut the remaining asparagus in half, the tips will be added at the very end of cooking the risotto.\n4. To make the asparagus puree, blend the middle third of the asparagus spears with a few tablespoons of stock in a small processor\nuntil completely smooth, reserve.\n"
   },
   {
     "title": "PEAR & CHOCOLATE CAKE",
     "source": "Cucina di Primavera.pdf",
-    "url": "recipes/PEAR_&_CHOCOLATE_CAKE.html",
+    "url": "recipes/PEAR_CHOCOLATE_CAKE.html",
     "body": "INGREDIENTS\n4 large, very firm and hard pears\n170 g of '00 flour\n30 g of bitter cocoa powder\n170 g of sugar\n70 g sunflower seed oil or melted butter\n2 eggs\n125 g of berry yogurt (or classic plain yogurt) \nat room temperature\n130 g dark chocolate (in flakes or drops)\n1 sachet of vanilla or 1 teaspoon of extract\n1 sachet of baking powder\nINSTRUCTIONS\nStep 1:  To start beat eggs, sugar and vanilla for 2 minutes in \na stand mixer with a whisk attachment, until the mixture \nbecomes frothy and light. Then with your machine running \nadd the oil in a thin stream.\nStep 2:  In a second bowl, sift the flour, baking powder and \ncocao and then set aside.  \nStep 3:  Now add a third of the flour mixture to the egg \nmixture and stir until all the flour has been abosrbed, then \nadd half of the yoghurt mixture and stir until combine.\nStep 4:  Repeat with the last half of the flour and then the \nbalance of the yoghurt.  Finally add the chocolate pieces, \nreserving a few to use on top.\nStep 5:  Now peal your pears and cut them into 3 mm thick \nslices, and set aside, it is important that the pears are firm.\nStep 6:  Now add your cake butter into a greased and lined \n24cm, baking tin\nStep 7:  Now add the sliced pears into the batter, place them \nin upright so that they create interest, some slices can be \npushed all the way into the batter and others you can keep \nsticking out partially.\nStep 8:  The trick is to creating a beautiful design of pear and \nchocolate cake is to not to push the pears below the surface\nStep 9:  Finally add the reserved chocolate pieces over the top\nStep 10:  Bake in a preheated oven at 180\u00b0 for 40 \u2013 45 \nminutes. The time is indicative and may vary depending on \nthe oven!\nStep 11:  The  pear and chocolate cake is ready when it has \nrisen and a toothpick inserted comes out dry!\nPEAR & CHOCOLATE CAKE\n"
   },
   {
@@ -662,7 +662,7 @@ window.searchData = [
   {
     "title": "Arancini - Suppli\u2019 di Riso",
     "source": "Divora L'inverno.pdf",
-    "url": "recipes/Arancini_-_Suppli\u2019_di_Riso.html",
+    "url": "recipes/Arancini_-_Suppli_di_Riso.html",
     "body": "The Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\nArancini - Suppli\u2019 di Riso\nLittle Oranges - small crisp deep fried rice balls\n1 cup long-grain rice\n1 small onion\n1 stick celery finely chopped\n1 small carrot finely chopped\n4 tbs. butter\n3 cups chicken broth\n5 tbs. grated Parmigiano\n80 gms finely diced Mozzarella\n80 gms finely diced prosciutto\n30gms parsley, chopped\n4 eggs\nbreadcrumbs\nnutmeg\nolive oil\nsalt\npepper\nFlour\nIn a heavy based pot saute the onion, carrot and celery in the butter until soft and translucent. Then add the rice\nand fry it until it is sizzling. Then add the hot broth slowly, stirring frequently. The rice should be done in about 20\nmin. When the rice is ready, mix in half the parmesan, and then spread the rice out in a flat baking tray to cool.\nMix the chopped mozzarella and prosciutto, the rest of the parmesan, the chopped parsley, 1 egg, nutmeg, salt\nand pepper (If the mixture is a little wet add some more parmesan). With slightly damp hands, take a handful of\nrice in one hand, and a pinch of stuffing with the other. Push the stuffing into the middle of the rice. Squeeze the\nrice all around the stuffing and mould it into an egg shape.\nWhen you have used up all the mix, flour the croquettes, dip into beaten eggs, and then roll again in\nbreadcrumbs. Fry the suppli' in very hot oil, once golden and cooked through place on paper towel to darin and\nserve immediately.\n"
   },
   {
@@ -674,7 +674,7 @@ window.searchData = [
   {
     "title": "PEAR, WALNUT SALAD",
     "source": "Divora L'inverno.pdf",
-    "url": "recipes/PEAR,_WALNUT_SALAD.html",
+    "url": "recipes/PEAR_WALNUT_SALAD.html",
     "body": "PEAR, WALNUT SALAD\n200g mixed lettuce (arugula, romaine, etc.)\n1 ripe pear - unpeeled, cored, sliced\n55g walnuts, roughly chopped\n55g Pecorino Romano cheese, shaved\nVinaigrette\n2 tablespoon white wine vinegar\n1/2 teaspoon mustard\n1/2 tsp finely minced garlic\n6 tablespoons olive oil\nTo make the vinaigrette, combine, vinegar, mustard and garlic. Whisk till well combined. While whisking constantly,\nslowly pour in a steady stream of the olive oil.\nPrepare the remaining ingredients, toss the vinaigrette with them and serve.\nThe Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\n"
   },
   {
@@ -686,13 +686,13 @@ window.searchData = [
   {
     "title": "Green Beans & Tomatoes",
     "source": "Divora L'inverno.pdf",
-    "url": "recipes/Green_Beans_&_Tomatoes.html",
+    "url": "recipes/Green_Beans_Tomatoes.html",
     "body": "Green Beans & Tomatoes\n300g rip fresh tomatoes \n500g fine green beans\n2 garlic cloves\n2 tbsp fresh basil leaves\nExtra virgin olive oil as needed\nSkin the tomatoes and the cut in half removing the seeds and juice.\nTrim the stalk end from the green beans, peel and finely slice the garlic.\nHeat 2 tbsp olive oil in a thick bottomed pan, and lightly brow the garlic.  Add the tomatoes, season, cover and \ncook for 15-minutes on a medium heat.\nBoil the beans in well salted water until just soft about 7-10 minutes.  Drain then stir into the tomato sauce.\nSeason with salt & pepper, drizzle with olive oil and the roughly torn basil leaves and serve.\nThe Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\n"
   },
   {
     "title": "GARLIC & MINT ZUCCHINI",
     "source": "Divora L'inverno.pdf",
-    "url": "recipes/GARLIC_&_MINT_ZUCCHINI.html",
+    "url": "recipes/GARLIC_MINT_ZUCCHINI.html",
     "body": "2 courgettes (zucchinis)\n2 tablespoon extra virgin olive oil\n1 garlic clove, (peeled but not sliced)\n1 handful fresh mint\njuice of \u00bc lemon\nsalt and pepper, to taste\nInstructions\nStep 1: First, cut the zucchini into 3cm x .5cm batons.\n[Optional pre-salting the zucchini - Place the zucchini batons \nin a colander set over a bowl and liberally sprinkle salt over \nthem. Quickly mix the salt into the courgettes with your hands \nand leave for 5-10 minutes so that the salt can draw out the \njuices from the courgette. Once the batons look wet and \nglistening, rinse them under the tap in the colander to wash \naway all the salt and any juices. Then dry in a clean tea towel \nor kitchen towel.]\nStep 2:  In the meantime, slice the fresh mint thinly.\nStep 3:  Heat the oil in a large frying pan over a medium heat. \nOnce hot, add the whole garlic clove and move around in the \npan to brown on all sides and flavour the oil. Once browned, \nremove from the pan and discard (or use to flavour in \nsomething else).\nStep 4:  Add the courgette batons in one single layer. Do not \noverlap the batons. You may need to saut\u00e9 the courgette \nbatons in batches. Saut\u00e9 the courgette batons until the \nunderside is golden brown (about 2-4 minutes), then, using a \npair of kitchen tongs, turn each slice over to cook on all the \nother side. Cook until golden brown on all sides.\nStep 5:  Once cooked, add the chopped mint and a squeeze \nof lemon juice and stir over the heat for 30 seconds until the \nmint has wilted and the lemon juice is mixed into the \ncourgette batons. (If cooking in batches, add the pre-cooked \nslices back into the pan at this point and stir all together over \nthe heat). Season with salt and pepper to your taste.  Serve \nhot.\nGARLIC & MINT ZUCCHINI\n"
   },
   {
@@ -704,7 +704,7 @@ window.searchData = [
   {
     "title": "Polenta (Gucci Pap)",
     "source": "Divora L'inverno.pdf",
-    "url": "recipes/Polenta_(Gucci_Pap).html",
+    "url": "recipes/Polenta_Gucci_Pap.html",
     "body": "The Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\nPolenta (Gucci Pap)\nServe with the Cacciatore\n500gms polenta\n2 cloves garlic\n1,2 litre water\n500ml full cream milk\n100gms salted butter\n200gms grated parmesan\nSalt & Pepper for seasoning\nHeat the milk, water and the crushed garlic until almost hot, add 1 tsp salt and some pepper. Then stir in the\npolenta and bring to a slow simmer (be careful it can splash)\nAfter 3-minutes stir in 3/4 of the milk, the butter and parmesan. Check consistency, if too thick add more milk\nuntil you have your desired consistency.\nCheck seasononing again and serve warm with chicken cacciatore.\n"
   },
   {
@@ -788,7 +788,7 @@ window.searchData = [
   {
     "title": "Baby Carrots in Ginger & Orange",
     "source": "Do you Remember.pdf",
-    "url": "recipes/Baby_Carrots_in_Ginger_&_Orange.html",
+    "url": "recipes/Baby_Carrots_in_Ginger_Orange.html",
     "body": "The Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\nBaby Carrots in Ginger & Orange\nGlaze\n900g baby carrots, washed and scrubbed\n50g butter\n25g piece ginger, peeled and finely grated\n2 tbsp clear honey\nzest 1 orange\nBring a large pan of salted water to the boil and add the carrots. Simmer for 5 mins until slightly tender, then drain.\nIn a wide pan, heat the butter until melting, then add the carrots, ginger, honey and orange zest. Cook over a medium heat\nfor 25-30 mins, turning them gently every now and then, until the carrots start to go golden and sticky.\nTurn the carrots gently in the pan every now and again until all sides are browning. Season well before serving\n"
   },
   {
@@ -806,7 +806,7 @@ window.searchData = [
   {
     "title": "Pea & Mint Soup",
     "source": "Do you Remember.pdf",
-    "url": "recipes/Pea_&_Mint_Soup.html",
+    "url": "recipes/Pea_Mint_Soup.html",
     "body": "The Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\nPea & Mint Soup\n2 tablespoons unsalted butter\n2 cups chopped leeks, white and light green parts (2 leeks)\n1 cup chopped yellow onion\n4 cups chicken stock, preferably homemade\n5 cups freshly shelled peas or 2 (10-ounce) packages frozen peas\n2/3 cup chopped fresh mint leaves, loosely packed\n2 teaspoons salt\n1/2 teaspoon freshly ground black pepper\n1/2 cup creme fraiche\n1/2 cup freshly chopped chives\nGarlic croutons, for serving\nHeat the butter in a large saucepan, add the leeks and onion, and cook over medium-low heat for 5 to 10\nminutes, until the onion is tender.\nAdd the chicken stock, increase the heat to high, and bring to a boil. Add the peas and cook for 3 to 5\nminutes, until the peas are tender. (Frozen peas will take only 3 minutes.) Off the heat, add the mint, salt, and\npepper.\n*Puree the soup in batches: place 1 cup of soup in a blender, place the lid on top, and puree on low speed.\nWith the blender still running, open the venthole in the lid and slowly add more soup until the blender is\nthree-quarters full. Pour the soup into a large bowl and repeat until all the soup is pureed. Whisk in the\ncreme fraiche and chives and taste for seasoning. Serve hot with garlic croutons.\n"
   },
   {
@@ -830,7 +830,7 @@ window.searchData = [
   {
     "title": "BOERENKAAS & HERB",
     "source": "Do you Remember.pdf",
-    "url": "recipes/BOERENKAAS_&_HERB.html",
+    "url": "recipes/BOERENKAAS_HERB.html",
     "body": "BOERENKAAS & HERB\nGOUGERES\n5tbsp butter\n1 teaspoon salt\n1\u20444 teaspoon fresh ground black pepper\n1\u20444 teaspoon freshly ground nutmeg\n1/2 tsp finely chopped thyme\n1 tsp finely chopped flat leaf parsley\n1 cup water, plus1\u20442 teaspoon water, divided\n1 cup all-purpose flour\n1 cup grated Boerenkaas cheese\n4 large eggs, at room temperature (very important)\nAdd butter, salt, pepper and nutmeg to 1 cup water in a medium\nsaucepan and bring to a boil over medium-high heat.\nWhen butter melts, reduce the heat to low.\nAdd flour to saucepan all at once and beat with a wooden\nspoon over low heat for about a minute until mixture pulls away from\nsides of the pan.\nRemove pan from heat.\nAdd cheese to pan and beat with wooden spoon until\nthoroughly mixed.\nAdd 4 eggs, one at a time, beating each into the batter until\nwell mixed before adding the next.\nAdd the herbs and continue beating mixture until it is smooth,\nshiny and firm.\nNow in a frying pan heat sufficient oil to deep fry small balls,\nuntil 140C\nNow carefully fry small tsp size balls of batter until puffed up\nand golden and cooked through, remove with a slotted spoon and\ndrain on paper towel, sprinkle with salt and serve warm\n"
   },
   {
@@ -842,7 +842,7 @@ window.searchData = [
   {
     "title": "CHICKEN & SUNDRIED TOMATO",
     "source": "Do you Remember.pdf",
-    "url": "recipes/CHICKEN_&_SUNDRIED_TOMATO.html",
+    "url": "recipes/CHICKEN_SUNDRIED_TOMATO.html",
     "body": "CHICKEN & SUNDRIED TOMATO\nSAUSAGE ROLLS\n1kg chicken thighs, deboned and skinless,\nminced\n1 medium brown onion, chopped finely\n1/2 cup breadcrumbs\n1 egg\n1/4 cup finely chopped fresh basil\n1/2 tsp dried oregano\n1/2  cup drained semi-dried tomatoes in oil,\nfinely chopped\n2 tbsp tomato paste\n5 sheets puff pastry\n1 egg, extra to glaze\nPreheat the oven to 220C/200C fan forced.  Line oven trays with\nbaking paper\nCombine mince, onion, breadcrumbs, egg, basil, semi-dried\ntomato and paste in a large bowl\nCut pastry sheets in half lengthways.  Place equal amounts of\nchicken filling mixture along the centre of each pastry piece; roll\npastry to enclose the filling\nCut each into 6 equal pieces, place seam side down, on trays..\nBrush with extra egg\nBake rolls for about 30-minutes.  Serve warm with a home made\ntomato sauce\nThe Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\n"
   },
   {
@@ -854,13 +854,13 @@ window.searchData = [
   {
     "title": "Asparagus & Pancetta Risotto",
     "source": "Do you Remember.pdf",
-    "url": "recipes/Asparagus_&_Pancetta_Risotto.html",
+    "url": "recipes/Asparagus_Pancetta_Risotto.html",
     "body": "The Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\nAsparagus & Pancetta Risotto\n8 cups vegetable stock\n2tbsp olive oil\n1 medium onion, diced\n1 stick of celery, finely chopped\n1 carrot, finely chopped\n200gms, diced pancetta\n2 cups arborio rice\n1 cup white wine\n1 tablespoon flat leaf parsley, chopped\n4 tablespoons cold butter\n200gms asparagus\n150gms grated pecorino\nSalt and pepper\n1.  Heat the oil in a large saucepan.  Now add the diced pancetta.  Fry until golden and crispy.\n2.  Remove half the pancetta and reserve for later.  Add onion, carrot and celery and season with salt and pepper\n4.  Add the rice and stir to coat with pork fat and oil; cook until rice is slightly translucent.\n5.  The rice should be hot and sizzling, you should stir carefully to ensure it does not stick.\n6.  Add wine to the hot rice, the liquid should hiss and be quickly absorbed.  Stir gently until almost all the liquid has cooked off. Add hot\nstock mixture, a ladleful at a time, stirring in the liquid each time.\n7.  Remember at this stage you are trying to coax the starches out the rice by gently and continuously stirring.  After about 10-minutes add\nthe reserved asparagus trimmings.\n8.  Keep adding stock  as needed so there is always a 1/2cm liquid layer over the rice.\n9.  After 15 to 20 minutes, the rice should be close to al dente.\n10.  At this stage add the reserved pancetta, asparagus and asparagus puree and cold butter and the finely grated cheese.\n11.  Taste and adjust seasoning\n12.  Now cover the pan, and allow it to stand for 2-3 minutes.\n1.  Bring your vegetable stock to the boil then blanche the asparagus spears briefly in it.  Remove and set aside.\n2.  Trim the bottom 1cm from the asparagus and set aside to use half way through the cooking of the risotto\n3.  Now cut the remaining asparagus in half, the tips will be added at the very end of cooking the risotto.\n4.  To make the asparagus puree, blend the middle third of the asparagus spears with a few tablespoons of stock in a small processor\nuntil completely smooth, reserve.\n"
   },
   {
     "title": "CHAO SAN GU & BOK CHOY",
     "source": "Eat Asia.pdf",
-    "url": "recipes/CHAO_SAN_GU_&_BOK_CHOY.html",
+    "url": "recipes/CHAO_SAN_GU_BOK_CHOY.html",
     "body": "2 tbsp (30g) dried shitake mushrooms, rinsed\nand soaked (soaking water retained)\n1 tbsp oil\n3 garlic cloves, thinly sliced\n230gms enoki or shimeji mushrooms\n80g portabellini mushrooms, washed,\ntrimmed and sliced\n2 tbsp rice wine vinegar\n3 tbsp oyster sauce\n1 tbsp soy sauce\n2 tsp sugar\n4 tbsp mushroom soaking water\n2 tbsp minced green onions (scallions)\nA few sprigs cilantro\n300gms baby bok choy (280 grams, bottoms\ntrimmed and split in half lengthwise)\n1tbsp vegetable oil\n1 teaspoon salt\nCHAO SAN GU & BOK CHOY\nSoak the shitake in warm water, once tender remove, reserve\nsoaking water. Cut larger mushrooms into 3 or 4 and leave\nsmall ones complete.\nHeat the oil in a pan and fry the garlic slivers until lightly golden,\nnow add the soaked shitake and stir fry for 1 minute.\nNow add the remaining mushrooms and continue to fry\nAdd the rice wine, soy sause and oyster sauce, sugar and 4 tbsp\nsoaking water.\nReduce the heat and cook for about 8-minutes, stirring\nconstantly, until the mushrooms are cooked and most of the\nliquid is gone. While this is happening prepare your bok choy.\nServe onto the same platter as your cooked and waiting bok\nchoy, drizlle lightly with sesame oil and garnish with chopped\nscallions and coriander\nWash your cut bok choy in a large bowl of water so the\nvegetables are fully submerged. Agitating or stirring the\nvegetables in the water will release any dirt or sand. Repeat this\nprocess another 2 times or as necessary, until the water is clean\nand there is no sand or dirt at the bottom of the bowl.\nBring 6 cups of water, 1 tablespoon vegetable oil, and 1\nteaspoon salt to a boil. Blanch the bok choy for 40 seconds,\nstirring occasionally. They should be just wilted and bright green.\nScoop out the bok choy into a bowl and pour 2 cups of cool\nwater over them. The water will stop the cooking process, but\nyou don\u2019t want your veggies to be ice cold, so pour the bok choy\ninto a colander right after they\u2019ve been submerged in the cool\nwater. Drain.\nNext, arrange the bok choy into a circle around a large serving\nplate, with a space in the middle for the mushrooms.\n"
   },
   {
@@ -890,13 +890,13 @@ window.searchData = [
   {
     "title": "Prawn & Chicken Nasi Goreng",
     "source": "Eat Asia.pdf",
-    "url": "recipes/Prawn_&_Chicken_Nasi_Goreng.html",
+    "url": "recipes/Prawn_Chicken_Nasi_Goreng.html",
     "body": "Prawn & Chicken Nasi Goreng\nOlive oil spray\n2 eggs, lightly whisked\n1 brown onion, finely chopped\n1 carrot, peeled, finely chopped\n2 teaspoons sambal oelek\n1 (about 200g) single chicken breast fillet, thinly sliced\n250g peeled small green prawns\n450g (3 cups) cooked white long-grain rice, chilled\n1/2 small wombok (Chinese cabbage), hard core removed, finely shredded\n200g grape tomatoes, halved\n1 tablespoon salt-reduced soy sauce\n1 Lebanese cucumber, halved, thinly sliced\nHeat a wok over high heat. Spray with olive oil spray. Add half the egg and swirl to coat the base. Cook for 30\nseconds or until just set. Transfer the omelette to a chopping board. Roll up and thinly slice. Repeat with\nremaining egg.\nHeat wok over high heat. Spray with olive oil spray. Add the onion, carrot and sambal oelek. Stir-fry for 1 minute.\nAdd the chicken and stir-fry for 2 minutes or until golden. Add the prawns. Stir-fry for 1 minute or until prawns\nchange colour.\nAdd the rice, wombok and tomato to the wok and stir-fry for 2 minutes. Add the soy sauce and stir-fry for 1-2\nminutes. Add half the omelette. Toss to combine. Divide among serving bowls. Top with cucumber and remaining\nomelette to serve.\nThe Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\n"
   },
   {
     "title": "PASSION FRUIT & COCONUT",
     "source": "Eat Asia.pdf",
-    "url": "recipes/PASSION_FRUIT_&_COCONUT.html",
+    "url": "recipes/PASSION_FRUIT_COCONUT.html",
     "body": "1 cup passionfruit puree\n1 can (400ml) coconut milk\n1 can (400gms) condensed milk\n1 cup heavy cream\n\u00bc cup milk powder\nBlend all the ingredients together in a blender till well combined.\nTransfer to ice cream maker and freeze according to the\nmanufacturer's instructions.\nTo make this ice cream without an ice cream maker, after you\nhave blended all the ingredients, either transfer it in into the\ncontainer that you plan to freeze the ice cream in, or if you have\nenough freezer space leave the blended ice cream in the\nblender. After 45min- 1 hour check on it and if you see the\nmixture freezing at the edges, remove from freezer and give it a\nwhizz. Repeat process 3-4 times and then transfer to the\ncontainer you want the ice cream to freeze in and let freeze\ncompletely.\nPASSION FRUIT & COCONUT\nICECREAM\n"
   },
   {
@@ -998,7 +998,7 @@ window.searchData = [
   {
     "title": "CHAO SAN GU & BOK CHOY",
     "source": "Escape to the South East.pdf",
-    "url": "recipes/CHAO_SAN_GU_&_BOK_CHOY.html",
+    "url": "recipes/CHAO_SAN_GU_BOK_CHOY.html",
     "body": "2 tbsp (30g) dried shitake mushrooms, rinsed\nand soaked (soaking water retained)\n1 tbsp oil\n3 garlic cloves, thinly sliced\n230gms enoki or shimeji mushrooms\n80g portabellini mushrooms, washed,\ntrimmed and sliced\n2 tbsp rice wine vinegar\n3 tbsp oyster sauce\n1 tbsp soy sauce\n2 tsp sugar\n4 tbsp mushroom soaking water\n2 tbsp minced green onions (scallions)\nA few sprigs cilantro\n300gms baby bok choy (280 grams, bottoms\ntrimmed and split in half lengthwise)\n1tbsp vegetable oil\n1 teaspoon salt\nCHAO SAN GU & BOK CHOY\nSoak the shitake in warm water, once tender remove, reserve\nsoaking water. Cut larger mushrooms into 3 or 4 and leave\nsmall ones complete.\nHeat the oil in a pan and fry the garlic slivers until lightly golden,\nnow add the soaked shitake and stir fry for 1 minute.\nNow add the remaining mushrooms and continue to fry\nAdd the rice wine, soy sause and oyster sauce, sugar and 4 tbsp\nsoaking water.\nReduce the heat and cook for about 8-minutes, stirring\nconstantly, until the mushrooms are cooked and most of the\nliquid is gone. While this is happening prepare your bok choy.\nServe onto the same platter as your cooked and waiting bok\nchoy, drizlle lightly with sesame oil and garnish with chopped\nscallions and coriander\nWash your cut bok choy in a large bowl of water so the\nvegetables are fully submerged. Agitating or stirring the\nvegetables in the water will release any dirt or sand. Repeat this\nprocess another 2 times or as necessary, until the water is clean\nand there is no sand or dirt at the bottom of the bowl.\nBring 6 cups of water, 1 tablespoon vegetable oil, and 1\nteaspoon salt to a boil. Blanch the bok choy for 40 seconds,\nstirring occasionally. They should be just wilted and bright green.\nScoop out the bok choy into a bowl and pour 2 cups of cool\nwater over them. The water will stop the cooking process, but\nyou don\u2019t want your veggies to be ice cold, so pour the bok choy\ninto a colander right after they\u2019ve been submerged in the cool\nwater. Drain.\nNext, arrange the bok choy into a circle around a large serving\nplate, with a space in the middle for the mushrooms.\n"
   },
   {
@@ -1094,7 +1094,7 @@ window.searchData = [
   {
     "title": "Prawn & Chicken Nasi Goreng",
     "source": "Escape to the South East.pdf",
-    "url": "recipes/Prawn_&_Chicken_Nasi_Goreng.html",
+    "url": "recipes/Prawn_Chicken_Nasi_Goreng.html",
     "body": "Prawn & Chicken Nasi Goreng\nOlive oil spray\n2 eggs, lightly whisked\n1 brown onion, finely chopped\n1 carrot, peeled, finely chopped\n2 teaspoons sambal oelek\n1 (about 200g) single chicken breast fillet, thinly sliced\n250g peeled small green prawns\n450g (3 cups) cooked white long-grain rice, chilled\n1/2 small wombok (Chinese cabbage), hard core removed, finely shredded\n200g grape tomatoes, halved\n1 tablespoon salt-reduced soy sauce\n1 Lebanese cucumber, halved, thinly sliced\nHeat a wok over high heat. Spray with olive oil spray. Add half the egg and swirl to coat the base. Cook for 30\nseconds or until just set. Transfer the omelette to a chopping board. Roll up and thinly slice. Repeat with\nremaining egg.\nHeat wok over high heat. Spray with olive oil spray. Add the onion, carrot and sambal oelek. Stir-fry for 1 minute.\nAdd the chicken and stir-fry for 2 minutes or until golden. Add the prawns. Stir-fry for 1 minute or until prawns\nchange colour.\nAdd the rice, wombok and tomato to the wok and stir-fry for 2 minutes. Add the soy sauce and stir-fry for 1-2\nminutes. Add half the omelette. Toss to combine. Divide among serving bowls. Top with cucumber and remaining\nomelette to serve.\nThe Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\nVietnamese Lemongrass Beef Salad\nFor marinade\n2 stalks fresh lemongrass, outer leaves discarded and root end trimmed\n6 garlic cloves, minced\n2 tablespoons Asian fish sauce (preferably nuoc mam)\n1 tablespoon soy sauce\n4 teaspoons sugar\n2 tablespoons vegetable oil\n1/2 teaspoon Asian sesame oil\na 1- to-1 1/4 pound skirt steak or flank steak\n1/2 pound dried rice-stick noodles (rice vermicelli)\n1/2 cup fresh basil leaves (preferably Thai basil), washed well and spun dry\n1/2 cup fresh mint leaves, washed well and spun dry\n1/2 cup fresh coriander leaves, washed well and spun dry\nabout 1 cup Nuoc Cham (Vietnamese lime sauce)\na 1-pound seedless (European) cucumber, halved lengthwise and cut diagonally into 1/4-inch-thick slices\nabout 2 tablespoons Toasted Rice Powder\n2 to 4 small thin fresh red or green Asian chilies (1 to 2 inches long) or serrano chilies, seeded and sliced very\nthin (wear rubber gloves)\nGarnish: Thai basil, mint, or coriander sprigs\nThinly slice lower 6 inches of lemongrass stalks, discarding remainder of stalks. In a food processor or blender\nfinely grind together sliced lemongrass and garlic. Add remaining marinade ingredients and blend well.\nIn a large resealable plastic bag combine marinade and steak and seal bag, pressing out excess air. Marinate\nsteak, chilled, turning bag once or twice, at least 4 hours or overnight.\nIn a large bowl soak noodles in hot water to cover 15 minutes, or until softened and pliable.\nPrepare grill (or preheat broiler). Bring a kettle of salted water to a boil for noodles.\nDiscard marinade and grill steak on an oiled rack set 5 to 6 inches over glowing coals 3 to 5 minutes on each\nside for medium-rare. (Alternatively, steak may be broiled on rack of a broiler pan about 3 inches from heat about\nsame amount of time.) Transfer steak to a cutting board and let stand 5 minutes.\nWhile steak is cooking, drain noodles in a colander and cook in boiling water 30 seconds to 1 minute, or until\njust tender. In a colander drain noodles and rinse under cold water to stop cooking. Drain noodles well.\nIn a large bowl toss noodles with herbs and half of nuoc cham.\nDivide cucumber among 4 bowls or plates and top with noodles. Sprinkle each serving with 1 to 1 1/2\nteaspoons rice powder. Thinly slice steak on the diagonal and divide among noodles, mounding it. Sprinkle\nchilies over each serving and garnish with herb sprigs. Serve remaining nuoc cham on the side.\nThe Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\n"
   },
   {
@@ -1124,7 +1124,7 @@ window.searchData = [
   {
     "title": "PASSION FRUIT & COCONUT",
     "source": "Escape to the South East.pdf",
-    "url": "recipes/PASSION_FRUIT_&_COCONUT.html",
+    "url": "recipes/PASSION_FRUIT_COCONUT.html",
     "body": "1 cup passionfruit puree\n1 can (400ml) coconut milk\n1 can (400gms) condensed milk\n1 cup heavy cream\n\u00bc cup milk powder\nBlend all the ingredients together in a blender till well combined.\nTransfer to ice cream maker and freeze according to the\nmanufacturer's instructions.\nTo make this ice cream without an ice cream maker, after you\nhave blended all the ingredients, either transfer it in into the\ncontainer that you plan to freeze the ice cream in, or if you have\nenough freezer space leave the blended ice cream in the\nblender. After 45min- 1 hour check on it and if you see the\nmixture freezing at the edges, remove from freezer and give it a\nwhizz. Repeat process 3-4 times and then transfer to the\ncontainer you want the ice cream to freeze in and let freeze\ncompletely.\nPASSION FRUIT & COCONUT\nICECREAM\n"
   },
   {
@@ -1142,13 +1142,13 @@ window.searchData = [
   {
     "title": "CHAO SAN GU & BOK CHOY",
     "source": "Far East 2024.pdf",
-    "url": "recipes/CHAO_SAN_GU_&_BOK_CHOY.html",
+    "url": "recipes/CHAO_SAN_GU_BOK_CHOY.html",
     "body": "2 tbsp (30g) dried shitake mushrooms, rinsed\nand soaked (soaking water retained)\n1 tbsp oil\n3 garlic cloves, thinly sliced\n230gms enoki or shimeji mushrooms\n80g portabellini mushrooms, washed,\ntrimmed and sliced\n2 tbsp rice wine vinegar\n3 tbsp oyster sauce\n1 tbsp soy sauce\n2 tsp sugar\n4 tbsp mushroom soaking water\n2 tbsp minced green onions (scallions)\nA few sprigs cilantro\n300gms baby bok choy (280 grams, bottoms\ntrimmed and split in half lengthwise)\n1tbsp vegetable oil\n1 teaspoon salt\nCHAO SAN GU & BOK CHOY\u00a0\nSoak the shitake in warm water, once tender remove, reserve\nsoaking water.  Cut larger mushrooms into 3 or 4 and leave\nsmall ones complete.\nHeat the oil in a pan and fry the garlic slivers until lightly golden,\nnow add the soaked shitake and stir fry for 1 minute.\nNow add the remaining mushrooms and continue to fry\nAdd the rice wine, soy sause and oyster sauce, sugar and 4 tbsp\nsoaking water.\nReduce the heat and cook for about 8-minutes, stirring\nconstantly, until the mushrooms are cooked and most of the\nliquid is gone.  While this is happening prepare your bok choy.\nServe onto the same platter as your cooked and waiting bok\nchoy, drizlle lightly with sesame oil and garnish with chopped\nscallions and coriander\nWash your cut bok choy in a large bowl of water so the\nvegetables are fully submerged. Agitating or stirring the\nvegetables in the water will release any dirt or sand. Repeat this\nprocess another 2 times or as necessary, until the water is clean\nand there is no sand or dirt at the bottom of the bowl.\nBring 6 cups of water, 1 tablespoon vegetable oil, and 1\nteaspoon salt to a boil. Blanch the bok choy for 40 seconds,\nstirring occasionally. They should be just wilted and bright green.\nScoop out the bok choy into a bowl and pour 2 cups of cool\nwater over them. The water will stop the cooking process, but\nyou don\u2019t want your veggies to be ice cold, so pour the bok choy\ninto a colander right after they\u2019ve been submerged in the cool\nwater. Drain.\nNext, arrange the bok choy into a circle around a large serving\nplate, with a space in the middle for the mushrooms.\n"
   },
   {
     "title": "RAMEN WITH BEEF &",
     "source": "Far East 2024.pdf",
-    "url": "recipes/RAMEN_WITH_BEEF_&.html",
+    "url": "recipes/RAMEN_WITH_BEEF.html",
     "body": "RAMEN WITH BEEF &\nMUSHROOMS\n8 dried shiitake mushrooms\n2 tablespoon peanut oil\n500 gram beef strips\n4 green onions, sliced thinly\n2 clove garlic, crushed\n2 centimetre piece fresh ginger (10 grams),\ngrated\n1 litre (4 cups) beef stock\n3 cup (750 millilitres) water\n1 tablespoon light soy sauce\n2 tablespoon rice wine\n180 gram fresh ramen noodles\nPlace mushrooms in small heatproof bowl, cover with boiling\nwater; stand 20 minutes, drain. Discard stems; slice caps thinly.\nIn a large saucepan, heat half the oil; cook beef, in batches, until\nbrowned all over. Remove from pan.\nHeat remaining oil in same pan; cook half the onion with garlic\nand ginger, stirring, until onion softens. Add stock, the water,\nsauce and wine; bring to the boil.\nAdd mushrooms, beef and noodles; bring to the boil. Reduce\nheat; simmer, uncovered, about 5 minutes or until noodles are\ntender.\nDivide soup among serving bowls; sprinkle with remaining\nonion.\n"
   },
   {
@@ -1166,7 +1166,7 @@ window.searchData = [
   {
     "title": "Green Tea & Coconut Cake",
     "source": "Far East 2024.pdf",
-    "url": "recipes/Green_Tea_&_Coconut_Cake.html",
+    "url": "recipes/Green_Tea_Coconut_Cake.html",
     "body": "Green Tea & Coconut Cake\n5 eggs separated\n1 cup brown sugar, or 3/4 cup white sugar, OR 2/3 cup\nagave nectar (sugar substitute)\npinch sea salt\n1/2 cup\ncoconut oil OR canola oil\n1/3 cup coconut milk\n1 tsp. real vanilla extract\n2 tsp. baking powder\n1 cup white flour, OR light spelt flour, OR gluten-free cake flour\n3 tsp.\ngreen tea powder, such as Japanese \"macha\" (look for this at health food or Japanese import stores, or\nfollow the link to order online)\n1 tsp. or more icing sugar\nPreheat oven to 175C degrees. Prepare an angel food cake pan (or a 9-inch cake pan), either by\ngreasing it well, or lining it with parchment paper.\nCrack eggs into 2 separate mixing bowls, with the egg whites in one bowl and the yolks in another.\nBeat the egg whites until stiff, and set aside. (I use an electric hand mixer.)\nAdd the salt and sugar (or sugar substitute) to the yolks and stir well until smooth.\nAdd the coconut milk, oil, and vanilla to the yolks, and beat until mixed in (or stir it well).\nIn a 3rd bowl, stir together the flour, baking powder, and green tea powder. Now add (or sift) this into\nthe yolk mixture. Stir well or beat to incorporate. Note: the batter will turn green from the green tea - this\nis the effect you want.\nNow fold in the egg whites, stirring and mixing by hand and just until egg whites have dissolved into\nthe batter (do not overmix).\nPour the batter into the prepared pan and place in the oven for 25 to 35 minutes (depending on your\noven). Check the cake after 25 minutes by inserting a fork into the center of the cake. If it comes out\nclean, it's done. (Note: the center should form a peak - if it is concave, your cake isn't nearly finished).\nDecorate the cake with a sifting of icing sugar.  Add toasted coconut or some blueberries and mint, as\nshown, for extra health benefits. Serve warm or at room temperature and enjoy\nThe Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\n"
   },
   {
@@ -1214,19 +1214,19 @@ window.searchData = [
   {
     "title": "SPICED SALT & PEPPER SQUID",
     "source": "Far East 2024.pdf",
-    "url": "recipes/SPICED_SALT_&_PEPPER_SQUID.html",
+    "url": "recipes/SPICED_SALT_PEPPER_SQUID.html",
     "body": "SPICED SALT & PEPPER SQUID\n1 1/2 pounds squid\n(680g)\n1 tablespoon shaoxing wine\n1/2 teaspoon sesame oil\n5 cups vegetable oil (for frying; plus 1\ntablespoon)\n1/2 cup all-purpose flour\n1/2 cup semolina flour\n1/3 cup plain cornmeal\n1 teaspoon salt (plus more to taste)\n1/2 teaspoon white pepper (plus more to\ntaste)\n2 long hot green peppers (cut lengthwise and\nsliced thinly)\n5 cloves garlic (sliced)\n2 teaspoons ginger (minced)\nFirst prepare your squid. Rinse it well in cold water. Cut the squid\ninto equal sizes, having each piece be roughly the same size is\nimportant for achieving the same cooking time for each piece of\ncalamari. Drain the squid pieces in a colander and transfer to a\nbowl.\nMarinate the squid in the shaoxing wine and sesame oil. Toss\ngently and set aside.\nIn a medium deep pot, add enough oil so that the level of oil\nreaches 4 inches up the side of the pot. Heat the oil until the\ntemperature reaches 325 degrees.\nWhile you're waiting for the oil to heat, prepare your dry mixture.\nCombine the all-purpose flour, semolina flour, cornmeal, salt,\nand white pepper in a medium bowl. Set aside.\nWhen the oil reaches temperature, you're ready to start dredging\nyour squid. Work in batches of small fistfuls of calamari. Gently\nsqueeze off any liquid and dredge the squid in the dry mixture.\nUsing a long-handled sieve or slotted spoon, lower the calamari\ninto the hot oil. Gently move the calamari pieces back and forth.\nLet them fry until golden brown, about 2-2 1/2 minutes. Remove\nall the calamari and let drain on a paper-towel-lined plate. Taste\none piece of calamari for saltiness (be careful, it's hot). You can\nsprinkle more salt immediately after frying to your taste. A\nnecessary step, however, is to crack some fresh white pepper\nover the freshly fried squid.\nContinue frying in these small batches and seasoning with white\npepper until you've fried all the squid.\nNow the next phase: stir-frying the fried squid. Heat a wok over\nmedium-high heat. Add a tablespoon of vegetable oil. Add the\nginger and let it fry in the oil. After about 20 seconds, add the\ngarlic. Stir the garlic around the wok quickly in order to prevent\nburning. When the garlic gets lightly golden in color, add the\npeppers. Continue to stir fry for another 30 seconds.\nAdd the squid to the wok and stir fry quickly in the aromatic\nmixture for about a minute or so. Plate and serve immediately\nwith white rice! And don't leave those crispy pieces of garlic and\npepper behind!\n"
   },
   {
     "title": "ASIAN ORANGE & PEAR SALAD",
     "source": "Far East 2024.pdf",
-    "url": "recipes/ASIAN_ORANGE_&_PEAR_SALAD.html",
+    "url": "recipes/ASIAN_ORANGE_PEAR_SALAD.html",
     "body": "ASIAN ORANGE & PEAR SALAD\n1 large orange, cut into segments (8-10)\n1 cups red bell pepper, minced fresh\n1 cup carrots, shredded\n2 cups asian pear, cut into thin slices\n\u00bd cup edamame, shelled, cooked\n1 cup red cabbage, thinly shredded\n1 cup cucumber, cut in half, thinly sliced\n1 teaspoon shallots, minced\n1 teaspoon orange zest\n\u00bc cup orange juice, freshly-squeezed\n1 teaspoon ginger, finely grated\n2 tablespoons rice vinegar\n2 teaspoons cilantro, finely chopped\n\u00bc cup grapeseed oil, or other neutral oil\nblack pepper, to taste\nkosher salt, to taste\nCombine all salad ingredients in a large bowl.\nWhisk together all dressing ingredients in a medium-sized bowl,\nexcept for the oil. Gradually whisk in the oil, until a slightly\nthickened dressing is achieved.\nAdd the desired amount of dressing to the salad and gently\ncombine. Add more salt and pepper as needed. Enjoy\nimmediately once dressing is added.\n"
   },
   {
     "title": "CHICKEN & CORN SOUP",
     "source": "Far East 2024.pdf",
-    "url": "recipes/CHICKEN_&_CORN_SOUP.html",
+    "url": "recipes/CHICKEN_CORN_SOUP.html",
     "body": "CHICKEN & CORN SOUP\n8 cups good-quality chicken stock or\nvegetable stock, divided\n3 cups diced or shredded cooked chicken\nbreasts*\n2 teaspoons ground ginger\n1/2 teaspoon garlic powder\n4 green onions, thinly sliced with the white\nand green parts divided\n2 medium carrots, finely diced\n1 (15-ounce) can whole kernel corn\n1 (15 ounce) can creamed corn (or see\nalternative below**)\n1/4 cup cornstarch\n6 large eggs, whisked\n1 teaspoon toasted sesame oil\nsea salt and freshly-cracked black pepper\nIn a large stockpot, stir together 7 cups stock, chicken, ginger,\ngarlic powder, the white parts of the green onions, carrots, whole\nkernel corn and creamed corn until combined.  Heat over\nmedium heat until the soup reaches a simmer.  Then reduce\nheat to medium-low, cover and simmer for about 10 minutes, or\nuntil the carrots have softened.\nIn a separate bowl, whisk together the remaining 1 cup stock\nand cornstarch until combined.  Stir the mixture into the soup\nand cook for 1 minute, or until the soup has thickened.\nUsing a spoon, begin to swirl the soup slowly in a continuous\nmotion.  Then while you are still swirling the soup, drizzle the\neggs into the soup in a steady stream.  The hot broth will\ninstantly cook the eggs, and they will form those beautiful egg\nribbons.\nAdd in the toasted sesame oil, and stir to combine.  Then taste\nthe soup, and season with salt and pepper as needed.\nServe warm, sprinkled with the remaining green parts of the\ngreen onions.\n"
   },
   {
@@ -1238,7 +1238,7 @@ window.searchData = [
   {
     "title": "PORK & CABBAGE DUMPLINGS",
     "source": "Far East 2024.pdf",
-    "url": "recipes/PORK_&_CABBAGE_DUMPLINGS.html",
+    "url": "recipes/PORK_CABBAGE_DUMPLINGS.html",
     "body": "PORK & CABBAGE DUMPLINGS\n1 lb. ground pork\n1 cup thinly sliced napa cabbage, plus extra\nleaves for lining the steamer\n1/2 cup chopped scallions (both white and\ngreen parts)\n1/4 cup chopped fresh cilantro\n1-1/2 Tbs. soy sauce\n1 Tbs. finely chopped garlic\n1 Tbs. rice vinegar\n1 Tbs. cornstarch; more for dusting\n2 tsp. finely chopped fresh ginger\n1-1/2 tsp. Asian sesame oil\n1 tsp. granulated sugar\n1/2 tsp. freshly ground black pepper\n1 large egg white\n55 to 60 shiu mai wrappers or wonton\nwrappers\nIn a large bowl, stir together the pork, sliced cabbage, scallions,\ncilantro, soy sauce, garlic, rice vinegar, 1 Tbs. cornstarch, ginger,\nsesame oil, sugar, pepper, and egg white.\nSeparate a single sheet of pastry, moisten the edge and then fill\nthe wrapper with about a tsp of mixture.\n"
   },
   {
@@ -1250,7 +1250,7 @@ window.searchData = [
   {
     "title": "PISTACHIO & WATERMELON",
     "source": "Festive season entertaining 2020.pdf",
-    "url": "recipes/PISTACHIO_&_WATERMELON.html",
+    "url": "recipes/PISTACHIO_WATERMELON.html",
     "body": "PISTACHIO & WATERMELON\nSALAD\n1/2 cup pistachio kernels\n1/2 (1.75kg) small seedless watermelon,\npeeled, quartered\n1/4 cup olive oil\n2 teaspoons finely grated lemon rind\n125g feta, lightly crumbled\nHeat a small frying pan over medium heat. Add\npistachios. Cook, stirring occasionally, for 5 minutes or until light\nbrown. Transfer to a bowl. Cool for 5 minutes. Roughly chop.\nSlice watermelon quarters into 1cm-thick wedges.\nArrange on plates.\nPlace oil and lemon rind in a screw-top jar. Season with\nsalt and pepper. Secure lid. Shake to combine. Crumble feta over\nwatermelon. Sprinkle with pistachios. Serve drizzled with oil\nmixture.\n"
   },
   {
@@ -1274,7 +1274,7 @@ window.searchData = [
   {
     "title": "PEAS, BEANS & HAZELNUTS",
     "source": "Festive season entertaining 2020.pdf",
-    "url": "recipes/PEAS,_BEANS_&_HAZELNUTS.html",
+    "url": "recipes/PEAS_BEANS_HAZELNUTS.html",
     "body": "1 1/2 cup frozen peas\n300gms fine french beans\n300g sugar snap peas\n30g butter\n1/2 cup hazelnuts, roasted\n1 clove garlic, crushed\nPEAS, BEANS & HAZELNUTS\nIn a saucepan over a medium heat bring enough water to the\nboil to cook the vegetables.\nWorking in batches first cook the fine beans until just tender,\nremove and set asiide\nNow cook the peas until just tender, remove and add to the\nbeans\nFinally add the sugar snap peas to the hot water for no more\nthan 30-seconds, drain and add to the other cooked beans and\npeas.\nIn a large frying pan, melt the butter and then add the chopped\nhazelnuts, cook over a medium heat until the nuts just begin to\nturn brown, remove from the heat, and remove the nuts from the\npan with a slotted spoon.\nReserve and set aside\nAdd the crushed garlic and a little extra butter if needed return to\nthe heat, and add the cooked vegetables, toss to coat.\nServe in a platter topped with the toasted hazelnuts\n"
   },
   {
@@ -1286,13 +1286,13 @@ window.searchData = [
   {
     "title": "APPLE & CHERRY STRUDEL",
     "source": "Festive season entertaining 2020.pdf",
-    "url": "recipes/APPLE_&_CHERRY_STRUDEL.html",
+    "url": "recipes/APPLE_CHERRY_STRUDEL.html",
     "body": "APPLE & CHERRY STRUDEL\n300g cake flour\n1 tsp salt\n2 egg yolks\n3 tbsp sunflower oil\n125ml water\n125gms fresh white breadcrumbs\n100g butter\n750g Granny Smith apples (peeled, cored and\nthinly sliced)\n150g cherries, deseeded\n125g light brown sugar\n50g flakes toasted almonds\n1 tsp cinnamon\n100g melted butter\nRunny honey to glaze\nSift the flour and the salt into the bowl, in a seperate large bowl\ncombine the eggs, water and sunflower oil.\nMake a well in the centre of the flour and add the liquid, bring\ntogether into a ball and transfer to the counter\nKnead until a soft smooth dough has been formed, about 15\nminutes.  Wrap in cling wrap and set aside for 30-minutes\nPreheat the oven to 200C.  In a frying pan fry the breadcrumbs\nwith the butter until golden brown,  Remove from heat and\ntransfer to a bowl.\nPeel the apples and slice them into very thin slices in a large\nbowl.\nAdd thge breadcrumbs, sugar, almonds, cinnamon and\nbreadcrumbs to the apples.  Mix very well using your hands to\nensure the breadcrumbs coat all the pieces of apple\nLightly flour a very clean tablecloth.  Gently roll out the dough\nand then stretch it out with your hands.  Stretch the dough until it\nreaches a 60cm square piece.  Then using a knife trim the\nedges.\nBrush the dough with the melted butter, reserving some to glaze\nthe outside.\nScatter the filling evenly over the dough, and then using the\ntablecloth as a guide, roll up the strudel into a long long\nTransfer the strudle to a greased baking sheet and glaze with\nthe remaining butter.  Bake for 40-minutes until the strudel is\ngolden brown and cooked through.\nRemove the strudel from the oven and glaze with a little honey,\nserve warm with a simple custard\n"
   },
   {
     "title": "MANGO & LIME ICECREAM",
     "source": "Festive season entertaining 2020.pdf",
-    "url": "recipes/MANGO_&_LIME_ICECREAM.html",
+    "url": "recipes/MANGO_LIME_ICECREAM.html",
     "body": "MANGO & LIME ICECREAM\n3/4 cup thawed frozen mango pulp\n1/3 cup sweetened condensed milk\nGrated zest and juice of 1 lime\n1/4 cup confectioners' sugar\n1/4 teaspoon coconut extract\n150ml unsweetened coconut cream, chilled\n1 cup cold heavy cream\nWhisk the mango pulp, condensed milk, lime zest and juice,\nconfectioners' sugar and coconut extract in a large bowl until\nsmooth; set aside.\nScoop the solids off the top of the can of coconut cream into a\nseparate large bowl. (Discard the liquid; if any liquid has risen to\nthe top, pour it off before scooping out the solids.) Break the solid\ncoconut cream into small chunks, then add the heavy cream\nand beat with a mixer on medium-high speed until stiff peaks\nform, 1 to 2 minutes. (There may be a few small chunks of\ncoconut cream.)\nFold about half of the whipped cream into the mango mixture\nwith a rubber spatula until combined, then fold in the remaining\nwhipped cream until no white streaks remain.\nSpoon the mixture into a freezer-safe 9-by-5-inch loaf pan or\n2-quart baking dish. Cover with plastic wrap and freeze until firm\nand scoopable, at least 6 hours or overnight. Let soften about 20\nminutes at room temperature before scooping.\n"
   },
   {
@@ -1334,7 +1334,7 @@ window.searchData = [
   {
     "title": "PISTACHIO & ROSE BAKLAVA",
     "source": "Festive season entertaining 2020.pdf",
-    "url": "recipes/PISTACHIO_&_ROSE_BAKLAVA.html",
+    "url": "recipes/PISTACHIO_ROSE_BAKLAVA.html",
     "body": "1 cup roasted unsalted pistachios meat.\n1 -2 teaspoons rose water.\n3 Tablespoons simple syrup. (See below)\n1/2 1lb package of phyllo dough, about 18\nsheets.\n1/2 cup melted butter.\n1 cup sugar.\n1/2 cup water.\n1/2 teaspoon lime juice.\n1/4 cup honey.\n1/2 teaspoon vanilla extract.***\nPISTACHIO & ROSE BAKLAVA\nFINGERS\nIn a saucepan over medium heat, combine syrup ingredients until it\nboils, reduce heat and simmer for 10 minutes.\nSet aside to cool completely.\nIn your food processor, pulse the pistachios until finely ground. Add\nsimple syrup and the rose water to the pistachios and mix well until\nyou get a sticky coarse paste.\nPreheat oven to 160C\nOn a clean working surface, take two phyllo sheets out, brush lightly\nby melted butter. Spoon about 1 1/2 Tablespoons of the filling and\nform a log on the short side of the sheet and roll all the way\nthrough.\nBrush the finished roll with more butter and place in a baking sheet.\nBake in oven until top is golden brown, about 40 minutes\ndepending on your oven.\nPour 1/2 to 1 cup of simple syrup over and let it cool completely,\npreferable overnight if you can.\nTake phyllo cigars out, cut into 2 or 4 equal parts.\nServe and enjoy!.\n"
   },
   {
@@ -1352,7 +1352,7 @@ window.searchData = [
   {
     "title": "MEJADRA (MIDDLE EASTERN",
     "source": "Festive season entertaining 2020.pdf",
-    "url": "recipes/MEJADRA_(MIDDLE_EASTERN.html",
+    "url": "recipes/MEJADRA_MIDDLE_EASTERN.html",
     "body": "MEJADRA (MIDDLE EASTERN\nSPICED RICE)\n2 tbsp olive oil\n2 tsp cumin seeds (or 1 tsp ground cumin)\n1 1/2 tbsp coriander seeds (or 1 1/2 tsp\nground coriander)\n1 cup basmati rice (or long grain)\n1 1/4 cup / 315 ml water (see notes)\n400g / 14 oz canned brown lentils, drained (1\ncan) , drained\n1/2 tsp ground turmeric\n1 1/2 tsp ground cinnamon\n1 tsp sugar\n1 tsp salt\nBlack pepper\n3 large or 4 small onions , very finely sliced\n1 cup / 250 ml vegetable or sunflower oil\nSalt\nHeat oil in a medium saucepan over\nmedium high heat. Add about 1/3 of the onions and cook for 5\nminutes until golden and crispy. Drain on paper towels.\nRepeat with remaining onions, in two batches.\nPut the olive oil, cumin seeds and coriander in a saucepan over\nmedium heat.\nCook for a couple of minutes until the spices are fragrant.\nAdd the rice and stir to coat with the oil and spices.\nAdd the water and lentils.\nWhile it comes to boil, add all the other spices, salt and pepper.\nWhen it comes to a boil, turn it down to medium-low, cover with\nlid and let cook for 10 to 12 minutes, or until all the liquid has\nmostly been absorbed.\nRemove from heat and let it rest for 10 minutes - during this\ntime, any residual liquid will absorb.\nFluff rice with a from and adjust the seasoning with more salt if\nyou wish.\nJust prior to serving, stir through most of the onions and top with\nremainder. Sprinkle with chopped coriander if desired. Best\nserved warm.\n"
   },
   {
@@ -1388,7 +1388,7 @@ window.searchData = [
   {
     "title": "CUCUMBER RAITA & TOMATO",
     "source": "Fierce Love - A Global Curry Adventure-1.pdf",
-    "url": "recipes/CUCUMBER_RAITA_&_TOMATO.html",
+    "url": "recipes/CUCUMBER_RAITA_TOMATO.html",
     "body": "500ml natural yoghurt\n1 cucumber, grated or finely chopped\nlarge handful mint leaves, chopped\nlarge pinch salt\n2 green chilli, de-seeded and finely chopped\n(optional)\nWrap the grated cucumber in a tea towel and\nsqueeze out any excess water.\nMix together all the ingredients and serve\nchilled as an accompaniment to any curry or\nas a dip for poppadoms.\nCUCUMBER RAITA & TOMATO\nSAMBALS\n4 large tomato,\nand roughly diced\n1 onion, diced\n3 spring onion, finely chopped\n4 teaspoon lemon juice\nA few sprigs of freshly chopped coriander\n3 green chillies, sliced\nSalt to taste\nCombine the diced tomato into a large salad\nbowl. Add in the finely chopped onion.\nStir in the sliced spring onion.\nToss in the thinly chopped chives, coriander\nand green chillies.\nStir in the salt and lemon juice\nMix well to ensure an even distribution of\nseasoning.\n"
   },
   {
@@ -1436,7 +1436,7 @@ window.searchData = [
   {
     "title": "MOROCCAN CHICK PEA &",
     "source": "Fierce Love - A Global Curry Adventure-1.pdf",
-    "url": "recipes/MOROCCAN_CHICK_PEA_&.html",
+    "url": "recipes/MOROCCAN_CHICK_PEA.html",
     "body": "1/4 cup extra-virgin olive oil\n3 large garlic cloves, peeled\n2 cups thinly sliced red onion\n1/2 cup dried apricots, sliced\n1 tablespoon ras el hanout (Moroccan spice\nblend) or garam masala\n1 teaspoon salt\n3/4 teaspoon black pepper\n1/4 teaspoon crushed red pepper\n1 (3-inch) cinnamon stick\n1/2 cup water\n1 1/2 teaspoons grated lemon rind\n1 1/2 tablespoons fresh lemon juice\n2 (15-ounce) cans chickpeas, rinsed and\ndrained\n2 cans whole tomatoes, undrained and\nchopped\n6 cups chard/spinach, torn into 1-inch pieces\n1 cup cilantro leaves\n1/4 cup mint leaves\n1/2 cup roasted whole almonds, coarsely\nchopped\nStep 1\nHeat a large skillet over medium-high heat. Add oil to pan; swirl to\ncoat.\nAdd garlic; cook for 1 minute, stirring constantly. Remove garlic from\npan using a slotted spoon; discard or reserve for another use.\nAdd onion and fry for two minutes, then add the dried apricots, ras-el\nhanout, salt, black pepper, crushed chilli pepper, and cinnamon stick.\nSaute for 7 minutes or until the onion is lightly browned, stirring\noccasionally.\nAdd 1/2 cup water, lemon rind, juice, chickpeas, and tomatoes; bring\nto a boil. Reduce heat, and simmer for 10 - 15 minutes, stirring\noccasionally. Add a little extra water if you need.\nStir in spinach; simmer for a few minutes or until spinach wilts. Remove\nfrom heat. Sprinkle with cilantro and mint; top with almonds.\nServe over couscous.\nMOROCCAN CHICK PEA &\nAPRICOT TAGINE\n"
   },
   {
@@ -1538,13 +1538,13 @@ window.searchData = [
   {
     "title": "zucchini & herbed potato frittata",
     "source": "Fiesta de Sabores.pdf",
-    "url": "recipes/zucchini_&_herbed_potato_frittata.html",
+    "url": "recipes/zucchini_herbed_potato_frittata.html",
     "body": "The Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\nzucchini & herbed potato frittata \nwith parmesan shavings\n12 large free range eggs\n1 tsp chopped parsley\n150gms grated parmesan cheese 80ml cream\nsalt & pepper to taste\n1 red onion, finely chopped \n20 pattypan (mixed colours) \ngenerous knob of butter clove \ngarlic crushed\nsprig of thyme\nsalt & pepper to taste\n1 tbsp olive oil\n3 large potatoes\n6 tbsp olive oil clove of garlic rosemary\nTo start, par boil the potatoes, before cutting them into small sized chunks.  Now heat the olive oil in a pan and \nadd the rosemary and the clove of garlic.  Allow them to infuse before removing the garlic and rosemary and \nadding the boiled, drained and cut potatoes.  Fry the potatoes until crisp and well cooked, remove from the oil, \nseason with salt and set aside.\nTo prepare the patty pan, start by cutting it into thin slices.  In a frying pan, the one you intend making the frittata \nin heat the butter, thyme and garlic.  As soon as it starts to sizzle add the finely chopped onion, cook until tender \nbefore adding the sliced patty pan.  Allow the patty pan to caramelise and develop colour before stirring and \nallowing to cook completely.  Once the patty pan is ready add in the cooked potato pieces, check seasoning and \nadjust, remember your parmesan will add extra saltiness.\nNow in a bowl whisk together, eggs, parsley, salt & pepper, parmesan and cream, add it to the hot potato \nmixture.  Using a wooden spoon or spatula loosen the bottom slightly and allow thick pieces to form, before \nreducing the heat and allowing the bottom of the frittata to set completely.\nTo finish the frittata you can either loosen the bottom of the frittata once it has set, and carefully flip it over, and \ncook through or you can finish it under a hot grill in the oven.  To serve, garnish with some fresh herbs and finely \nshaved parmesan.\n"
   },
   {
     "title": "Warm Kale, Almond and ham salad",
     "source": "Fiesta de Sabores.pdf",
-    "url": "recipes/Warm_Kale,_Almond_and_ham_salad.html",
+    "url": "recipes/Warm_Kale_Almond_and_ham_salad.html",
     "body": "The Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\nWarm Kale, Almond and ham salad\n2 shallots, sliced into rounds \n2 tsp vegetable oil\n200g kale, large stalks removed, leaves roughly torn \n4-6 slices serrano ham or your choice of cured ham \n3 celery stalks, thinly sliced on an angle\nshavings of Manchego cheese, to garnish (optional)\n2 tbsp sherry vinegar\n2 tbsp extra virgin olive oil \n2 tsp Dijon mustard\npinch of sugar\n2 tbsp raisins\n2 tbsp whole blanched almonds \n\u00bd tsp vegetable oil\ngood pinch of sweet smoked paprika\n1.  Heat oven to 200C. Toss the shallots with 1 tsp oil on a large non-stick baking tray. Separate the \nrings a little as you turn them in the oil. Roast for 10 mins, stirring halfway, until starting to soften and \nturn golden here and there.\n2.  In a large bowl, whisk the vinegar, oil, mustard, sugar and some seasoning together to make the \ndressing, then tip in the raisins and leave to soak. In a smaller roasting tin, toss the almonds, oil, papri- \nka and a pinch of sea salt. Rub the kale all over with 1 tsp vegetable oil and some seasoning.\n3.  Remove the shallot tray from the oven, mix in the kale (it\u2019s fine if it mounds a bit), then return the tray \nto the oven and put the almonds on the shelf below. Roast for 7 mins, giving the kale a turn halfway \nthrough, until crisp in some places, wilted in others.\n4.  Ruffle the ham onto serving plates. Tip the kale, shallots and celery into the dressing bowl, make \nsure it coats the kale well, then mound on top of the ham and scatter with the almonds and the \ncheese, if using.\n"
   },
   {
@@ -1568,7 +1568,7 @@ window.searchData = [
   {
     "title": "Chickpeas & Spinach",
     "source": "Fiesta de Sabores.pdf",
-    "url": "recipes/Chickpeas_&_Spinach.html",
+    "url": "recipes/Chickpeas_Spinach.html",
     "body": "The Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\nChickpeas & Spinach\n500g chickpeas in brine\n300 grams fresh spinach, washed\n2 thick slices of day old bread (sourdough works well) with crusts removed and cut into cubes \n15 blanched unsalted almonds\n\u00bc cup tomato sauce\n3 garlic cloves, chopped \nExtra virgin olive oil\n2 Tablespoons Sherry vinegar (or red wine vinegar if sherry vinegar is hard to come by)\n1 teaspoon ground cumin\nGround cayenne pepper (to taste) \nSalt\nBlack pepper (to taste)\nSmoked Spanish paprika (I use piment\u00f3n dulce, but you could also use piment\u00f3n picante)\nCoat a large saucepan with extra virgin olive oil (approx. 2 T) and heat to medium high.  Before the oil gets too hot, add the \nspinach (in batches if necessary).  Saut\u00e9 the spinach until just wilted and remove to strain in a colander\nRe-coat the pan with olive oil and add in the bread cubes and raw almonds. Fry until the bread and almonds are browned \nand crispy on each side\nAdd the chopped garlic, cumin, cayenne and black pepper and saut\u00e9 for a couple of minutes, until the garlic is fragrant and \nturning brown.  Transfer the ingredients to a blender/food processor and add the sherry vinegar\nBlend the ingredients together until you have a thick paste (don't over blend and make it gooey).  Return the paste to the \nsaucepan and add your chick peas and tomato sauce.  Stir gently until the chickpeas are fully coated by the sauce and add \na bit of water to thin things out\nAdd the spinach and stir gently until it is evenly incorporated and hot Season with salt and pepper\nOnce plated, drizzle a swirl of extra virgin olive oil on top of each dish, then sprinkle a small amount of smoked Spanish \npaprika on top\nEnjoy!\n"
   },
   {
@@ -1604,7 +1604,7 @@ window.searchData = [
   {
     "title": "SPANISH SMOKEY BEANS &",
     "source": "Fiesta de Sabores.pdf",
-    "url": "recipes/SPANISH_SMOKEY_BEANS_&.html",
+    "url": "recipes/SPANISH_SMOKEY_BEANS.html",
     "body": "The Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\n1 tablespoon extra virgin olive oil\n1 onion diced\n2 garlic cloves finely chopped\n1 teaspoon sweet smoked paprika pimenton \ndulce - or hot paprika if you like it spicy\n2 bay leaves\n2 cans butter beans, drained and rinsed\n2 cans plum tomatoes\nSea salt and black pepper\n2 large handfuls spinach roughly chopped\nIn a large saucepan, heat the oil over a medium heat. Add the \nonions and fry, stirring continuously, for 3-5 minutes until translucent \nbut not browned.\nAdd the garlic, paprika and bay leaves and fry for a further minute.\nAdd the beans and tomatoes. Stir and break up the tomatoes a bit, \nthen season with salt and pepper. Stir well and reduce the heat to \nlow. Simmer for 15 minutes, checking regularly so it doesn\u2019t stick to \nthe bottom of the pan.\nAs it finishes, stir the spinach through to wilt.\nServe hot or cold, as tapas or a side dish, sprinkled with the fresh \nparsley.\nSPANISH SMOKEY BEANS & \nTOMATOES\n"
   },
   {
@@ -1634,7 +1634,7 @@ window.searchData = [
   {
     "title": "CUCUMBER RAITA & TOMATO",
     "source": "FLAVOURS OF iNDIA.pdf",
-    "url": "recipes/CUCUMBER_RAITA_&_TOMATO.html",
+    "url": "recipes/CUCUMBER_RAITA_TOMATO.html",
     "body": "500ml natural yoghurt\n1 cucumber, grated or finely chopped\nlarge handful mint leaves, chopped\nlarge pinch salt\n2 green chilli, de-seeded and finely chopped\n(optional)\nWrap the grated cucumber in a tea towel and\nsqueeze out any excess water.\nMix together all the ingredients and serve\nchilled as an accompaniment to any curry or\nas a dip for poppadoms.\nCUCUMBER RAITA & TOMATO\nSAMBALS\n4 large tomato,\nand roughly diced\n1 onion, diced\n3 spring onion, finely chopped\n4 teaspoon lemon juice\nA few sprigs of freshly chopped coriander\n3 green chillies, sliced\nSalt to taste\nCombine the diced tomato into a large salad\nbowl. Add in the finely chopped onion.\nStir in the sliced spring onion.\nToss in the thinly chopped chives, coriander\nand green chillies.\nStir in the salt and lemon juice\nMix well to ensure an even distribution of\nseasoning.\n"
   },
   {
@@ -1670,7 +1670,7 @@ window.searchData = [
   {
     "title": "TOMATO & ONION SAMBALS",
     "source": "FLAVOURS OF iNDIA.pdf",
-    "url": "recipes/TOMATO_&_ONION_SAMBALS.html",
+    "url": "recipes/TOMATO_ONION_SAMBALS.html",
     "body": "Combine the diced tomato into a large salad bowl. Add in the\nfinely chopped onion.\nStir in the sliced spring onion.\nToss in the thinly chopped chives, coriander and green chillies.\nStir in the salt and lemon juice\nMix well to ensure an even distribution of seasoning.\n4 large tomato,\nand roughly diced\n2 onion, diced\n3 sprig spring onion, finely chopped\n4 teaspoons chives, finely chopped\n4 teaspoon lemon juice\nA few sprigs of freshly chopped coriander\n3 green chillies, sliced\nSalt to taste\nTOMATO & ONION SAMBALS\n"
   },
   {
@@ -1916,7 +1916,7 @@ window.searchData = [
   {
     "title": "PEAR & WALNUT SALAD",
     "source": "In The Kitchen with Haute Carbiere.pdf",
-    "url": "recipes/PEAR_&_WALNUT_SALAD.html",
+    "url": "recipes/PEAR_WALNUT_SALAD.html",
     "body": "200g mixed lettuce (arugula, romaine, etc.)\n1 ripe pear - unpeeled, cored, sliced\n55g walnuts, roughly chopped\n55g Pecorino Romano cheese, shaved\n2 tablespoon white wine vinegar\n1/2 teaspoon mustard\n1/2 tsp finely minced garlic\n6 tablespoons olive oil\nTo make the vinaigrette, combine, vinegar, mustard and garlic.\nWhisk till well combined. While whisking constantly, slowly pour\nin a steady stream of the olive oil.\nPrepare the remaining ingredients, toss the vinaigrette with them\nand serve.\nPEAR & WALNUT SALAD\n"
   },
   {
@@ -1940,13 +1940,13 @@ window.searchData = [
   {
     "title": "Polenta (Gucci Pap)",
     "source": "In The Kitchen with Haute Carbiere.pdf",
-    "url": "recipes/Polenta_(Gucci_Pap).html",
+    "url": "recipes/Polenta_Gucci_Pap.html",
     "body": "The Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\nPolenta (Gucci Pap)\nServe with the Cacciatore\n500gms polenta\n2 cloves garlic\n1,2 litre water\n500ml full cream milk\n100gms salted butter\n200gms grated parmesan\nSalt & Pepper for seasoning\nHeat the milk, water and the crushed garlic until almost hot, add 1 tsp salt and some pepper. Then stir in the\npolenta and bring to a slow simmer (be careful it can splash)\nAfter 3-minutes stir in 3/4 of the milk, the butter and parmesan. Check consistency, if too thick add more milk\nuntil you have your desired consistency.\nCheck seasononing again and serve warm with chicken cacciatore.\n"
   },
   {
     "title": "GARLIC & MINT ZUCCHINI",
     "source": "In The Kitchen with Haute Carbiere.pdf",
-    "url": "recipes/GARLIC_&_MINT_ZUCCHINI.html",
+    "url": "recipes/GARLIC_MINT_ZUCCHINI.html",
     "body": "2 courgettes (zucchinis)\n2 tablespoon extra virgin olive oil\n1 garlic clove, (peeled but not sliced)\n1 handful fresh mint\njuice of \u00bc lemon\nsalt and pepper, to taste\nInstructions\nStep 1: First, cut the zucchini into 3cm x .5cm batons.\n[Optional pre-salting the zucchini - Place the zucchini batons \nin a colander set over a bowl and liberally sprinkle salt over \nthem. Quickly mix the salt into the courgettes with your hands \nand leave for 5-10 minutes so that the salt can draw out the \njuices from the courgette. Once the batons look wet and \nglistening, rinse them under the tap in the colander to wash \naway all the salt and any juices. Then dry in a clean tea towel \nor kitchen towel.]\nStep 2:  In the meantime, slice the fresh mint thinly. \nStep 3:  Heat the oil in a large frying pan over a medium heat. \nOnce hot, add the whole garlic clove and move around in the \npan to brown on all sides and flavour the oil. Once browned, \nremove from the pan and discard (or use to flavour in \nsomething else).\nStep 4:  Add the courgette batons in one single layer. Do not \noverlap the batons. You may need to saut\u00e9 the courgette \nbatons in batches. Saut\u00e9 the courgette batons until the \nunderside is golden brown (about 2-4 minutes), then, using a \npair of kitchen tongs, turn each slice over to cook on all the \nother side. Cook until golden brown on all sides.\nStep 5:  Once cooked, add the chopped mint and a squeeze \nof lemon juice and stir over the heat for 30 seconds until the \nmint has wilted and the lemon juice is mixed into the \ncourgette batons. (If cooking in batches, add the pre-cooked \nslices back into the pan at this point and stir all together over \nthe heat). Season with salt and pepper to your taste.  Serve \nhot.\nGARLIC & MINT ZUCCHINI\n"
   },
   {
@@ -1958,7 +1958,7 @@ window.searchData = [
   {
     "title": "Arancini - Suppli\u2019 di Riso",
     "source": "In The Kitchen with Haute Carbiere.pdf",
-    "url": "recipes/Arancini_-_Suppli\u2019_di_Riso.html",
+    "url": "recipes/Arancini_-_Suppli_di_Riso.html",
     "body": "The Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\nArancini - Suppli\u2019 di Riso\nLittle Oranges - small crisp deep fried rice balls\n1 cup long-grain rice\n1 small onion\n1 stick celery finely chopped\n1 small carrot finely chopped\n4 tbs. butter\n3 cups chicken broth\n5 tbs. grated Parmigiano\n80 gms finely diced Mozzarella\n80 gms finely diced prosciutto\n30gms parsley, chopped\n4 eggs\nbreadcrumbs\nnutmeg\nolive oil\nsalt\npepper\nFlour\nIn a heavy based pot saute the onion, carrot and celery in the butter until soft and translucent. Then add the rice\nand fry it until it is sizzling. Then add the hot broth slowly, stirring frequently. The rice should be done in about 20\nmin. When the rice is ready, mix in half the parmesan, and then spread the rice out in a flat baking tray to cool.\nMix the chopped mozzarella and prosciutto, the rest of the parmesan, the chopped parsley, 1 egg, nutmeg, salt\nand pepper (If the mixture is a little wet add some more parmesan). With slightly damp hands, take a handful of\nrice in one hand, and a pinch of stuffing with the other. Push the stuffing into the middle of the rice. Squeeze the\nrice all around the stuffing and mould it into an egg shape.\nWhen you have used up all the mix, flour the croquettes, dip into beaten eggs, and then roll again in\nbreadcrumbs. Fry the suppli' in very hot oil, once golden and cooked through place on paper towel to darin and\nserve immediately.\n"
   },
   {
@@ -1976,7 +1976,7 @@ window.searchData = [
   {
     "title": "AVOCADO & ROMAINE SALAD",
     "source": "Jewel of Provence.pdf",
-    "url": "recipes/AVOCADO_&_ROMAINE_SALAD.html",
+    "url": "recipes/AVOCADO_ROMAINE_SALAD.html",
     "body": "AVOCADO & ROMAINE SALAD\nLight, quick and fresh!\n1 cup cherry tomatoes (halved)\n1 tablespoon chives (fresh, chopped)\n1 1/3 cup avocado (chopped)\n3 cups romaine hearts (chopped)\n2 teaspoons parsley (chopped)\n1 teaspoon dill (chopped)\nDrizzle balsamic vinegar (to taste)\nDrizzle extra virgin olive oil (to taste)\n, start by cutting tomatoes,\nroughly chop the chives, parsley, and dill, add everything to a\nbowl. Roughly chop the romaine lettuce and add to the\nbowl, toss gently and season with a little salt and pepper,\nplace in a serving platter\nGently peel the avocados, and cut into rough chunks\nand add these to the tomato and lettuce salad.\n2 tbsp red wine vinegar\n6 tbsp extra virgin olive oil\nWhisk together the olive\noil and vinegar, season with a little salt & pepper, drizzle over\nthe prepared salad.\n"
   },
   {
@@ -2018,7 +2018,7 @@ window.searchData = [
   {
     "title": "PORK TENDERLOIN WITH APPLES,",
     "source": "Jewel of Provence.pdf",
-    "url": "recipes/PORK_TENDERLOIN_WITH_APPLES,.html",
+    "url": "recipes/PORK_TENDERLOIN_WITH_APPLES.html",
     "body": "PORK TENDERLOIN WITH APPLES,\nSAGE & LOXTONIA CIDER\n1 1/4 lb boneless pork tenderloin\n1-2 tbsp olive oil\n2 tsp chopped sage\nsalt and pepper\n1 Gala apple core removed and cut into chunks\nwith the skin on\n125ml Loxtonia Cider or good quality cider\n1/2 a yellow onion diced\n2 tbsp balsamic vinegar\n1 cup apple jam\nPreheat the oven to 180C. Heat 1 tablespoon of olive oil in a cast-iron\nskillet over high heat. Carefully place the pork tenderloin into the pan\nand cook each side for approximately 3 to 4 minutes, or until each side\nis nicely browned.\nLower the heat to medium-low. Remove the tenderloin from the pan,\ntemporarily placing it on a plate. Add a generous pinch of salt to both\nsides of the tenderloin, as well as a small pinch of freshly ground\npepper; set aside.\nTo the pan, add another tablespoon of oil (if needed). Add the apple\nchunks and diced onion. Give everything a stir and saut\u00e9 for a couple\nof minutes until the onions turn translucent. Pour in 1 tablespoon of\nbalsamic vinegar and again stir everything together. Remove the skillet\nfrom the heat.\nGently push aside the apple chunks and onions to clear a space in the\nmiddle of the pan for the pork tenderloin. Transfer the tenderloin back\ninto the pan, pouring its residual juices on the plate in as well. Add the\ncider to the pan as well\nWarm the apple jam for 30 seconds in the microwave, then add a\ntablespoon of balsamic vinegar to it. Stir in the vinegar until its\nincorporated, then smear the jam all over the pork tenderloin. Sprinkle\nthe chopped sage over the entire contents of the pan.\nCover the skillet with a sheet of foil, then bake the tenderloin for 20\nminutes, stopping to remove the sheet of foil. Bake for another 10 to 20\nminutes, until iis cooked through. Once it's done baking, let the tenderloin\nrest for at least 5 minutes before slicing on the diagonal and serving.\n"
   },
   {
@@ -2084,7 +2084,7 @@ window.searchData = [
   {
     "title": "CUCUMBER RAITA & TOMATO",
     "source": "Marvellous India.pdf",
-    "url": "recipes/CUCUMBER_RAITA_&_TOMATO.html",
+    "url": "recipes/CUCUMBER_RAITA_TOMATO.html",
     "body": "500ml natural yoghurt\n1 cucumber, grated or finely chopped\nlarge handful mint leaves, chopped\nlarge pinch salt\n2 green chilli, de-seeded and finely chopped\n(optional)\nWrap the grated cucumber in a tea towel and\nsqueeze out any excess water.\nMix together all the ingredients and serve\nchilled as an accompaniment to any curry or\nas a dip for poppadoms.\nCUCUMBER RAITA & TOMATO\nSAMBALS\n4 large tomato,\nand roughly diced\n1 onion, diced\n3 spring onion, finely chopped\n4 teaspoon lemon juice\nA few sprigs of freshly chopped coriander\n3 green chillies, sliced\nSalt to taste\nCombine the diced tomato into a large salad\nbowl. Add in the finely chopped onion.\nStir in the sliced spring onion.\nToss in the thinly chopped chives, coriander\nand green chillies.\nStir in the salt and lemon juice\nMix well to ensure an even distribution of\nseasoning.\n"
   },
   {
@@ -2120,7 +2120,7 @@ window.searchData = [
   {
     "title": "TOMATO & ONION SAMBALS",
     "source": "Marvellous India.pdf",
-    "url": "recipes/TOMATO_&_ONION_SAMBALS.html",
+    "url": "recipes/TOMATO_ONION_SAMBALS.html",
     "body": "Combine the diced tomato into a large salad bowl. Add in the\nfinely chopped onion.\nStir in the sliced spring onion.\nToss in the thinly chopped chives, coriander and green chillies.\nStir in the salt and lemon juice\nMix well to ensure an even distribution of seasoning.\n4 large tomato,\nand roughly diced\n2 onion, diced\n3 sprig spring onion, finely chopped\n4 teaspoons chives, finely chopped\n4 teaspoon lemon juice\nA few sprigs of freshly chopped coriander\n3 green chillies, sliced\nSalt to taste\nTOMATO & ONION SAMBALS\n"
   },
   {
@@ -2318,7 +2318,7 @@ window.searchData = [
   {
     "title": "Grilled Lemon & Chicken Skewers",
     "source": "Nostimo.pdf",
-    "url": "recipes/Grilled_Lemon_&_Chicken_Skewers.html",
+    "url": "recipes/Grilled_Lemon_Chicken_Skewers.html",
     "body": "Grilled Lemon & Chicken Skewers\n800gms, skinless deboned chicken thighs, trimmed of excess fat\n1 teaspoon salt\n2 Tbsp plain yogurt\n2 cloves garlic, minced (about 2 teaspoons)\n1 Tbsp minced fresh oregano 1/2 teaspoons dried oregano\n1/8 teaspoon freshly ground black pepper\n1 teaspoon lemon juice\n1 Tbsp olive oil plus more for the grill\n2 lemons, thinly sliced\nIf using bamboo or wooden skewers, place them in water to soak while you prepare the recipe. You'll need either 4 flat skewers or 8 \nregular round skewers.\nCut the chicken thigh into even chunks, then place in a bowl and sprinkle with salt. Add the yogurt, minced garlic, oregano, pepper, lemon \njuice, and olive oil to the bowl with the chicken, stir to combine. Marinate for 30 minutes to an hour - the longer the better.\nThread skewers with chicken and lemon slices: Prepare your grill for direct high heat. While the grill is heating, prepare the skewers. Use \neither flat bamboo or metal skewers or double up regular bamboo skewers so that the chicken is easier to turn on the grill. Thread the \nchicken pieces onto the skewers with a lemon slice folded over like a taco between each piece of chicken.\nWhen the grill is ready brush the grill grates with a little olive oil (use a paper towel folded over several times and dipped in olive oil, hold \nwith tongs). Brush some olive oil over the chicken skewers as well. Place the chicken skewers directly over the hottest part of the grill and \ncover the grill.\nAllow to sear on one side (about 2 to 3 minutes), then turn the chicken skewers over to the other side, cover and cook 2 to 3 minutes more, \nuntil the chicken is browned and just cooked through.\nRemove from grill and serve immediately with tzatziki sauce.\nThe Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\n"
   },
   {
@@ -2342,7 +2342,7 @@ window.searchData = [
   {
     "title": "GREEK ZUCCHINI & FETA SALAD",
     "source": "Nostimo.pdf",
-    "url": "recipes/GREEK_ZUCCHINI_&_FETA_SALAD.html",
+    "url": "recipes/GREEK_ZUCCHINI_FETA_SALAD.html",
     "body": "4-5 cups diced zucchini from 1.5 lbs whole \nzucchini\n4 oz crumbled feta cheese\n15 ounce can chickpeas drained and rinsed \n1/3 cup chopped kalamata olives\n1/4 cup chopped shallot or red onion 1/2 \ncup chopped parsley\n2 tbsp fresh lemon juice\n1/4 cup extra virgin olive oil\n1/2 tsp salt\n1/4 tsp pepper or to taste\nGREEK ZUCCHINI & FETA SALAD\nMix together all ingredients.\nAdjust seasoning as desired. Enjoy!\n"
   },
   {
@@ -2408,13 +2408,13 @@ window.searchData = [
   {
     "title": "Caponata with Grapes & Pine nuts",
     "source": "Pazzo per L'Estate.pdf",
-    "url": "recipes/Caponata_with_Grapes_&_Pine_nuts.html",
+    "url": "recipes/Caponata_with_Grapes_Pine_nuts.html",
     "body": "The Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\nCaponata with Grapes & Pine nuts\n1 kilo (2 lbs.) eggplant, cut into small cubes\n1 bunch of celery, cut into bite-sized pieces\n1 large onion, thinly sliced\n1 small can of tomatoes or 250g (1/2 lb) fresh, skinned and seeded\nSalt and pepper\nA handful of capers\nA handful of pignoli nuts\n250g (1/2 lb.) of green olives, pitted and halved\n1 cup seedless green grapes, halved\nA sprig of fresh marjoram\n1tsp sicilian oregano\nOlive oil\nRed wine vinegar & sugar, to taste\nGather up a handful of eggplant with a paper towel, give it a gentle squeeze to dry the cubes, and throw them\ninto abundant olive oil\u2014about 1 cm (1/2 in) deep\u2014in a large pot. (Enameled cast iron pots work particularly well.)\nWork in batches to avoid crowding the eggplant, removing them with a skimmer when the eggplant cubes are\njust lightly browned to a basket or bowl lined with paper towels to soak up the excess oil.\nWhen all your eggplant is done, there should be less oil in the pan, but still enough to cook with. Add the celery,\nsaut\u00e9 for a few minutes until the celery is tender but still has some \u2018bite\u2019 left in it. Season with salt and pepper as\nit cooks. Remove with a skimmer and set aside.\nNow add the onion to the remaining oil in the pot and saut\u00e9 it gently until it is quite soft. Add the tomato. Simmer\nthe tomato until it has melted and reduced to a nice, sauce-like consistency.\nNow add back your eggplant and celery, along with the capers, pine nuts, olives, grapes and the marjoram.\nAllow everything to simmer together for about 5-10 minutes. A minute or two before it\u2019s done, add the sugar and\nvinegar, mix well (but gently!) and let it finish simmering. Turn off the heat and let the dish cool entirely before\nserving.\n"
   },
   {
     "title": "PRAWN & SAFFRON RISOTTO",
     "source": "Pazzo per L'Estate.pdf",
-    "url": "recipes/PRAWN_&_SAFFRON_RISOTTO.html",
+    "url": "recipes/PRAWN_SAFFRON_RISOTTO.html",
     "body": "PRAWN & SAFFRON RISOTTO\n1kg prawns, shell on, deveined and cleaned \n3tbsp butter\n1/4 cup olive oil\n2 cloves of garlic, finely chopped\n1 glass white wine \nSalt & pepper\n8 cups prawn stock \n1/4 cup olive oil\n1 medium onion, diced\n1 stick of celery, finely chopped\n1 carrot, finely chopped \nLarge pinch of saffron\n2 cups arborio rice\n1 cup dry white wine\n1 tablespoon flat leaf parsley, chopped \n4 tablespoons cold butter\nSalt and pepper\n1.  In a large heavybased saucepan, add the butter and olive oil. \nPlace over a medium heat.  Once it is hot add the garlic and stir \nquickly.  Almost immediately add the prawns.  Add them in a \nsingle layer allowing them to colour, but NOT cook all the way \nthrough.\n2.  As the prawns are cooked remove and set aside.  Once all \nthe prawns have been cooked, remove their heads and shells. \nReserve all the juices and shells.\n3.  Return the pan to the heat, add half a roughly chopped \nonion, a small bunch of fresh celery leaf and stir to coat.\n4.  Once the onion starts to soften add the white wine and \ndeglaze the pan.  Now add back all the prawn shells and \nreserved juices.\n5.  Add 2litres of a good quality light vegetable stock and \nsimmer for 20-minutes, skimming off any foam that surfaces.\n6.  Strain and use immediately, or allow to cool and freeze\n1.  Heat the oil in a large saucepan over medium heat; add \nonion, carrot and celery and season with salt and pepper\n2.  Add the rice and stir to coat with the oil; season with salt and \npepper and cook until slightly translucent.\n6.  The rice should be hot and sizzling, you should stir carefully to \nensure it does not stick.\n7 .  Add wine to the hot rice, the liquid should hiss and be quickly \nabsorbed.  Stir gently until almost all the liquid has cooked off. \nAdd hot stock and broth mixture, a ladleful at a time, completely \nstirring in the liquid each time.  Remember at this stage you are \ntrying to coax the starches out the rice by gently and continuosly \nstirring.\n8.  Keep adding broth as needed so there is always a 1/2cm \nliquid layer over the rice.\n9.  After about 8 minutes add add the saffron which has been \nsoaked in 2 tbsp warm water\n10. After 15 to 20 minutes, the rice should be close to al dente.\n11.  At this stage add the reserved prawn meat, cut into bite size \nhunks, and stir to combine well - the prawns will cook through in \nthe heat of the rice.\n12.  Taste and adjust seasoning\n13.  Now cover the pan, and allow it to stand for 2-3minutes.\n"
   },
   {
@@ -2450,7 +2450,7 @@ window.searchData = [
   {
     "title": "Green Beans & Tomatoes",
     "source": "Pazzo per L'Estate.pdf",
-    "url": "recipes/Green_Beans_&_Tomatoes.html",
+    "url": "recipes/Green_Beans_Tomatoes.html",
     "body": "Green Beans & Tomatoes\n300g rip fresh tomatoes \n500g fine green beans\n2 garlic cloves\n2 tbsp fresh basil leaves\nExtra virgin olive oil as needed\nSkin the tomatoes and the cut in half removing the seeds and juice.\nTrim the stalk end from the green beans, peel and finely slice the garlic.\nHeat 2 tbsp olive oil in a thick bottomed pan, and lightly brow the garlic.  Add the tomatoes, season, cover and \ncook for 15-minutes on a medium heat.\nBoil the beans in well salted water until just soft about 7-10 minutes.  Drain then stir into the tomato sauce.\nSeason with salt & pepper, drizzle with olive oil and the roughly torn basil leaves and serve.\nThe Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\n"
   },
   {
@@ -2462,7 +2462,7 @@ window.searchData = [
   {
     "title": "PEAR, WALNUT SALAD",
     "source": "Pazzo per L'Estate.pdf",
-    "url": "recipes/PEAR,_WALNUT_SALAD.html",
+    "url": "recipes/PEAR_WALNUT_SALAD.html",
     "body": "PEAR, WALNUT SALAD\n200g mixed lettuce (arugula, romaine, etc.)\n1 ripe pear - unpeeled, cored, sliced\n55g walnuts, roughly chopped\n55g Pecorino Romano cheese, shaved\nVinaigrette\n2 tablespoon white wine vinegar\n1/2 teaspoon mustard\n1/2 tsp finely minced garlic\n6 tablespoons olive oil\nTo make the vinaigrette, combine, vinegar, mustard and garlic. Whisk till well combined. While whisking constantly,\nslowly pour in a steady stream of the olive oil.\nPrepare the remaining ingredients, toss the vinaigrette with them and serve.\nThe Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\n"
   },
   {
@@ -2498,7 +2498,7 @@ window.searchData = [
   {
     "title": "ASPARAGUS, PEA & BABY",
     "source": "Pazzo per L'Estate.pdf",
-    "url": "recipes/ASPARAGUS,_PEA_&_BABY.html",
+    "url": "recipes/ASPARAGUS_PEA_BABY.html",
     "body": "2 tablespoons unsalted butter or olive oil\n1 pound gnocchi\n10 spears asparagus, give or take, cut into 1\ninch lengths\n1 clove garlic, minced\n\u215b teaspoon red pepper flakes\njuice of \u00bd lemon\n2 tablespoons cream\n1 cup fresh or frozen peas\n100g baby spinach (couple of big handfuls)\nsalt and pepper, to taste\nIn a large pot or frying pan with a lid, heat the butter or oil on\nlow heat.\nAdd the garlic and the red pepper flakes, and fry until just\nfragrant.\nNow add the peas and asparagus and fry for 1 minute.\nAdd the lemon juice, and cream and for until slightly thickened.\nNow add the baby spinach and allow to collapse before\nadjusting seasoning\nAdd the gnocchi and some of the reserved pasta water, toss to\ncoat and serve\nASPARAGUS, PEA & BABY\nSPINACH SAUCE\n"
   },
   {
@@ -2510,7 +2510,7 @@ window.searchData = [
   {
     "title": "Tagliata with rocket & Parmesan",
     "source": "Pazzo per L'Estate.pdf",
-    "url": "recipes/Tagliata_with_rocket_&_Parmesan.html",
+    "url": "recipes/Tagliata_with_rocket_Parmesan.html",
     "body": "Tagliata with rocket & Parmesan\n6 sirloin or ribeye steaks, 3cm thick\n1 1/2 tbsp chopped rosemary\n1 1/2 tbsp chopped sage\nZest of 1 lemon\nCoarse sea salt and freshly ground pepper\n1 boneless rib eye steak, cut 2 inches thick (2 1/4 pounds)\nExtra-virgin olive oil\n1 pack of rocket\n1 tablespoon lemon juice\n1 cup shaved Grana/Parmigiano-Reggiano\n1. Start by finely chopping the rosemary and the thyme, add to a bowl.\n2. Now add a generous tsp of freshly crushed black pepper and sea salt\n3. To this add a finely zested peel of 1 lemon\n4. Add a splash of olive oil to wet the mixture slightly and coat the steaks with it.\n5. To cook the steaks add a splash of oil to a frying pan and place over medium high heat until almost smoking\n6. Add the steaks and cook until nicely browned, about 3-minutes per side for rare\n7. \nRemove the steaks, set aside and allow to stand under some foil\n8. Now prepare in a seperate bowl add your lemon juice and olive oil and mix to combine.\n9. Arrange the rocket leaves on the platter, then slice the steaks into strips and arrange over the rocket\n10. Finally drizzle with the olive and lemon dressing before topping with the parmesan shavings\nThe Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\n"
   },
   {
@@ -2534,7 +2534,7 @@ window.searchData = [
   {
     "title": "GREEK ZUCCHINI & FETA SALAD",
     "source": "Sailing the Med.pdf",
-    "url": "recipes/GREEK_ZUCCHINI_&_FETA_SALAD.html",
+    "url": "recipes/GREEK_ZUCCHINI_FETA_SALAD.html",
     "body": "4-5 cups diced zucchini from 1.5 lbs whole\nzucchini\n4 oz crumbled feta cheese\n15 ounce can chickpeas drained and rinsed\n1/3 cup chopped kalamata olives\n1/4 cup chopped shallot or red onion\n1/2 cup chopped parsley\n2 tbsp fresh lemon juice\n1/4 cup extra virgin olive oil\n1/2 tsp salt\n1/4 tsp pepper or to taste\nGREEK ZUCCHINI & FETA SALAD\nMix together all ingredients.\nAdjust seasoning as desired. Enjoy!\n"
   },
   {
@@ -2546,7 +2546,7 @@ window.searchData = [
   {
     "title": "PEAR, WALNUT SALAD",
     "source": "Sailing the Med.pdf",
-    "url": "recipes/PEAR,_WALNUT_SALAD.html",
+    "url": "recipes/PEAR_WALNUT_SALAD.html",
     "body": "PEAR, WALNUT SALAD\n200g mixed lettuce (arugula, romaine, etc.)\n1 ripe pear - unpeeled, cored, sliced\n55g walnuts, roughly chopped\n55g Pecorino Romano cheese, shaved\nVinaigrette\n2 tablespoon white wine vinegar\n1/2 teaspoon mustard\n1/2 tsp finely minced garlic\n6 tablespoons olive oil\nTo make the vinaigrette, combine, vinegar, mustard and garlic. Whisk till well combined. While whisking constantly,\nslowly pour in a steady stream of the olive oil.\nPrepare the remaining ingredients, toss the vinaigrette with them and serve.\nThe Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\n"
   },
   {
@@ -2564,7 +2564,7 @@ window.searchData = [
   {
     "title": "Arancini - Suppli\u2019 di Riso",
     "source": "Sailing the Med.pdf",
-    "url": "recipes/Arancini_-_Suppli\u2019_di_Riso.html",
+    "url": "recipes/Arancini_-_Suppli_di_Riso.html",
     "body": "The Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\nArancini - Suppli\u2019 di Riso\nLittle Oranges - small crisp deep fried rice balls\n1 cup long-grain rice\n1 small onion\n1 stick celery finely chopped\n1 small carrot finely chopped\n4 tbs. butter\n3 cups chicken broth\n5 tbs. grated Parmigiano\n80 gms finely diced Mozzarella\n40 gms finely diced anchovy fillets\n30gms parsley, chopped\n4 eggs\nbreadcrumbs\nnutmeg\nolive oil\nsalt\npepper\nFlour\nIn a heavy based pot saute the onion, carrot and celery in the butter until soft and translucent. Then add the rice\nand fry it until it is sizzling. Then add the hot broth slowly, stirring frequently. The rice should be done in about 20\nmin. When the rice is ready, mix in half the parmesan, and then spread the rice out in a flat baking tray to cool.\nMix the chopped mozzarella and anchovy, the rest of the parmesan, the chopped parsley, 1 egg, nutmeg, salt\nand pepper (If the mixture is a little wet add some more parmesan). With slightly damp hands, take a handful of\nrice in one hand, and a pinch of stuffing with the other. Push the stuffing into the middle of the rice. Squeeze the\nrice all around the stuffing and mould it into an egg shape.\nWhen you have used up all the mix, flour the croquettes, dip into beaten eggs, and then roll again in\nbreadcrumbs. Fry the suppli' in very hot oil, once golden and cooked through place on paper towel to darin and\nserve immediately.\n"
   },
   {
@@ -2624,7 +2624,7 @@ window.searchData = [
   {
     "title": "Grilled Lemon & Chicken Skewers",
     "source": "Sailing the Med.pdf",
-    "url": "recipes/Grilled_Lemon_&_Chicken_Skewers.html",
+    "url": "recipes/Grilled_Lemon_Chicken_Skewers.html",
     "body": "Grilled Lemon & Chicken Skewers\n800gms, skinless deboned chicken thighs, trimmed of excess fat\n1 teaspoon salt\n2 Tbsp plain yogurt\n2 cloves garlic, minced (about 2 teaspoons)\n1 Tbsp minced fresh oregano\n1/2 teaspoons dried oregano\n1/8 teaspoon freshly ground black pepper\n1 teaspoon lemon juice\n1 Tbsp olive oil plus more for the grill\n2 lemons, thinly sliced\nIf using bamboo or wooden skewers, place them in water to soak while you prepare the recipe. You'll need either 4 flat skewers or 8\nregular round skewers.\nCut the chicken thigh into even chunks, then place in a bowl and sprinkle with salt. Add the yogurt, minced garlic, oregano, pepper, lemon\njuice, and olive oil to the bowl with the chicken, stir to combine. Marinate for 30 minutes to an hour - the longer the better.\nThread skewers with chicken and lemon slices: Prepare your grill for direct high heat. While the grill is heating, prepare the skewers. Use\neither flat bamboo or metal skewers or double up regular bamboo skewers so that the chicken is easier to turn on the grill. Thread the\nchicken pieces onto the skewers with a lemon slice folded over like a taco between each piece of chicken.\nWhen the grill is ready brush the grill grates with a little olive oil (use a paper towel folded over several times and dipped in olive oil, hold\nwith tongs). Brush some olive oil over the chicken skewers as well. Place the chicken skewers directly over the hottest part of the grill and\ncover the grill.\nAllow to sear on one side (about 2 to 3 minutes), then turn the chicken skewers over to the other side, cover and cook 2 to 3 minutes more,\nuntil the chicken is browned and just cooked through.\nRemove from grill and serve immediately with tzatziki sauce.\nThe Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\n"
   },
   {
@@ -2636,13 +2636,13 @@ window.searchData = [
   {
     "title": "CHORIZO & PEA FRITTATA",
     "source": "Secret Sunday Brunch - Kitchen Escape.pdf",
-    "url": "recipes/CHORIZO_&_PEA_FRITTATA.html",
+    "url": "recipes/CHORIZO_PEA_FRITTATA.html",
     "body": "CHORIZO & PEA FRITTATA\n1 tsp oil\n1 onion, roughly chopped\n1 red pepper, seeds removed, chopped\n200g chorizo, skin removed and roughly chopped\n6 free-range eggs\n50ml/2fl oz milk\n1 garlic clove, finely chopped\n200g cooked potatoes, roughly chopped\n100g frozen peas\n2 tbsp chopped flatleaf parsley\nPreheat the oven to 200C.\nHeat an ovenproof frying pan on the hob until just hot, then add the oil, onion and red pepper and fry for 2\nminutes, until just softened. Turn the heat up, add the chorizo and cook for 3-4 minutes until it has released its oil\nand is crisp around the edges. The mixture will go a lovely red colour.\nMeanwhile, crack the eggs into a large jug and whisk with the milk, a pinch of salt and plenty of black pepper.\nAdd the garlic and potatoes to the chorizo mixture and fry for another 2 minutes, stirring gently, until just hot\nthrough. Add the peas and cook for another minute, until the whole mixture is hot.\nPour in the egg, stir briefly, turn down to a medium heat and scatter the parsley over the top .Fry without stirring,\nfor 1\u20132 minutes, then carefully lift the edge of the frittata with a spatula to check if it is cooked and golden-brown\nunderneath. If it isn\u2019t, cook for another minute then check again.\nPlace the pan in the oven and bake for 10\u201312 minutes. When the top is bubbled up and slightly golden use a\ntea towel to grab the handle and give the pan a gentle shake. If the middle wobbles it needs a little longer. If it\u2019s\nfairly firm, put it aside to cool slightly.\nSlide the frittata out of the pan onto a plate. You can serve this hot or cold but make sure to let it cool to room\ntemperature before storing it in a sealable container in the fridge. Cut it into slices and serve with a green salad.\nSecret Sunday Brunch in partnership with Pierre Jourdan\n#anytimebubbly\n"
   },
   {
     "title": "CHEESE & SPINACH MUFFINS",
     "source": "Secret Sunday Brunch - Kitchen Escape.pdf",
-    "url": "recipes/CHEESE_&_SPINACH_MUFFINS.html",
+    "url": "recipes/CHEESE_SPINACH_MUFFINS.html",
     "body": "CHEESE & SPINACH MUFFINS\n2 medium eggs\n150ml  / 1/2 cup milk\n75g / 1/2 cup butter, melted\n150g  / 2 cups grated cheddar cheese\n1 spring onion, chopped\n75g / 2 cups fresh baby spinach, chopped\n1/2 red pepper, diced, and lightly pan fried\n250g / 2 cups self raising flour\n1/2 vegetable stock cube (can use low or no sodium stock cube)\nsalt and pepper to taste (but can be left out)\nPreheat the oven to 180Cand line a muffin tin with 12 muffin cases.\nGently whisk the eggs in a large bowl and stir in the milk and melted butter. Mix in the grated cheese, spring\nonion, baby spinach and diced cooked red pepper.\nFinally, add in the flour, salt and pepper (if using) and crumble in the stock cube and mix just enough until all the\ningredients have combined.\nDivide the mixture between the 12 muffin cases and bake in the oven for 20-25 minutes until cooked through (a\nskewer stuck into the middle should come out dry).\nThese muffins can be frozen once they have cooled completely. To defrost simply leave out for a few hours or\novernight.\nSecret Sunday Brunch in partnership with Pierre Jourdan\n#anytimebubbly\n"
   },
   {
@@ -2654,25 +2654,25 @@ window.searchData = [
   {
     "title": "PECAN & CRANBERRY SCONES",
     "source": "Secret Sunday Brunch - Kitchen Escape.pdf",
-    "url": "recipes/PECAN_&_CRANBERRY_SCONES.html",
+    "url": "recipes/PECAN_CRANBERRY_SCONES.html",
     "body": "PECAN & CRANBERRY SCONES\n\u00be cup milk\n1 teaspoon white vinegar\n2 cups all-purpose flour\n\u00bc cup white sugar\n2 teaspoons baking powder\n\u00bd teaspoon baking soda\n\u00bd teaspoon salt\n\u00bd teaspoon grated nutmeg\n\u00bd cup butter, chilled and cut into small pieces\n1 cup dried cranberries\n\u00bd cup chopped pecans\n1 egg white, beaten\n1 \u00bd cups confectioners' sugar\n2 tablespoons milk\nPreheat oven to 425 degrees F (220 degrees C). Line a baking sheet with parchment paper.\nCombine 3/4 cup milk and vinegar in a bowl; let stand until milk is curdled, about 5 minutes.\nCombine flour, sugar, baking powder, baking soda, salt, and nutmeg in a large bowl; cut in butter with a pastry\nblender. Smooth remaining butter clumps with hands; stir in milk mixture, cranberries, and pecans. Knead until\ndough comes together in a ball.\nPlace dough onto a floured work surface. Roll out with a rolling pin to 1.8cm thickness. Cut into long, 2-inch wide\nstrips with a sharp knife; cut strips into triangles. Transfer to the baking sheet. Brush tops with egg white.\nBake in the preheated oven until tops are golden brown, about 15 minutes.\nCombine confectioners' sugar and 2 tablespoons milk in a small bowl; mix until combined. Drizzle over scones.\nSecret Sunday Brunch in partnership with Pierre Jourdan\n#anytimebubbly\n"
   },
   {
     "title": "ORANGE & CARDAMOM FRENCH TOAST",
     "source": "Secret Sunday Brunch - Kitchen Escape.pdf",
-    "url": "recipes/ORANGE_&_CARDAMOM_FRENCH_TOAST.html",
+    "url": "recipes/ORANGE_CARDAMOM_FRENCH_TOAST.html",
     "body": "ORANGE & CARDAMOM FRENCH TOAST\nWITH VANILLA STRAWBERRIES\n1 1/2 cups whole milk\n4 large eggs\n1 tablespoon light brown sugar\n1 teaspoon lightly packed orange zest\n1/2 teaspoon vanilla extract\n1/2 teaspoon ground cardamom\n1/2 teaspoon kosher salt\n8 (1-inch thick) slices sweet batard or brioche\n3 or 4 tablespoons unsalted butter\n1 tablespoon honey\n1 sachet vanilla sugar\n1/4 cup freshly squeezed orange juice\n1 pound strawberries, hulled, and halved lengthwise\nIn a large bowl, whisk together milk, eggs, sugar, orange zest, vanilla, cardamom, and salt until eggs are broken\nup and evenly combined. Soak 3 bread slices in egg mixture turning once, until soaked through,\nMeanwhile, melt 1 tablespoon of butter in a large frying pan over medium heat. When butter foams, place 3\npieces soaked bread in the pan and cook until browned, about 2 minutes per side. Repeat with remaining\nbread. Serve topped with Honeyed Strawberries.\nMix honey, vanilla sugar, and orange juice together in a medium bowl until honey is dissolved. Add strawberries,\nstir to coat, and let sit until berries give off their juices, at least 5 minutes. Stir briefly before using.\nSecret Sunday Brunch in partnership with Pierre Jourdan\n#anytimebubbly\n"
   },
   {
     "title": "BLUEBERRY, APPLE & VANILLA",
     "source": "Secret Sunday Brunch - Kitchen Escape.pdf",
-    "url": "recipes/BLUEBERRY,_APPLE_&_VANILLA.html",
+    "url": "recipes/BLUEBERRY_APPLE_VANILLA.html",
     "body": "BLUEBERRY, APPLE & VANILLA\nCOBBLER\n3 cups fresh blueberries\n2 tablespoons white sugar\n1 sachet vanilla sugar\n1/3 cup apple juice\n2/3 cup all-purpose flour\n1/4 teaspoon baking powder\n1 pinch salt\n1/2 cup butter, softened\n1/2 cup white sugar\n1 egg\n1/2 teaspoon vanilla extract\nPreheat oven to 190 degrees C.\nIn an 8 inch square baking dish, mix blueberries, 2 tablespoons sugar, vanilla sugar and apple juice. Set aside.\nIn a small bowl, thoroughly mix flour, baking powder, and salt. Set aside.\nIn a medium bowl, cream butter and 1/2 cup sugar until light and fluffy. Beat in egg and vanilla extract.\nGradually add flour mixture, stirring just until ingredients are combined. Drop batter by rounded tablespoons over\nblueberry mixture. Try to cover as much of filling as possible.\nBake in preheated oven for 35 to 40 minutes, until topping is golden brown and filling is bubbling.\nSecret Sunday Brunch in partnership with Pierre Jourdan\n#anytimebubbly\n"
   },
   {
     "title": "BANANA & BLUEBERRY MUFFINS",
     "source": "Secret Sunday Brunch - Kitchen Escape.pdf",
-    "url": "recipes/BANANA_&_BLUEBERRY_MUFFINS.html",
+    "url": "recipes/BANANA_BLUEBERRY_MUFFINS.html",
     "body": "BANANA & BLUEBERRY MUFFINS\n3 large ripe bananas\n3\u20444 cup sugar\n1 egg, slightly beaten\n1\u20443 cup melted butter\n1 cup blueberries\n1 teaspoon baking soda\n1 teaspoon baking powder\n1\u20442 teaspoon salt\n1 1\u20442 cups flour\nMash bananas in a large mixing bowl until smooth.  Add the sugar and egg.  Now add the butter and\nblueberries.\nIn a seperate bowl combine dry ingredients and then gently stir into banana mixture.\nPour into 12 well-greased muffin cups.  Bake at 180C degrees for 20 minutes.\nSecret Sunday Brunch in partnership with Pierre Jourdan\n#anytimebubbly\n"
   },
   {
@@ -2702,13 +2702,13 @@ window.searchData = [
   {
     "title": "BROCCOLI & PARMESAN",
     "source": "Secret Sunday Brunch - Kitchen Escape.pdf",
-    "url": "recipes/BROCCOLI_&_PARMESAN.html",
+    "url": "recipes/BROCCOLI_PARMESAN.html",
     "body": "BROCCOLI & PARMESAN\nFRITTATA\n2 tablespoons unsalted butter\n1/2 cup sliced red onions\n1/2 teaspoon salt\n225gms broccoli, ends cut off, cut into bite size pieces\n8 large eggs\n3/4 cup ricotta cheese (you can use cottage cheese if you prefer)\n1 tbsp minced fresh chives\n1/4 teaspoon dried tarragon\n1 cup shredded Parmesan cheese\nHeat butter into a 10-inch oven-proof frying pan over medium heat. Add shallots and cook, stirring occasionally,\nuntil they soften and turn translucent, about 3 minutes. Add broccoli and cook for an additional 3 minutes.\nBeat the eggs and ricotta cheese together, stir in the chives and tarragon. Pour the egg mixture into the pan and\ncook until almost set, but still runny on top, about 4 to 5 minutes. While cooking, pre-heat oven broiler.\nSprinkle parmesan cheese over the eggs and put in oven to bake until cheese is melted and browned, and the\ncenter is set, about 6 to 8 minutes. Remove pan from oven with oven mitts and slide frittata onto a serving plate.\nCut into wedges. (Be very careful with the hot pan handle! I usually ice down the handle of any long handled\npan I take out of the oven so that no one mistakenly tries to pick up the pan by the hot handle.)\nSecret Sunday Brunch in partnership with Pierre Jourdan\n#anytimebubbly\n"
   },
   {
     "title": "PARMA HAM & MELON",
     "source": "Secret Sunday Brunch - Kitchen Escape.pdf",
-    "url": "recipes/PARMA_HAM_&_MELON.html",
+    "url": "recipes/PARMA_HAM_MELON.html",
     "body": "PARMA HAM & MELON\n1 canteloupe or spanspek\n8 Parma ham slices\nFreshly ground pepper\nOlive oil, for drizzling\nParsley, for garnishing\nPeel the melon, remove the seeds and cut into 8 slices.\nWrap each melon wedge with a slice of Parma ham.\nDrizzle the dish with olive oil and sprinkle with parsley and pepper. Serve immediately.\nSecret Sunday Brunch in partnership with Pierre Jourdan\n#anytimebubbly\n"
   },
   {
@@ -2732,13 +2732,13 @@ window.searchData = [
   {
     "title": "ASPARAGUS & GOATS CHEESE",
     "source": "Secret Sunday Brunch - Kitchen Escape.pdf",
-    "url": "recipes/ASPARAGUS_&_GOATS_CHEESE.html",
+    "url": "recipes/ASPARAGUS_GOATS_CHEESE.html",
     "body": "ASPARAGUS & GOATS CHEESE\nGALETTE\n1 1/4 cup unbleached white flour\n1/4 teaspoon salt\n8 Tablespoons frozen unsalted butter cut into\nsmall pieces\n1/4 cup plain Greek yogurt\n1/4 cup ice cold water\n2 teaspoons lemon juice\n1/2 cup goat cheese softened\n1/2 cup freshly grated Parmesan cheese\n1/4 cup grated mozzarella\n1 Tablespoon olive oil plus 1 teaspoon\n1 clove garlic minced\n1 pound asparagus washed and trimmed\n1 egg yolk\n1 teaspoon water\nTo prepare crust, combine flour and salt in the bowl of a food\nprocessor. Pulse twice to combine. Add butter and pulse until\nmixture resembles coarse meal. Transfer mixture to a large bowl.\nIn a smaller bowl, whisk together yogurt, water, and lemon juice.\nPour over flour mixture and use hands or a wooden spoon to\nform dough into a ball. Wrap in plastic and store in freezer for 20\nminutes.\nTo prepare filling, whisk together olive oil and garlic clove in a\nsmall bowl. In a separate bowl, combine the three cheeses and\nstir in one teaspoon of olive oil mixture. Refrigerate until ready for\nuse.\nTo assemble galette, preheat oven to 200C. Line a baking sheet\nwith parchment paper and set aside.\nOn a well floured surface, roll the chilled dough into a 12-inch\ncircle, trimming edges until smooth. Transfer dough to lined\nbaking sheet.\nLeaving a 2-inch border, spread the cheese mixture\nevenly over dough. Arrange asparagus over the cheese then\ndrizzle remaining olive oil mixture over the top. Fold over the\nedges of dough, pleating to make it fit.\nWhisk together egg yolk and water. Brush over the crust\nand bake for 30 minutes or until cheese is puffed, asparagus is\ntender, and crust is golden brown..\n"
   },
   {
     "title": "CRANBERRY & WHITE",
     "source": "Secret Sunday Brunch - Kitchen Escape.pdf",
-    "url": "recipes/CRANBERRY_&_WHITE.html",
+    "url": "recipes/CRANBERRY_WHITE.html",
     "body": "CRANBERRY & WHITE\nCHOCOLATE BLONDIES\n3/4 cup butter, cubed\n1-1/2 cups packed light brown sugar\n2 large eggs, room temperature\n3/4 teaspoon vanilla extract\n2-1/4 cups all-purpose flour\n1-1/2 teaspoons baking powder\n1/4 teaspoon salt\n1/8 teaspoon ground cinnamon\n1/2 cup dried cranberries\n6 ounces white baking chocolate, coarsely\nchopped\n1 tablespoon grated orange zest, optional\n80-100gms white baking chocolate, melted\nPreheat oven to 350\u00b0. In a small pot, melt the butter, remove\nfrom heat; stir in the brown sugar. Cool slightly.\nBeat in 1 egg at a time, and vanilla.\nIn another bowl, whisk together flour, baking powder, salt and\ncinnamon; stir into butter mixture. Stir in cranberries and chopped\nchocolate (batter will be thick). Spread into a greased 13x9-in.\nPan.\nBake until golden brown and a toothpick inserted in center\ncomes out clean (do not overbake), 18-21 minutes. Cool\ncompletely on a wire rack.\nZest the orange and add it to a metal or glass bowl.  Add the\nchocolate and place the bowl over a pot of barely simmering\nwater.  Make sure the bowl does not touch the water.  Wait 3-\nminutes, then check to see if the chocolate has melted by\nstirring.  Once the chocolate is completely melted, remove the\nbowl and set aside.\nOnce the blondies have cooled, drizzle with the melted\nchocolate and cut into triangles.\n"
   },
   {
@@ -2786,19 +2786,19 @@ window.searchData = [
   {
     "title": "CHORIZO & PEA FRITTATA",
     "source": "Secret Sunday Brunch - The Festive Brunch.pdf",
-    "url": "recipes/CHORIZO_&_PEA_FRITTATA.html",
+    "url": "recipes/CHORIZO_PEA_FRITTATA.html",
     "body": "CHORIZO & PEA FRITTATA\n1 tsp oil\n1 onion, roughly chopped\n1 red pepper, seeds removed, chopped\n200g chorizo, skin removed and roughly chopped\n6 free-range eggs\n50ml/2fl oz milk\n1 garlic clove, finely chopped\n200g cooked potatoes, roughly chopped\n100g frozen peas\n2 tbsp chopped flatleaf parsley\nPreheat the oven to 200C.\nHeat an ovenproof frying pan on the hob until just hot, then add the oil, onion and red pepper and fry for 2\nminutes, until just softened. Turn the heat up, add the chorizo and cook for 3-4 minutes until it has released its oil\nand is crisp around the edges. The mixture will go a lovely red colour.\nMeanwhile, crack the eggs into a large jug and whisk with the milk, a pinch of salt and plenty of black pepper.\nAdd the garlic and potatoes to the chorizo mixture and fry for another 2 minutes, stirring gently, until just hot\nthrough. Add the peas and cook for another minute, until the whole mixture is hot.\nPour in the egg, stir briefly, turn down to a medium heat and scatter the parsley over the top .Fry without stirring,\nfor 1\u20132 minutes, then carefully lift the edge of the frittata with a spatula to check if it is cooked and golden-brown\nunderneath. If it isn\u2019t, cook for another minute then check again.\nPlace the pan in the oven and bake for 10\u201312 minutes. When the top is bubbled up and slightly golden use a\ntea towel to grab the handle and give the pan a gentle shake. If the middle wobbles it needs a little longer. If it\u2019s\nfairly firm, put it aside to cool slightly.\nSlide the frittata out of the pan onto a plate. You can serve this hot or cold but make sure to let it cool to room\ntemperature before storing it in a sealable container in the fridge. Cut it into slices and serve with a green salad.\nSecret Sunday Brunch in partnership with Pierre Jourdan\n#anytimebubbly\n"
   },
   {
     "title": "CHEESE & SPINACH MUFFINS",
     "source": "Secret Sunday Brunch - The Festive Brunch.pdf",
-    "url": "recipes/CHEESE_&_SPINACH_MUFFINS.html",
+    "url": "recipes/CHEESE_SPINACH_MUFFINS.html",
     "body": "CHEESE & SPINACH MUFFINS\n2 medium eggs\n150ml / 1/2 cup milk\n75g / 1/2 cup butter, melted\n150g / 2 cups grated cheddar cheese\n1 spring onion, chopped\n75g / 2 cups fresh baby spinach, chopped\n1/2 red pepper, diced, and lightly pan fried\n250g / 2 cups self raising flour\n1/2 vegetable stock cube (can use low or no sodium stock cube)\nsalt and pepper to taste (but can be left out)\nPreheat the oven to 180Cand line a muffin tin with 12 muffin cases.\nGently whisk the eggs in a large bowl and stir in the milk and melted butter. Mix in the grated cheese, spring\nonion, baby spinach and diced cooked red pepper.\nFinally, add in the flour, salt and pepper (if using) and crumble in the stock cube and mix just enough until all the\ningredients have combined.\nDivide the mixture between the 12 muffin cases and bake in the oven for 20-25 minutes until cooked through (a\nskewer stuck into the middle should come out dry).\nThese muffins can be frozen once they have cooled completely. To defrost simply leave out for a few hours or\novernight.\nSecret Sunday Brunch in partnership with Pierre Jourdan\n#anytimebubbly\n"
   },
   {
     "title": "ORANGE & CARDAMOM FRENCH TOAST",
     "source": "Secret Sunday Brunch - The Festive Brunch.pdf",
-    "url": "recipes/ORANGE_&_CARDAMOM_FRENCH_TOAST.html",
+    "url": "recipes/ORANGE_CARDAMOM_FRENCH_TOAST.html",
     "body": "ORANGE & CARDAMOM FRENCH TOAST\nWITH SPICED APPLE TOPPING\n1 1/2 cups whole milk\n4 large eggs\n1 tablespoon light brown sugar\n1 teaspoon lightly packed orange zest\n1/2 teaspoon vanilla extract\n1/2 teaspoon ground cardamom\n1/2 teaspoon kosher salt\n8 (1-inch thick) slices sweet batard or brioche\n3 or 4 tablespoons unsalted butter\nIn a large bowl, whisk together milk, eggs, sugar, orange zest, vanilla, cardamom, and salt until eggs are broken\nup and evenly combined. Soak 3 bread slices in egg mixture turning once, until soaked through,\nMeanwhile, melt 1 tablespoon of butter in a large frying pan over medium heat. When butter foams, place 3\npieces soaked bread in the pan and cook until browned, about 2 minutes per side. Repeat with remaining\nbread. Serve topped with Honeyed Strawberries.\nSecret Sunday Brunch in partnership with Pierre Jourdan\n#anytimebubbly\n"
   },
   {
@@ -2822,7 +2822,7 @@ window.searchData = [
   {
     "title": "PARMA HAM & MELON",
     "source": "Secret Sunday Brunch - The Festive Brunch.pdf",
-    "url": "recipes/PARMA_HAM_&_MELON.html",
+    "url": "recipes/PARMA_HAM_MELON.html",
     "body": "PARMA HAM & MELON\n1 canteloupe or spanspek\n8 Parma ham slices\nFreshly ground pepper\nOlive oil, for drizzling\nParsley, for garnishing\nPeel the melon, remove the seeds and cut into 8 slices.\nWrap each melon wedge with a slice of Parma ham.\nDrizzle the dish with olive oil and sprinkle with parsley and pepper. Serve immediately.\nSecret Sunday Brunch in partnership with Pierre Jourdan\n#anytimebubbly\n"
   },
   {
@@ -2846,13 +2846,13 @@ window.searchData = [
   {
     "title": "STRAWBERRY ORANGE & SPICE",
     "source": "Secret Sunday Brunch - The Festive Brunch.pdf",
-    "url": "recipes/STRAWBERRY_ORANGE_&_SPICE.html",
+    "url": "recipes/STRAWBERRY_ORANGE_SPICE.html",
     "body": "1 pound strawberries, hulled and halved (or\nquartered if very large)\n3 oranges\n1/4 tsp ground cardamom\n1 tablespoon fresh lemon juice, plus more to\ntaste\n2-1/2 tablespoons light brown sugar, packed\n1 tablespoon finely chopped fresh mint, plus\na sprig for garnish\nHull and half or quarter the strawberries into a serving bowl.\nCut a slice off the top and bottom of each orange so they sit flat\non a cutting board. Using a sharp knife, work your way around\nthe fruits to remove all the skin and pith. Cupping the orange in\none hand and working over the serving bowl, carefully cut the\nsegments out from between the membranes. (Be sure to cut only\nuntil you reach the middle of the fruit!) Over a separate small\nbowl, firmly squeeze the remaining membranes to release all\nthe orange juice.\nAdd the lemon juice and brown sugar to the freshly squeezed\norange juice and stir until the sugar is dissolved. Pour over the\nstrawberries and orange segments and gently toss to combine.\nSprinkle with fresh mint. Taste and add more lemon juice if\nnecessary (the syrup should have a perfect balance of tart and\nsweet). Refrigerate for at least 30 minutes or up to six hours.\nGarnish with sprigs of fresh mint and serve chilled\nSTRAWBERRY ORANGE & SPICE\nSALAD\n"
   },
   {
     "title": "CHICKEN & SUNDRIED TOMATO",
     "source": "Secret Sunday Brunch - The Festive Brunch.pdf",
-    "url": "recipes/CHICKEN_&_SUNDRIED_TOMATO.html",
+    "url": "recipes/CHICKEN_SUNDRIED_TOMATO.html",
     "body": "CHICKEN & SUNDRIED TOMATO\nSAUSAGE ROLLS\n1kg chicken thighs, deboned and skinless,\nminced\n1 medium brown onion, chopped finely\n1/2 cup breadcrumbs\n1 egg\n1/4 cup finely chopped fresh basil\n1/2 tsp dried oregano\n1/2 cup drained semi-dried tomatoes in oil,\nfinely chopped\n2 tbsp tomato paste\n5 sheets puff pastry\n1 egg, extra to glaze\nPreheat the oven to 220C/200C fan forced. Line oven trays with\nbaking paper\nCombine mince, onion, breadcrumbs, egg, basil, semi-dried\ntomato and paste in a large bowl\nCut pastry sheets in half lengthways. Place equal amounts of\nchicken filling mixture along the centre of each pastry piece; roll\npastry to enclose the filling\nCut each into 6 equal pieces, place seam side down, on trays..\nBrush with extra egg\nBake rolls for about 30-minutes. Serve warm with a home made\ntomato sauce\nThe Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\n"
   },
   {
@@ -2870,7 +2870,7 @@ window.searchData = [
   {
     "title": "CHOCOLATE, ORANGE &",
     "source": "Secret Sunday Brunch - The Festive Brunch.pdf",
-    "url": "recipes/CHOCOLATE,_ORANGE_&.html",
+    "url": "recipes/CHOCOLATE_ORANGE.html",
     "body": "INGREDIENTS\n2 oranges, - zest and juice\nMilk to make up 250ml - you may not need \nthis\n1 egg, - beaten well\n90 ml vegetable oil\n250 g plain flour\n2 tsp baking powder\n1/2 tsp salt\n1/2 tsp bicarbonate of soda\n5 tbsp unsweetened cocoa powder\n1 tsp ground cinnamon\n100 g sugar\nINSTRUCTIONS\nStep 1:  Preheat the oven to 190C. Line a muffin tin with paper \ncases (remember, muffin cases are bigger than cupcake \ncases, so if you're using a cupcake tray, this mix will probably \nmake more than 12 and will need a little less cooking time).\nStep 2:   Pop the zest & juice from the oranges in a jug, then \ntop up with enough milk reach 250ml.\nStep 3: Add in the beaten egg and oil and stir well.\nStep 4:   In a large mixing bowl, sift the flour, baking powder, \nsalt, bicarb, cinnamon and cocoa powder together. Add the \nsugar and mix to combine.\nStep 5:   Pour the jug of wet ingredients into the bowl of dry, \nand quickly and smoothly fold them together.\nStep 6:   Spoon into the awaiting cases and bake for 20 - 25 \nminutes until the tops spring back when pressed, and a \nskewer comes out clean.\nStep 7:   Let cool fully before storing or freezing.\nCHOCOLATE, ORANGE & \nSPICE MUFFINS\n"
   },
   {
@@ -2888,25 +2888,25 @@ window.searchData = [
   {
     "title": "APPLE & BLUEBERRY CRUMBLE",
     "source": "Secret Sunday Brunch - The Festive Brunch.pdf",
-    "url": "recipes/APPLE_&_BLUEBERRY_CRUMBLE.html",
+    "url": "recipes/APPLE_BLUEBERRY_CRUMBLE.html",
     "body": "APPLE & BLUEBERRY CRUMBLE\n8 medium-large apples (4 tart (like granny smith), 4 sweet (like honey crisp) // organic when possible)\n1 lemon, juiced (1 lemon yields ~ 2 Tbsp or 30 ml)\n2/3 cup sugar\n1 1/2 tsp ground cinnamon\n3 Tbsp arrowroot starch or cornstarch (for thickening)\n1/4 cup fresh apple juice (or water)\n3/4 tsp fresh grated ginger (optional // or sub 1/2 tsp ground ginger per 3/4 tsp fresh)\n1 pinch nutmeg (optional)\nTOPPING\n1 cup gluten-free rolled oats\n1/2 cup almond meal\n1/2 cup unbleached all-purpose flour*\n1/2 cup sugar\n1/2 cup muscovado sugar (or sub organic brown sugar)\n1/2 cup pecans (roughly chopped)\n1/4 tsp sea salt\n1 tsp ground cinnamon\n1/2 cup olive oil\nPreheat oven to 180 degrees C.\nPeel apples, quarter, remove cores, and use a paring knife to thinly slice lengthwise\nAdd to a large mixing bowl and top with remaining filling ingredients. Toss to combine. Add to a 9x13 (or similar\nsize // as original recipe is written // use smaller or larger is altering batch size) baking dish.\nRinse and wipe out your mixing bowl and add all topping ingredients. Stir to combine, then use fingers to break\ndown any clumps of muscovado sugar. Pour over apples in an even layer.\nBake for 50 minutes to 1 hour (uncovered) or until the filling is bubbly, the apples are very fork tender (especially in\nthe center of the dish), and the topping is deep golden brown.\nLet rest at least 30 minutes before serving. This is delicious with coconut whipped cream or vanilla bean coconut\nice cream.\nThe Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\n"
   },
   {
     "title": "CHORIZO & PEA FRITTATA",
     "source": "Secret Sunday Brunch Here Comes The Sun.pdf",
-    "url": "recipes/CHORIZO_&_PEA_FRITTATA.html",
+    "url": "recipes/CHORIZO_PEA_FRITTATA.html",
     "body": "CHORIZO & PEA FRITTATA\n1 tsp oil\n1 onion, roughly chopped\n1 red pepper, seeds removed, chopped\n200g chorizo, skin removed and roughly chopped\n6 free-range eggs\n50ml/2fl oz milk\n1 garlic clove, finely chopped\n200g cooked potatoes, roughly chopped\n100g frozen peas\n2 tbsp chopped flatleaf parsley\nPreheat the oven to 200C.\nHeat an ovenproof frying pan on the hob until just hot, then add the oil, onion and red pepper and fry for 2\nminutes, until just softened. Turn the heat up, add the chorizo and cook for 3-4 minutes until it has released its oil\nand is crisp around the edges. The mixture will go a lovely red colour.\nMeanwhile, crack the eggs into a large jug and whisk with the milk, a pinch of salt and plenty of black pepper.\nAdd the garlic and potatoes to the chorizo mixture and fry for another 2 minutes, stirring gently, until just hot\nthrough. Add the peas and cook for another minute, until the whole mixture is hot.\nPour in the egg, stir briefly, turn down to a medium heat and scatter the parsley over the top .Fry without stirring,\nfor 1\u20132 minutes, then carefully lift the edge of the frittata with a spatula to check if it is cooked and golden-brown\nunderneath. If it isn\u2019t, cook for another minute then check again.\nPlace the pan in the oven and bake for 10\u201312 minutes. When the top is bubbled up and slightly golden use a\ntea towel to grab the handle and give the pan a gentle shake. If the middle wobbles it needs a little longer. If it\u2019s\nfairly firm, put it aside to cool slightly.\nSlide the frittata out of the pan onto a plate. You can serve this hot or cold but make sure to let it cool to room\ntemperature before storing it in a sealable container in the fridge. Cut it into slices and serve with a green salad.\nSecret Sunday Brunch in partnership with Pierre Jourdan\n#anytimebubbly\n"
   },
   {
     "title": "CHEESE & SPINACH MUFFINS",
     "source": "Secret Sunday Brunch Here Comes The Sun.pdf",
-    "url": "recipes/CHEESE_&_SPINACH_MUFFINS.html",
+    "url": "recipes/CHEESE_SPINACH_MUFFINS.html",
     "body": "CHEESE & SPINACH MUFFINS\n2 medium eggs\n150ml / 1/2 cup milk\n75g / 1/2 cup butter, melted\n150g / 2 cups grated cheddar cheese\n1 spring onion, chopped\n75g / 2 cups fresh baby spinach, chopped\n1/2 red pepper, diced, and lightly pan fried\n250g / 2 cups self raising flour\n1/2 vegetable stock cube (can use low or no sodium stock cube)\nsalt and pepper to taste (but can be left out)\nPreheat the oven to 180Cand line a muffin tin with 12 muffin cases.\nGently whisk the eggs in a large bowl and stir in the milk and melted butter. Mix in the grated cheese, spring\nonion, baby spinach and diced cooked red pepper.\nFinally, add in the flour, salt and pepper (if using) and crumble in the stock cube and mix just enough until all the\ningredients have combined.\nDivide the mixture between the 12 muffin cases and bake in the oven for 20-25 minutes until cooked through (a\nskewer stuck into the middle should come out dry).\nThese muffins can be frozen once they have cooled completely. To defrost simply leave out for a few hours or\novernight.\nSecret Sunday Brunch in partnership with Pierre Jourdan\n#anytimebubbly\n"
   },
   {
     "title": "ORANGE & CARDAMOM FRENCH TOAST",
     "source": "Secret Sunday Brunch Here Comes The Sun.pdf",
-    "url": "recipes/ORANGE_&_CARDAMOM_FRENCH_TOAST.html",
+    "url": "recipes/ORANGE_CARDAMOM_FRENCH_TOAST.html",
     "body": "ORANGE & CARDAMOM FRENCH TOAST\nWITH VANILLA STRAWBERRIES\n1 1/2 cups whole milk\n4 large eggs\n1 tablespoon light brown sugar\n1 teaspoon lightly packed orange zest\n1/2 teaspoon vanilla extract\n1/2 teaspoon ground cardamom\n1/2 teaspoon kosher salt\n8 (1-inch thick) slices sweet batard or brioche\n3 or 4 tablespoons unsalted butter\n1 tablespoon honey\n1 sachet vanilla sugar\n1/4 cup freshly squeezed orange juice\n1 pound strawberries, hulled, and halved lengthwise\nIn a large bowl, whisk together milk, eggs, sugar, orange zest, vanilla, cardamom, and salt until eggs are broken\nup and evenly combined. Soak 3 bread slices in egg mixture turning once, until soaked through,\nMeanwhile, melt 1 tablespoon of butter in a large frying pan over medium heat. When butter foams, place 3\npieces soaked bread in the pan and cook until browned, about 2 minutes per side. Repeat with remaining\nbread. Serve topped with Honeyed Strawberries.\nMix honey, vanilla sugar, and orange juice together in a medium bowl until honey is dissolved. Add strawberries,\nstir to coat, and let sit until berries give off their juices, at least 5 minutes. Stir briefly before using.\nSecret Sunday Brunch in partnership with Pierre Jourdan\n#anytimebubbly\n"
   },
   {
@@ -2936,7 +2936,7 @@ window.searchData = [
   {
     "title": "PARMA HAM & MELON",
     "source": "Secret Sunday Brunch Here Comes The Sun.pdf",
-    "url": "recipes/PARMA_HAM_&_MELON.html",
+    "url": "recipes/PARMA_HAM_MELON.html",
     "body": "PARMA HAM & MELON\n1 canteloupe or spanspek\n8 Parma ham slices\nFreshly ground pepper\nOlive oil, for drizzling\nParsley, for garnishing\nPeel the melon, remove the seeds and cut into 8 slices.\nWrap each melon wedge with a slice of Parma ham.\nDrizzle the dish with olive oil and sprinkle with parsley and pepper. Serve immediately.\nSecret Sunday Brunch in partnership with Pierre Jourdan\n#anytimebubbly\n"
   },
   {
@@ -2966,19 +2966,19 @@ window.searchData = [
   {
     "title": "STRAWBERRY ORANGE & SPICE",
     "source": "Secret Sunday Brunch Here Comes The Sun.pdf",
-    "url": "recipes/STRAWBERRY_ORANGE_&_SPICE.html",
+    "url": "recipes/STRAWBERRY_ORANGE_SPICE.html",
     "body": "1 pound strawberries, hulled and halved (or\nquartered if very large)\n3 oranges\n1/4 tsp ground cardamom\n1 tablespoon fresh lemon juice, plus more to\ntaste\n2-1/2 tablespoons light brown sugar, packed\n1 tablespoon finely chopped fresh mint, plus\na sprig for garnish\nHull and half or quarter the strawberries into a serving bowl.\nCut a slice off the top and bottom of each orange so they sit flat\non a cutting board. Using a sharp knife, work your way around\nthe fruits to remove all the skin and pith. Cupping the orange in\none hand and working over the serving bowl, carefully cut the\nsegments out from between the membranes. (Be sure to cut only\nuntil you reach the middle of the fruit!) Over a separate small\nbowl, firmly squeeze the remaining membranes to release all\nthe orange juice.\nAdd the lemon juice and brown sugar to the freshly squeezed\norange juice and stir until the sugar is dissolved. Pour over the\nstrawberries and orange segments and gently toss to combine.\nSprinkle with fresh mint. Taste and add more lemon juice if\nnecessary (the syrup should have a perfect balance of tart and\nsweet). Refrigerate for at least 30 minutes or up to six hours.\nGarnish with sprigs of fresh mint and serve chilled\nSTRAWBERRY ORANGE & SPICE\nSALAD\n"
   },
   {
     "title": "CHICKEN & SUNDRIED TOMATO",
     "source": "Secret Sunday Brunch Here Comes The Sun.pdf",
-    "url": "recipes/CHICKEN_&_SUNDRIED_TOMATO.html",
+    "url": "recipes/CHICKEN_SUNDRIED_TOMATO.html",
     "body": "CHICKEN & SUNDRIED TOMATO\nSAUSAGE ROLLS\n1kg chicken thighs, deboned and skinless,\nminced\n1 medium brown onion, chopped finely\n1/2 cup breadcrumbs\n1 egg\n1/4 cup finely chopped fresh basil\n1/2 tsp dried oregano\n1/2 cup drained semi-dried tomatoes in oil,\nfinely chopped\n2 tbsp tomato paste\n5 sheets puff pastry\n1 egg, extra to glaze\nPreheat the oven to 220C/200C fan forced. Line oven trays with\nbaking paper\nCombine mince, onion, breadcrumbs, egg, basil, semi-dried\ntomato and paste in a large bowl\nCut pastry sheets in half lengthways. Place equal amounts of\nchicken filling mixture along the centre of each pastry piece; roll\npastry to enclose the filling\nCut each into 6 equal pieces, place seam side down, on trays..\nBrush with extra egg\nBake rolls for about 30-minutes. Serve warm with a home made\ntomato sauce\nThe Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\n"
   },
   {
     "title": "Sundried Tomato & Ricotta Twisted",
     "source": "Secret Sunday Brunch Here Comes The Sun.pdf",
-    "url": "recipes/Sundried_Tomato_&_Ricotta_Twisted.html",
+    "url": "recipes/Sundried_Tomato_Ricotta_Twisted.html",
     "body": "Secret Sunday Brunch in partnership with Pierre Jourdan\n#anytimebubbly\nSundried Tomato & Ricotta Twisted\nLoaf\n2 1/4 cups flour\n1/2 tsp salt\n3/4 cup lukewarm milk\n1 tbsp sugar\n15 g fresh yeast (1 envelope active dry yeast)\n1/8 cup (30 g) melted butter\n1 egg yolk\n1/4 cup (70 g) softened butter\n5 tbsp grated parmesan\n120gms sundried tomato halves\n200gms ricotta cheese\n100gms grated white cheddar\nIn a medium bowl stir fresh yeast with sugar until it liquefies. Stir in the lukewarm milk and then add the egg yolk and\nmelted butter. In a large bowl whisk together the flour and salt.\nPour the milk mixture over the dry ingredients and start kneading it until it pulls away from the edges of the bowl. Give the\ndough the shape of a ball. Sprinkle oil onto a clean bowl, place the dough and cover with plastic wrap. Let it rest for about 1\nhour at room temperature (warm space) until doubled in size.\nWhile the dough rises, process together the butter, sundried tomatoes, parmesan & ricotta cheese. Set aside.\nPreheat the oven to 400 F (200 C). Line a baking sheet with parchment paper. On a floured surface, using a rolling pin roll the\ndough to a rectangle of about 18x12 inches. Spoon the filling over top (keep about 1 tbsp of the filling for the end),\nspreading evenly, leaving a clean 1/2-inch border around the edges. Sprinkle the grated chedda cheese\u2019.\nRoll up the dough and using a sharp knife, cut the log in half lengthwise leaving one edge uncut for about 1/2 inch. Start\nbraiding the two pieces, trying to keep the open layers exposed so the cut ends remain on top (this is what makes this\nbread effect).Pinch the ends together. Transfer it to the prepared baking sheet.\nBrush the wreath with the left butter filling. Bake for 20-25 minutes until golden brown. For the last 10 minutes you can\nreduce the oven temperature to 180 C (350 F).\n"
   },
   {
@@ -3020,7 +3020,7 @@ window.searchData = [
   {
     "title": "POTATO & LEEK SOUP",
     "source": "Soups & Pies.pdf",
-    "url": "recipes/POTATO_&_LEEK_SOUP.html",
+    "url": "recipes/POTATO_LEEK_SOUP.html",
     "body": "INGREDIENTS\n3 tablespoons unsalted butter\n4 large leeks, white and light green parts \nonly, roughly chopped (about 5 cups)\n3 cloves garlic, peeled and smashed\n900g potatoes, peeled and roughly \nchopped into \u00bd-inch pieces\n7 cups chicken or vegetable stock\n2 bay leaves\n3 sprigs fresh thyme\n1 teaspoon salt\n\u00bc teaspoon ground black pepper\n1 cup heavy cream\nChives, finely chopped, for serving\nINSTRUCTIONS\nStep 1:  Melt the butter over medium heat in a large soup pot. \nAdd the leeks and garlic and cook, stirring regularly, until soft \nand wilted, about 10 minutes. Adjust the heat as necessary so \nas not to brown.\nStep 2:  Add the potatoes, broth, bay leaves, thyme, salt and \npepper to pot and bring to a boil. Cover and turn the heat \ndown to low. Simmer for 15 minutes, or until the potatoes are \nvery soft.\nStep 3:  Fish out the thyme sprig and bay leaves, then pur\u00e9e \nthe soup with a hand-held immersion blender until smooth. \n(Alternatively, use a standard blender to pur\u00e9e the soup in \nbatches; see note.) Add the heavy cream and bring to a \nsimmer. Taste and adjust seasoning with salt and pepper. If \nsoup is too thin, simmer until thickened. If it's too thick, add \nwater or stock to thin it out. Garnish with fresh herbs if desired.\nPOTATO & LEEK SOUP\n"
   },
   {
@@ -3068,7 +3068,7 @@ window.searchData = [
   {
     "title": "ROASTED RED PEPPER & FETA",
     "source": "Soups & Pies.pdf",
-    "url": "recipes/ROASTED_RED_PEPPER_&_FETA.html",
+    "url": "recipes/ROASTED_RED_PEPPER_FETA.html",
     "body": "ROASTED RED PEPPER & FETA \nDIP\n4 red bell peppers\n1/4 cup extra-virgin olive oil \n2tbsp red wine vinegar\n2 garlic cloves, peeled\n2 cups crumbled feta cheese\nChar peppers directly over gas flame or in broiler until blackened \non all sides. Enclose in paper bag 10 minutes. Peel, seed, and \nquarter peppers.\nPuree peppers, oil, garlic, red wine vinegar and cheese \nin processor. Season with salt and pepper. Chill at least 3 hours \nor overnight.\n"
   },
   {
@@ -3086,13 +3086,13 @@ window.searchData = [
   {
     "title": "AVOCADO & ROMAINE SALAD",
     "source": "Soups & Pies.pdf",
-    "url": "recipes/AVOCADO_&_ROMAINE_SALAD.html",
+    "url": "recipes/AVOCADO_ROMAINE_SALAD.html",
     "body": "AVOCADO & ROMAINE SALAD\nLight, quick and fresh!\n1 cup cherry tomatoes (halved)\n1 tablespoon chives (fresh, chopped)\n1 1/3 cup avocado (chopped)\n3 cups romaine hearts (chopped)\n2 teaspoons parsley (chopped)\n1 teaspoon dill (chopped)\nDrizzle balsamic vinegar (to taste)\nDrizzle extra virgin olive oil (to taste)\n, start by cutting tomatoes,\nroughly chop the chives, parsley, and dill, add everything to a\nbowl. Roughly chop the romaine lettuce and add to the\nbowl, toss gently and season with a little salt and pepper,\nplace in a serving platter\nGently peel the avocados, and cut into rough chunks\nand add these to the tomato and lettuce salad.\n2 tbsp red wine vinegar\n6 tbsp extra virgin olive oil\nWhisk together the olive\noil and vinegar, season with a little salt & pepper, drizzle over\nthe prepared salad.\n"
   },
   {
     "title": "Sundried Tomato & Ricotta Twisted",
     "source": "Soups & Pies.pdf",
-    "url": "recipes/Sundried_Tomato_&_Ricotta_Twisted.html",
+    "url": "recipes/Sundried_Tomato_Ricotta_Twisted.html",
     "body": "Sundried Tomato & Ricotta Twisted\nLoaf\n2 1/4 cups flour\n1/2 tsp salt\n3/4 cup lukewarm milk\n1 tbsp sugar\n15 g fresh yeast (1 envelope active dry yeast)\n1/8 cup (30 g) melted butter\n1 egg yolk\n1/4 cup (70 g) softened butter\n5 tbsp grated parmesan\n120gms sundried tomato halves\n200gms ricotta cheese\n100gms grated white cheddar\nIn a medium bowl stir fresh yeast with sugar until it liquefies. Stir in the lukewarm milk and then add the egg yolk and\nmelted butter. In a large bowl whisk together the flour and salt.\nPour the milk mixture over the dry ingredients and start kneading it until it pulls away from the edges of the bowl. Give the\ndough the shape of a ball. Sprinkle oil onto a clean bowl, place the dough and cover with plastic wrap. Let it rest for about 1\nhour at room temperature (warm space) until doubled in size.\nWhile the dough rises, process together the butter, sundried tomatoes, parmesan & ricotta cheese. Set aside.\nPreheat the oven to 400 F (200 C). Line a baking sheet with parchment paper. On a floured surface, using a rolling pin roll the\ndough to a rectangle of about 18x12 inches. Spoon the filling over top (keep about 1 tbsp of the filling for the end),\nspreading evenly, leaving a clean 1/2-inch border around the edges. Sprinkle the grated chedda cheese\u2019.\nRoll up the dough and using a sharp knife, cut the log in half lengthwise leaving one edge uncut for about 1/2 inch. Start\nbraiding the two pieces, trying to keep the open layers exposed so the cut ends remain on top (this is what makes this\nbread effect).Pinch the ends together. Transfer it to the prepared baking sheet.\nBrush the wreath with the left butter filling. Bake for 20-25 minutes until golden brown. For the last 10 minutes you can\nreduce the oven temperature to 180 C (350 F).\n"
   },
   {
@@ -3128,7 +3128,7 @@ window.searchData = [
   {
     "title": "Esquites (Charred Corn Salad)",
     "source": "Tacos n Tequila 2023.pdf",
-    "url": "recipes/Esquites_(Charred_Corn_Salad).html",
+    "url": "recipes/Esquites_Charred_Corn_Salad.html",
     "body": "The Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\nEsquites (Charred Corn Salad)\n4 cups corn (about 5 ears)\n1 tbsp olive oil\n1/2 red bell pepper chopped\n1/2 small red onion finely chopped\n1/2 cup fresh cilantro chopped\n6 spring onions chopped\n1 jalapeno pepper diced\n1/2 avocado chopped\n4 tbsp lime juice (from about 2 limes)\n1/2 tsp cumin ground\n1/2 tsp smoked paprika\n1/4 tsp black pepper ground\n1/4 tsp salt\n2 tbsp sour cream (or yogurt)\n2 tbsp mayonnaise\n1/2 cup feta, crumbled\nStart by charring the corn over a hot braai or in a very hot griddle pan. Allow to cool until it can be handled, then\ncut the corn off the cob and set aside in a large bowl.\n(You can also use canned corn or frozen corn. If using frozen, no need to thaw it out. You will need to char it in a\nvery hot dry pan)\nTransfer the corn to a large bowl and let it cool for a couple minutes.\nTo the same bowl, add the remaining ingredients. Stir everything together (excluding the diced avocado) until well\ncombined. Now add the avocado, mix gently, taste and then adjust lime juice and salt and pepper as necessary.\nTo serve garnish with additional cheese and cilantro, if preferred.\n"
   },
   {
@@ -3170,7 +3170,7 @@ window.searchData = [
   {
     "title": "Mexican Coleslaw with a cumin &",
     "source": "Tacos n Tequila 2023.pdf",
-    "url": "recipes/Mexican_Coleslaw_with_a_cumin_&.html",
+    "url": "recipes/Mexican_Coleslaw_with_a_cumin.html",
     "body": "Mexican Coleslaw with a cumin &\nlime dressing\n4 cups shredded cabbage mix , (a mix of red and green cabbage / shredded carrots)\n1 red pepper , medium sized\nDressing:\n\u00bd cup chopped cilantro\n\u00bd cup chopped red onion\n\u00bd cup red wine vinegar , or vinegar of choice\n\u00bc cup olive oil,\n2 tablespoons lime juice , about one lime\n1 tablespoon cumin\n1/2 teaspoon sea salt\nA few tbsp vegetable stock to thin out dressing if needed , up to a1/4 cup\nPlace all dressing ingredients in a mixing bowl or container and whisk or shake well. After mixing, allow dressing to sit while\nprepping the rest of the salad so that the flavors can combine. You can also do this the day before.\nThinly slice the red pepper, cabbage, red green cabbage, and place in a large mixing bowl.\nCombine dressing and coleslaw, toss well to coat all the ingredients and serve.\nThe Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\n"
   },
   {
@@ -3200,7 +3200,7 @@ window.searchData = [
   {
     "title": "CORIANDER & LIME CHOPPED",
     "source": "Tacos n Tequila 2023.pdf",
-    "url": "recipes/CORIANDER_&_LIME_CHOPPED.html",
+    "url": "recipes/CORIANDER_LIME_CHOPPED.html",
     "body": "1 head of lettuce washed and leaves cut or torn\ninto large pieces\n2 tomatoes sliced or quartered\n\u00bd red onion thinly sliced\n1 avocado sliced or diced\n1 tbs finely chopped cilantro\nJuice of 2 limes\n2 tbs olive oil\nSalt and pepper to taste\nPrepare the dressing by mixing the chopped cilantro, lemon juice,\noil, salt and pepper. Set aside.\nPut the lettuce, tomatoes, onion and avocado in a salad bowl.\nAdd the dressing to the salad and toss well.\nCORIANDER & LIME CHOPPED\nSALAD\n"
   },
   {
@@ -3248,19 +3248,19 @@ window.searchData = [
   {
     "title": "ASPARAGUS, PEA & BABY",
     "source": "Taste of Summer.pdf",
-    "url": "recipes/ASPARAGUS,_PEA_&_BABY.html",
+    "url": "recipes/ASPARAGUS_PEA_BABY.html",
     "body": "2 tablespoons unsalted butter or olive oil\n1 pound gnocchi\n10 spears asparagus, give or take, cut into 1\ninch lengths\n1 clove garlic, minced\n\u215b teaspoon red pepper flakes\njuice of \u00bd lemon\n2 tablespoons cream\n1 cup fresh or frozen peas\n100g baby spinach (couple of big handfuls)\nsalt and pepper, to taste\nIn a large pot or frying pan with a lid, heat the butter or oil on\nlow heat.\nAdd the garlic and the red pepper flakes, and fry until just\nfragrant.\nNow add the peas and asparagus and fry for 1 minute.\nAdd the lemon juice, and cream and for until slightly thickened.\nNow add the baby spinach and allow to collapse before\nadjusting seasoning\nAdd the gnocchi and some of the reserved pasta water, toss to\ncoat and serve\nASPARAGUS, PEA & BABY\nSPINACH SAUCE\n"
   },
   {
     "title": "SPINACH & RICOTTA",
     "source": "Taste of Summer.pdf",
-    "url": "recipes/SPINACH_&_RICOTTA.html",
+    "url": "recipes/SPINACH_RICOTTA.html",
     "body": "INGREDIENTS\n2 tbsp olive oil\n1 small onion , finely chopped)\n4 garlic cloves , finely minced\n1 bay leaf , fresh (sub dried)\n1/2 tsp dried thyme\n1/2tsp dried oregano\n100 g tomato paste\n700g passata\n85 mlwhite wine\n1 litre vegetable stock , low sodium\n3/4 tsp salt, or more as needed\n1 1/2 tsp sugar, if needed\n1/3tsp black pepper\nFilling:\n500g fresh chopped spinach\n500g ricotta, full fat|\n50 g parmesan, finely grated\n100 g grated Mozzarella\n1 egg\n1 large garlic clove, pasted\nGrated fresh nutmeg (just a sprinkling) or \n1/8 tsp nutmeg powder (optional)\n3/4 tsp salt\n1/2 tsp black pepper\nStuffed shells\n250g jumbo conchiglie\n150 grated  mozzarella\n50 g grated parmesan\nFresh basil \nExtra parmesan, for garnish (optional)\nInstructions\nINSTRUCTIONS\nStep 1:  Heat oil in a small pot over medium high heat. Add \ngarlic, onion, bay leaf, thyme and oregano. Cook for 3 - 4 \nminutes until the onion is translucent. Add tomato paste and \ncook for 1 minute.\nStep 2:   Add wine, increase heat to high and let it simmer \nrapidly until mostly evaporated.\nStep 3:   Add passata, stock, sugar, salt and pepper. Stir then \nsimmer on low, uncovered  for 20 minutes. Use while hot.\nFilling:\nStep 1:  Saute your chopped spinach with a little oil to wilt \ndown and remove and then squeeze to remove excess liquid. \nCool then proceed with recipe.\nStep 2:  Place spinach in a bowl with remaining Filling \ningredients. Mix well.\nAssemble & Bake:\nStep 1:  Preheat oven to 200\u00b0C or 180\u00b0C fan.\nStep 2:  Stuff UNCOOKED shells with spinach ricotta filling. Stuff \nthem full!\nStep 3:  Assemble - Pour the hot tomato sauce in a 23 x 33 \ncm. Gently place the stuffed shells in - most will be \nsubmerged, some may poke above surface.\nStep 4:  Cover with some foil or a baking tray then bake for 70 \nminutes.\nStep 5:  Check the shells are cooked - they should be al \ndente! (If not, return to oven, covered). Sprinkle with mozzarella \nthen parmesan. Bake 15 minutes until melted and just starting \nto go golden\nSPINACH & RICOTTA \nCONCHIGLIE\n"
   },
   {
     "title": "PEAR & CHOCOLATE CAKE",
     "source": "Taste of Summer.pdf",
-    "url": "recipes/PEAR_&_CHOCOLATE_CAKE.html",
+    "url": "recipes/PEAR_CHOCOLATE_CAKE.html",
     "body": "INGREDIENTS\n4 large, very firm and hard pears\n170 g of '00 flour\n30 g of bitter cocoa powder\n170 g of sugar\n70 g sunflower seed oil or melted butter\n2 eggs\n125 g of berry yogurt (or classic plain yogurt) \nat room temperature\n130 g dark chocolate (in flakes or drops)\n1 sachet of vanilla or 1 teaspoon of extract\n1 sachet of baking powder\nINSTRUCTIONS\nStep 1:  To start beat eggs, sugar and vanilla for 2 minutes in \na stand mixer with a whisk attachment, until the mixture \nbecomes frothy and light. Then with your machine running \nadd the oil in a thin stream.\nStep 2:  In a second bowl, sift the flour, baking powder and \ncocao and then set aside.  \nStep 3:  Now add a third of the flour mixture to the egg \nmixture and stir until all the flour has been abosrbed, then \nadd half of the yoghurt mixture and stir until combine.\nStep 4:  Repeat with the last half of the flour and then the \nbalance of the yoghurt.  Finally add the chocolate pieces, \nreserving a few to use on top.\nStep 5:  Now peal your pears and cut them into 3 mm thick \nslices, and set aside, it is important that the pears are firm.\nStep 6:  Now add your cake butter into a greased and lined \n24cm, baking tin\nStep 7:  Now add the sliced pears into the batter, place them \nin upright so that they create interest, some slices can be \npushed all the way into the batter and others you can keep \nsticking out partially.\nStep 8:  The trick is to creating a beautiful design of pear and \nchocolate cake is to not to push the pears below the surface\nStep 9:  Finally add the reserved chocolate pieces over the top\nStep 10:  Bake in a preheated oven at 180\u00b0 for 40 \u2013 45 \nminutes. The time is indicative and may vary depending on \nthe oven!\nStep 11:  The  pear and chocolate cake is ready when it has \nrisen and a toothpick inserted comes out dry!\nPEAR & CHOCOLATE CAKE\n"
   },
   {
@@ -3278,7 +3278,7 @@ window.searchData = [
   {
     "title": "PRAWN & TOMATO",
     "source": "Taste of Summer.pdf",
-    "url": "recipes/PRAWN_&_TOMATO.html",
+    "url": "recipes/PRAWN_TOMATO.html",
     "body": "INGREDIENTS\n500 g cherry tomatoes washed and halved\n2 garlic cloves peeled and finely chopped\n3-4 tablespoon extra virgin olive oil\n1 handful fresh parsley chopped\n1 teaspoon dried thyme\n700g prawns in the shell\n1 glass white wine\n2-3 garlic cloves peeled and finely chopped\n20 g butter\nINSTRUCTIONS\nStep 1:  Wash the tomatoes and cut them in half. Peel and \nchop the garlic\nStep 2:  Heat some olive oil in a large frying pan or skillet and \nadd the chopped garlic Once it starts to soften, add the \ntomatoes and the thyme. Simmer until the tomatoes start to \nsoften.   Now add the chopped parsley and remove from the \nheat\nStep 3:  In a seperate pan melt the butter with a tablespoon of \nolive oil.   Add the garlic and fry until it starts to soften. Then \nadd the prawns and fry them until the shells start to brown (5 \nmins). Pour in the white wine and cook for two minutes. Stir \nevery now and again.\nStep 4:  Turn off the heat and remove the prawns from the pan \nwith a slotted spoon. Keep the cooking juices and wine. Once \nthey have cooled enough to handle, remove the shells from \nthe prawns and cut the peeled prawns into 2-3 pieces. \nStep 5:  Add the reserved juices to the tomato sauce once it is \nalmost ready, then add the prawn pieces. Now cook your \npasta.  \nStep 6:  Once the pasta cooked add it to the  to the prawn \nand tomato sauce and toss to coat.  If the sauce seems dry \nadd some of the pasta cooking water. Stir everything together \nwell.\nStep 7:   Serve immediately with a sprinkling of chopped \nparsley and a pinch of peperoncino flakes if\nPRAWN & TOMATO \nFETTUCINE\n"
   },
   {
@@ -3290,7 +3290,7 @@ window.searchData = [
   {
     "title": "Mexican Coleslaw with a cumin &",
     "source": "Taste of Summer.pdf",
-    "url": "recipes/Mexican_Coleslaw_with_a_cumin_&.html",
+    "url": "recipes/Mexican_Coleslaw_with_a_cumin.html",
     "body": "Mexican Coleslaw with a cumin & \nlime dressing\n4 cups shredded cabbage mix , (a mix of red and green cabbage / shredded carrots)\n1 red pepper , medium sized\nDressing:\n\u00bd cup chopped cilantro\n\u00bd cup chopped red onion\n\u00bd cup red wine vinegar , or vinegar of choice \u00bc cup olive oil,\n2 tablespoons lime juice , about one lime\n1 tablespoon cumin 1/2 teaspoon sea salt\nA few tbsp vegetable stock to thin out dressing if needed , up to a1/4 cup\nPlace all dressing ingredients in a mixing bowl or container and whisk or shake well. After mixing, allow dressing to sit while \nprepping the rest of the salad so that the flavors can combine. You can also do this the day before.\nThinly slice the red pepper, cabbage, red green cabbage, and place in a large mixing bowl.\nCombine dressing and coleslaw, toss well to coat all the ingredients and serve.\nThe Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\n"
   },
   {
@@ -3308,7 +3308,7 @@ window.searchData = [
   {
     "title": "Brocolli, Ricotta Bruschetta",
     "source": "Taste of Summer.pdf",
-    "url": "recipes/Brocolli,_Ricotta_Bruschetta.html",
+    "url": "recipes/Brocolli_Ricotta_Bruschetta.html",
     "body": "The Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\nBrocolli, Ricotta Bruschetta\nKnob of butter\n4tbsp extra virgin olive oil \n120gms brocolli\n1 clove garlic\npinch dried chilli \n100gms ricotta cheese \nparmesan shavings\nsalt & pepper\n12 slices of baguette\n extra virgin olive oil\n1 clove garlic\nBring some salted water to the boil.  Cook the brocolli for 2-minutes until starting to go tender.  Drain and set \naside.  In a frying pan heat the olive oil and knob of butter, then add the finely sliced garlic and the dried chilli. \nAs soon as the garlic beings to brown add the brocolli to the pan and pan fry for 2-3 minutes.\nTo prepare the ricotta season fresh ricotta with salt and pepper and a drizzle of extra virgin olive oil.\nToast the bruschetta in a hot pan and then rub with cut clove of garlic and drizzle with olive oil.\nTo serve top the bruschetta with some ricotta cheese and pile on some hot brocolli, top with parmesan shavings.\n"
   },
   {
@@ -3326,7 +3326,7 @@ window.searchData = [
   {
     "title": "GREEN BEAN ALMOND &",
     "source": "Taste of Summer.pdf",
-    "url": "recipes/GREEN_BEAN_ALMOND_&.html",
+    "url": "recipes/GREEN_BEAN_ALMOND.html",
     "body": "INGREDIENTS\n\u2153 cup sliced almonds\n450gms green beans, trimmed and cut into \n7cm long pieces\n\u00bc cup water\n\u00bd teaspoon fine sea salt, divided\n2 tablespoons extra-virgin olive oil\n1 tablespoon lemon juice (about \u00bd lemon)\n2 teaspoons Dijon mustard\n1 small-to-medium clove garlic\n1/4tsp freshly ground black pepper\nPinch of red pepper flakes\n\u00bc cup crumbled feta cheese, divided\n3 to 4 large basil leaves, torn or chopped, \nfor garnish\nLemon zest from about \u00bd lemon, for garnish\nINSTRUCTIONS\nStep 1:  Start with a large skillet over medium heat. Add the \nalmonds and cook, stirring frequently (careful, they burn \nquickly). After 3 minutes, reduce the heat to medium-low, and \ncontinue stirring until they are fragrant and turning golden on \nthe edges, about 1 to 3 more minutes. Transfer the almonds to \na bowl to cool.\nStep 2:  Make sure the heat is set to medium-low and place \nthe skillet back on the heat. Immediately add the green \nbeans, water and \u00bc teaspoon salt. Cover and cook, stirring \noccasionally, until the beans are nearly tender, about 7 to 10 \nminutes. Remove the lid, raise heat to medium-high, and cook \nuntil the liquid evaporates, 2 to 5 minutes. Remove the skillet \nfrom the heat and set aside.\nStep 3:  Meanwhile, whisk together the olive oil, lemon juice, \nmustard, garlic, black pepper, red pepper flakes and \nremaining \u00bc teaspoon salt. Set aside.\nStep 4:  Once the green beans are done cooking, whisk the \nolive oil mixture once more, then pour it into the skillet. Pour \nthe almonds back into the skillet, and add about half of the \nfeta, reserving the other half for garnish. Toss to combine, then \ntaste and add more lemon juice or black pepper if necessary.\nStep 5:  Transfer the green beans to a serving bowl or platter. \nSprinkle the remaining feta and the torn basil leaves on top. \nLightly grate some lemon zest on top, and serve promptly.\nGREEN BEAN ALMOND &\nFETA SALAD\n"
   },
   {
@@ -3338,13 +3338,13 @@ window.searchData = [
   {
     "title": "WHITE CHOCOLATE &",
     "source": "Taste of Summer.pdf",
-    "url": "recipes/WHITE_CHOCOLATE_&.html",
+    "url": "recipes/WHITE_CHOCOLATE.html",
     "body": "WHITE CHOCOLATE &\nLEMON BLONDIES\n3/4 cup butter, cubed\n1-1/2 cups packed light brown sugar \n2 large eggs, room temperature\n1 teaspoon vanilla extract\n2-1/4 cups all-purpose flour\n1-1/2 teaspoons baking powder\n1/4 teaspoon salt\nZest of 2 lemons\nJuice of 1 lemon\n180gms white chocolate, coarsely chopped\nLEMON GLAZE\n1 tablespoon grated lemon zest, optional\n150gms icing sugar\n3tbsp lemon juice\nPreheat oven to 175C\u00b0. In a small pot, melt the butter and \nlemon zest, remove from heat; stir in the brown sugar. Cool \nslightly.\nBeat in 1 eggs at a time, then the lemon juice and vanilla - stir \nto combine well.\nIn another bowl, whisk together flour, baking powder and salt; \nstir into butter mixture. Stir in the chopped chocolate (batter will \nbe thick). Spread into a lined and greased 20 x 32cm p an.\nBake until golden brown and a toothpick inserted in center \ncomes out clean (do not overbake), 18-21 minutes. Cool for \n10-15 minutes in the tin then add the glaze.\nIn a small bowl combine the lemon zest, lemon juice, vanilla \nand icing sugar, whisk for 2 minutes until thoroughly combine, \nthen cover the top of the still warm blondies.  Allow to cool \ncompletely and then remove and cut into cubes.\n"
   },
   {
     "title": "APPLE & HERB STUFFED",
     "source": "The Festive Table 2024.pdf",
-    "url": "recipes/APPLE_&_HERB_STUFFED.html",
+    "url": "recipes/APPLE_HERB_STUFFED.html",
     "body": "INGREDIENTS\n2 tablespoons olive oil\n1 medium apple, peeled and cut into small \ndice (about 1 cup)\n1/4 medium yellow onion, finely chopped \n(about 1/3 cup)\n1 tablespoon chopped fresh rosemary\n1 tablespoon chopped fresh thyme\n1 to 2 thick slices bread (enough to make \n1/2 cup coarse breadcrumbs)\n1 tablespoon Dijon mustard\n1/8 teaspoon salt, plus more to taste\n1/8 teaspoon pepper, plus more to taste\n1 pork fillet (650gms)\n8 to 10 strips bacon (about 360gms), cut in \nhalf\nINSTRUCTIONS\nStep 1:  Heat the oven to 220C.  In a pan over medium heat, \nheat the oil. Add the apple, onion, rosemary, and thyme, and \ncook for 7 to 9 minutes, or until softened. Meanwhile, pulse \nthe bread slices in a food processor until you make coarse \ncrumbs. You should have about 1/2 cup of breadcrumbs.\nStep 2:  Remove the pan with the onions and apples from the \nheat, and stir in the breadcrumbs, mustard, salt, and pepper. \nSet aside to cool briefly.\nStep 3:  Cut a deep lengthwise slit down the center of the \ntenderloin, stopping about 1.5cm from the bottom of the roast. \nOpen it up like a book. Cover with a piece of plastic wrap, and \nwith a mallet or rolling pin, gently pound it until it is of an even \nthickness.\nStep 4:  Spread the stuffing in a line along the center of the \nmeat. Bring the edges of the meat together to return it to its \noriginal shape. Secure with toothpicks.\nStep 5:  Lay out the bacon slices on a cutting board, \noverlapping them slightly. Place the tenderloin on top with the \ntoothpicks facing up. Removing the toothpicks as you work, \nwrap the bacon slices around the pork to form a log. Place \nthe tenderloin, bacon seam side down, on the baking sheet.\nStep 6:  Roast for 20 to 25 minutes. If the roast is ready before \nthe bacon browns, place the tenderloin under the broiler for 3 \nto 5 minutes to brown the bacon.\nStep 7:  Let the tenderloin rest for 10 minutes before cutting \ninto slices:\nStep 8:  Serve with the pan juices spooned over top if desired.\nAPPLE & HERB STUFFED \nBACON WRAPPED PORK \nFILLET\n"
   },
   {
@@ -3356,7 +3356,7 @@ window.searchData = [
   {
     "title": "AVOCADO & CORN SALAD",
     "source": "The Festive Table 2024.pdf",
-    "url": "recipes/AVOCADO_&_CORN_SALAD.html",
+    "url": "recipes/AVOCADO_CORN_SALAD.html",
     "body": "INGREDIENTS\n3 cups cooked corn, about 3 medium/ large \nears of corn\n1 red bell pepper\n1 can of black beans, rinsed and drained\n2 avocados, not overly ripe\n\u00bc cup red onion\n1 Jalape\u00f1o , optional\n4 tbsp fresh cilantro\nDressing\n\u00bc cup fresh lime juice, \n1 tbsp apple cider vinegar\n3 tbsp olive oil\n1 tbsp honey,\n1 tsp smoked paprika\n\u00be tsp kosher salt\n\u00bc tsp pepper\n\u00bc tsp garlic powder\n2 tbsp fresh cilantro , optional for dressing\nINSTRUCTIONS\nStep 1:  If the corn is frozen, thaw it according to the package. \nI prefer it fresh off the cob for extra crunch.  If using fresh corn \non the cob, peel and shuck it.\nStep 2:   Mix up all the dressing ingredients in a small bowl, \napple cider vinegar, oil, seasoning, chopped cilantro, honey, \nlime juice. Give it a taste and adjust as needed.\nStep 3:  Chop up the jalape\u00f1o, red bell pepper, avocado, \nonion, and cilantro into bite sized pieces. Try to keep \neverything close in size to a piece of corn.\nStep 4:  With a sharp knife and steady hand, place the corn \ncob on a non slip cutting board vertically and use the knife to \nslice all the corn kernels off in a downward direction. Gently \nseparate the kernels if they are all stuck together, some stuck \ntogether is okay, and looks beautiful in the salad.\nStep 5:  Assemble salad by adding all the ingredients \ntogether, peppers, onion, black beans, cilantro, jalape\u00f1o, \navocado and pour dressing over the salad. Toss well, serve.\nAVOCADO & CORN SALAD\n"
   },
   {
@@ -3380,19 +3380,19 @@ window.searchData = [
   {
     "title": "CHOCOLATE & RASPBERRY",
     "source": "The Festive Table 2024.pdf",
-    "url": "recipes/CHOCOLATE_&_RASPBERRY.html",
+    "url": "recipes/CHOCOLATE_RASPBERRY.html",
     "body": "The Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\nCHOCOLATE & RASPBERRY \nROULADE\n150g plain chocolate with 60% cocoa solids \nTR6 medium eggs, separated\n150g caster sugar plus a little for sprinkling\n450ml double cream\n3 tbsp icing sugar 350g \nraspberries\nicing sugar to dust cocoa powder to dust\nGrease a nonstick baking paper and line a 23x33 cm Swiss roll \ntin. Preheat the oven to 180\u00b0C\n.\nMelt the chocolate over a pan of gently simmering water.\nPlace the egg whites in a large grease-free bowl and using an \nelectric whisk, whisk them until they form soft peaks. Set aside.\nPlace the egg yolks and sugar in a large bowl and stand it over \na pan of simmering water. Whisk until the eggs are fluffy and \nthick enough to leave a trail when the whisk heads are lifted \nfrom the mixture. Stir in the chocolate then gently fold in the egg \nwhites.\nPour into the prepared tin and bake for 20-25 mins or until the \ncentre springs back when lightly touched with your finger.\nWhilst the cake cooks, lay a sheet of nonstick baking paper out \non the work surface and sprinkle with a little caster sugar. Tip the \nroulade out onto the paper, carefully peel away the lining paper, \ntrim the edges then cover the roulade with a clean, damp tea \ntowel. Leave to cool.\nWhip the cream and icing sugar until it forms soft peaks, gently \nfold in half the raspberries. Spread the cream mixture over the \nroulade, scatter over the remaining raspberries.\nThen starting from one of the narrow ends, carefully roll up the \nroulade using the paper to help. Transfer to a serving plate and \ndust with a mixture of icing sugar and cocoa.\n"
   },
   {
     "title": "ROAST CHICKEN & ROSEMARY",
     "source": "The Festive Table 2024.pdf",
-    "url": "recipes/ROAST_CHICKEN_&_ROSEMARY.html",
+    "url": "recipes/ROAST_CHICKEN_ROSEMARY.html",
     "body": "The Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\nROAST CHICKEN & ROSEMARY \nANCHOVY BUTTER\n1 lemon, cut into wedges\n1 onion, cut into wedges\n2 garlic cloves\n4 sprigs rosemary\n1 free-range chicken, around 1.5kg\n300ml white wine\n2tbsp cornflour mixed with 2tbsp cold water\nFor The Anchovy Butter: 125g butter\n2tbsp fresh parsley, chopped\n2tbsp rosemary leaves\n2 garlic cloves\n50g tin anchovies in oil, drained\nZest and juice \u00bd lemon\nTo make the anchovy butter, put the butter into a heatproof \nbowl and microwave on high for 10 seconds, to soften \nslightly. Put the parsley, rosemary and garlic in a processor \nand whizz to finely chop. Add the anchovies, lemon zest \nand juice and whizz to combine. Add the butter and blend \nagain.\nHeat the oven to 200 C. Push the lemon and onion \nwedges, garlic and rosemary inside the chicken cavity.\nLift up the loose chicken skin at the neck, and ease your \nfingers between the skin and chicken breast. Spoon in half \nthe anchovy butter. Tuck the loose skin under the wing \ntips, to secure.\nPut the chicken into a roasting tin, and rub the rest of the \nanchovy butter over the top and sides. Pour in 450ml \nwater and roast for 45 minutes. Baste, add the wine and \nroast for a further 30 minutes. Insert a skewer into the \nthickest part of the chicken \u2013 it\u2019s ready when the juices run \nclear. Put the chicken onto a serving plate and cover with \nfoil to rest.\nTo make the gravy, put the roasting tin directly onto the \nhob and heat with the cornflour mixture. Whisk to thicken, \ndirectly on hob. Carve the chicken and serve with the gravy \nand vegetables.\n"
   },
   {
     "title": "PRAWN & SAFFRON RISOTTO",
     "source": "The Festive Table 2024.pdf",
-    "url": "recipes/PRAWN_&_SAFFRON_RISOTTO.html",
+    "url": "recipes/PRAWN_SAFFRON_RISOTTO.html",
     "body": "PRAWN & SAFFRON RISOTTO\n1kg prawns, shell on, deveined and cleaned \n3tbsp butter\n1/4 cup olive oil\n2 cloves of garlic, finely chopped\n1 glass white wine Salt & pepper\n8 cups prawn stock 1/4 cup olive oil\n1 medium onion, diced\n1 stick of celery, finely chopped\n1 carrot, finely chopped \nLarge pinch of saffron\n2 cups arborio rice\n1 cup dry white wine\n1 tablespoon flat leaf parsley, chopped 4 \ntablespoons cold butter\nSalt and pepper\n1.  In a large heavybased saucepan, add the butter and olive oil. \nPlace over a medium heat.  Once it is hot add the garlic and stir \nquickly.  Almost immediately add the prawns.  Add them in a \nsingle layer allowing them to colour, but NOT cook all the way \nthrough.\n2.  As the prawns are cooked remove and set aside.  Once all \nthe prawns have been cooked, remove their heads and shells. \nReserve all the juices and shells.\n3.  Return the pan to the heat, add half a roughly chopped \nonion, a small bunch of fresh celery leaf and stir to coat.\n4.  Once the onion starts to soften add the white wine and \ndeglaze the pan.  Now add back all the prawn shells and \nreserved juices.\n5.  Add 2litres of a good quality light vegetable stock and \nsimmer for 20-minutes, skimming off any foam that surfaces.\n6.  Strain and use immediately, or allow to cool and freeze\n1.  Heat the oil in a large saucepan over medium heat; add \nonion, carrot and celery and season with salt and pepper\n2.  Add the rice and stir to coat with the oil; season with salt and \npepper and cook until slightly translucent.\n6.  The rice should be hot and sizzling, you should stir carefully to \nensure it does not stick.\n7 .  Add wine to the hot rice, the liquid should hiss and be quickly \nabsorbed.  Stir gently until almost all the liquid has cooked off. \nAdd hot stock and broth mixture, a ladleful at a time, completely \nstirring in the liquid each time.  Remember at this stage you are \ntrying to coax the starches out the rice by gently and continuosly \nstirring.\n8.  Keep adding broth as needed so there is always a 1/2cm \nliquid layer over the rice.\n9.  After about 8 minutes add add the saffron which has been \nsoaked in 2 tbsp warm water\n10. After 15 to 20 minutes, the rice should be close to al dente.\n11.  At this stage add the reserved prawn meat, cut into bite size \nhunks, and stir to combine well - the prawns will cook through in \nthe heat of the rice.\n12.  Taste and adjust seasoning\n13.  Now cover the pan, and allow it to stand for 2-3minutes.\n"
   },
   {
@@ -3416,7 +3416,7 @@ window.searchData = [
   {
     "title": "ROASTED CHERRY TOMATO &",
     "source": "The Festive Table 2024.pdf",
-    "url": "recipes/ROASTED_CHERRY_TOMATO_&.html",
+    "url": "recipes/ROASTED_CHERRY_TOMATO.html",
     "body": "300gms multicolored cherry tomatoes\n2 garlic cloves, thickly sliced\n5 tablespoons extra-virgin olive oil, plus\nmore for drizzling\nSalt & Pepper\n4 thin slices of pancetta\n32 sage leaves\n1 pound fresh ricotta cheese\n8 slices of country bread, cut 1/4-inch\nthick and toasted\nFlaky sea salt, for serving\nPreheat the oven to 190C\u00b0. In a bowl, toss the tomatoes\nwith the garlic and 1 tablespoon of the olive oil; season\nwith kosher salt and pepper. Transfer the tomatoes to one\nside of a parchment-lined baking sheet and lay the\npancetta slices out on the other side. Bake for 25 minutes,\nuntil the pancetta is crisp. Transfer the pancetta to paper\ntowels to drain, then crumble.\nRoast the tomatoes for about 10 more minutes, until\nbursting and lightly caramelized. Transfer the tomatoes and\nany rendered fat from the pancetta to a bowl.\nMeanwhile, in a small skillet, heat the remaining 1/4 cup\nof olive oil over moderately high heat. Add the sage and fry\nuntil bright green and crisp, 30 to 45 seconds. Drain the\nsage on paper towels; reserve the oil for another use.\nSpread the ricotta on the toasts and top with the tomatoes\nand crumbled pancetta. Drizzle with olive oil, sprinkle with\nsea salt and pepper and top the toasts with the sage\nleaves. Serve immediately.\nROASTED CHERRY TOMATO &\nRICOTTA BRUSCHETTA\n"
   },
   {
@@ -3446,13 +3446,13 @@ window.searchData = [
   {
     "title": "ASPARAGUS & GOATS CHEESE",
     "source": "The Festive Table 2024.pdf",
-    "url": "recipes/ASPARAGUS_&_GOATS_CHEESE.html",
+    "url": "recipes/ASPARAGUS_GOATS_CHEESE.html",
     "body": "ASPARAGUS & GOATS CHEESE \nGALETTE\n1 1/4 cup unbleached white flour \n1/4 teaspoon salt\n8 Tablespoons frozen unsalted butter cut into \nsmall pieces\n1/4 cup plain Greek yogurt \n1/4 cup ice cold water\n2 teaspoons lemon juice\n1/2 cup goat cheese softened\n1/2 cup freshly grated Parmesan cheese \n1/4 cup grated mozzarella\n1 Tablespoon olive oil plus 1 teaspoon\n1 clove garlic minced\n1 pound asparagus washed and trimmed\n1 egg yolk\n1 teaspoon water\nTo prepare crust, combine flour and salt in the bowl of a food \nprocessor. Pulse twice to combine. Add butter and pulse until \nmixture resembles coarse meal. Transfer mixture to a large bowl.\nIn a smaller bowl, whisk together yogurt, water, and lemon juice. \nPour over flour mixture and use hands or a wooden spoon to \nform dough into a ball. Wrap in plastic and store in freezer for 20 \nminutes.\nTo prepare filling, whisk together olive oil and garlic clove in a \nsmall bowl. In a separate bowl, combine the three cheeses and \nstir in one teaspoon of olive oil mixture. Refrigerate until ready for \nuse.\nTo assemble galette, preheat oven to 200C. Line a baking sheet \nwith parchment paper and set aside.\nOn a well floured surface, roll the chilled dough into a 12-inch \ncircle, trimming edges until smooth. Transfer dough to lined \nbaking sheet.\nLeaving a 2-inch border, spread the cheese mixture \nevenly over dough. Arrange asparagus over the cheese then \ndrizzle remaining olive oil mixture over the top. Fold over the \nedges of dough, pleating to make it fit.\nWhisk together egg yolk and water. Brush over the crust \nand bake for 30 minutes or until cheese is puffed, asparagus is \ntender, and crust is golden brown..\n"
   },
   {
     "title": "CHICKEN & SUNDRIED TOMATO",
     "source": "The Festive Table 2024.pdf",
-    "url": "recipes/CHICKEN_&_SUNDRIED_TOMATO.html",
+    "url": "recipes/CHICKEN_SUNDRIED_TOMATO.html",
     "body": "CHICKEN & SUNDRIED TOMATO \nSAUSAGE ROLLS\n1kg chicken thighs, deboned and skinless, \nminced\n1 medium brown onion, chopped finely \n1/2 cup breadcrumbs\n1 egg\n1/4 cup finely chopped fresh basil \n1/2 tsp dried oregano\n1/2 cup drained semi-dried tomatoes in oil, \nfinely chopped\n2 tbsp tomato paste\n5 sheets puff pastry\n1 egg, extra to glaze\nPreheat the oven to 220C/200C fan forced.  Line oven trays with \nbaking paper\nCombine mince, onion, breadcrumbs, egg, basil, semi-dried \ntomato and paste in a large bowl\nCut pastry sheets in half lengthways.  Place equal amounts of \nchicken filling mixture along the centre of each pastry piece; roll \npastry to enclose the filling\nCut each into 6 equal pieces, place seam side down, on trays.. \nBrush with extra egg\nBake rolls for about 30-minutes.  Serve warm with a home made \ntomato sauce\nThe Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\n"
   },
   {
@@ -3494,7 +3494,7 @@ window.searchData = [
   {
     "title": "APRICOT & PISTACHIO",
     "source": "The Winter Family Kitchen 2025.pdf",
-    "url": "recipes/APRICOT_&_PISTACHIO.html",
+    "url": "recipes/APRICOT_PISTACHIO.html",
     "body": "APRICOT & PISTACHIO \nCOUSCOUS\nINGREDIENTS\n1/2 cup red onion, chopped\n1/4 cup lemon juice\n1 300g box couscous, about 1 1/3 cups\n2 tablespoons extra virgin olive oil, divided\n1 teaspoon salt, plus more to taste\n1/2 cup shelled raw pistachios (optional)\n10 dried apricots, chopped\n1/3 cup parsley, chopped\nOptional 2 teaspoons harissa paste\nMETHOD\n1. Soak chopped onion in lemon juice:\nPlace the chopped onion in a small bowl. Pour the \nlemon juice over the onions, set aside and let the \nonions soak in the lemon juice.\n2.  Toast pistachios:  Toast the pistachios in a \nsmall pan on medium-high heat until lightly browned \nand fragrant. (Take care when toasting nuts, they \ncan burn quickly if you don't pay attention!) Remove \nfrom heat and place into a small bowl to cool.\n3.  Cook the couscous:  Put 2 cups of water in a \nmedium saucepan and bring to a boil. Add one \ntablespoon of olive oil and one teaspoon of salt to \nthe water. Once the salt dissolves, stir in the \ncouscous, turn off the heat and cover the pot. Move \nthe pot off the hot burner and let the couscous \nsteam, covered, for 5 to 6 minutes.\n4.  Combine ingredients to make salad:  Scoop \nout the couscous into a large bowl and fluff with a \nfork. Stir in the harissa, if using. Stir in the \npistachios, chopped apricots and parsley. Stir in the \nred onion and lemon juice. Add one more tablespoon \nof olive oil, stir well and add salt to taste. Serve \nwarm or at room temperature.\n"
   },
   {
@@ -3512,7 +3512,7 @@ window.searchData = [
   {
     "title": "WHITE BEAN & ROSEMARY",
     "source": "The Winter Family Kitchen 2025.pdf",
-    "url": "recipes/WHITE_BEAN_&_ROSEMARY.html",
+    "url": "recipes/WHITE_BEAN_ROSEMARY.html",
     "body": "WHITE BEAN & ROSEMARY \nCROSTINI\nINGREDIENTS\n4 garlic cloves\n\u00bd tbsp roughly chopped\nfresh rosemary\n1 tbsp fresh parsley leaves\n1 tbsp extra-virgin olive oil\n400g tin cannellini beans,\ndrained and rinsed\n2 salad onions, sliced\n30g frozen peas, defrosted\n4 thick slices seeded bread\nMETHOD\n1. Crush or whizz together 3 garlic cloves, the \nrosemary and the parsley with the olive oil and a \nsplash of water using a pestle and mortar or mini \nfood processor.\n2.  Cook half the garlic-rosemary paste in a non-stick \nfrying pan for 3 minutes over a low heat. Add the \nbeans and toss to coat thoroughly, then cook until \nheated through. Roughly crush the beans with a fork \nor potato masher, leaving some whole. Stir in the \nsalad onions and peas.\n3.  Toast or grill the bread, then rub each slice with \nthe remaining garlic clove. Spread with the bean \nmash, then top with a little of the remaining garlic-\nrosemary paste. \n"
   },
   {
@@ -3578,13 +3578,13 @@ window.searchData = [
   {
     "title": "APPLE & PEAR CRUMBLE",
     "source": "The Winter Family Kitchen 2025.pdf",
-    "url": "recipes/APPLE_&_PEAR_CRUMBLE.html",
+    "url": "recipes/APPLE_PEAR_CRUMBLE.html",
     "body": "APPLE & PEAR CRUMBLE \nINGREDIENTS\n500g apple peeled, cored and cut into large \nchunks\n1 lemon zested \n1/2 lemon juiced\n2 tbsp light muscovado sugar\n500g pear peeled, cored and cut into large \nchunks\nFor the crumble topping\n100g pack walnut\n175g plain cake flour\n85g butter, diced\n85g caster or light muscovado sugar\nMETHOD\n1.  Heat oven to 190C/fan 170C/gas 5. Put the chopped \napples, lemon zest,  and sugar in a saucepan. Add the \nlemon juice and cook for 3-4 mins. Tip in the pears and \ncook 2-3 mins more, until the fruits are just beginning \nto soften. Spoon the fruits and juices into a 1.7 litre \npudding dish and flatten slightly.\n2.  For the crumble, finely chop half the walnuts in a \nfood processor until reduced to the consistency of \nground almonds. Add the flour, butter and sugar and \ncontinue to blitz to a coarse or fine crumble mix, \nwhichever you prefer.\n3.  Roughly break the remaining walnuts with your \nfingers and stir into the crumble. Scatter the crumble \nmix on top of the fruits and bake for 20-25 mins until \ngolden brown. Serve warm with cream or custard.\n"
   },
   {
     "title": "PANCETTA & GRUYERE",
     "source": "The Winter Family Kitchen 2025.pdf",
-    "url": "recipes/PANCETTA_&_GRUYERE.html",
+    "url": "recipes/PANCETTA_GRUYERE.html",
     "body": "PANCETTA & GRUYERE\nQUICHE\n175g plain flour\n100g cold butter, cut into pieces\n1 egg yolk\nFor the pastry, put the flour, butter, egg yolk and 4 tsp cold water\ninto a food processor. Using the pulse button, process until the\nmix binds. Tip the pastry onto a lightly floured surface, gather into\na smooth ball, then roll out as thinly as you can. Line a 23 x\n2.5cm loose-bottomed, fluted flan tin, easing the pastry into the\nbase. Trim the pastry edges with scissors (save any trimmings) so\nit sits slightly above the tin (if it shrinks, it shouldn\u2019t now go below\nthe level of the tin). Press the pastry into the flutes, lightly prick the\nbase with a fork, then chill for 10 mins. Put a baking sheet in the\noven and heat oven to 200C/fan 180C/gas 6.\\\nLine pastry case with foil, shiny side down, fill with dry beans\nand bake on the hot sheet for 15 mins. Remove foil and beans\nand bake for 4-5 mins more until the pastry is pale golden. If\nyou notice any small holes or cracks, patch up with pastry\ntrimmings. You can make up to this point a day ahead.\nWhile the pastry cooks, prepare the filling.\n200g pack lardon, unsmoked or smoked\n50g Gruy\u00e8re\n200ml carton cr\u00e8me fra\u00eeche\n200ml double cream\n3 eggs well beaten\npinch ground nutmeg\nHeat a small frying pan, tip in the lardons and fry for a couple of\nmins. Drain off any liquid that comes out, then continue cooking\nuntil the lardons just start to colour, but aren\u2019t crisp. Remove and\ndrain on paper towels. Cut three quarters of the cheese into\nsmall dice and finely grate the rest. Scatter the diced cheese and\nfried lardons over the bottom of the pastry case.\nUsing a spoon, beat the cr\u00e8me fra\u00eeche to slacken it then slowly\nbeat in the double cream. Mix in the beaten eggs. Season (you\nshouldn\u2019t need much salt) and add nutmeg. Pour three-quarters\nof the filling into the pastry case.\nHalf-pull the oven shelf out and put the flan tin on the baking\nsheet. Quickly pour the rest of the filling into the pastry case \u2013\nyou get it right to the top this way. Scatter the grated cheese over\nthe top, then carefully push the shelf back into the oven. Lower\nthe oven to 190C/fan 170C/gas 5. Bake for about 25 mins, or\nuntil golden and softly set (the centre should not feel too firm). Let\nthe quiche settle for 4-5 mins, then remove from the tin. Serve\nfreshly baked, although it\u2019s also good cold.\n"
   },
   {
@@ -3596,13 +3596,13 @@ window.searchData = [
   {
     "title": "GREEN BEANS & TOMATOES",
     "source": "The Winter Family Kitchen 2025.pdf",
-    "url": "recipes/GREEN_BEANS_&_TOMATOES.html",
+    "url": "recipes/GREEN_BEANS_TOMATOES.html",
     "body": "GREEN BEANS & TOMATOES\n300g rip fresh tomatoes \n500g fine green beans\n2 garlic cloves\n2 tbsp fresh basil leaves\nExtra virgin olive oil as needed\n300g ripe fresh tomatoes\nINSTRUCTIONS\n1.  Skin the tomatoes and the cut in half removing \nthe seeds and juice.\n2.  Trim the stalk end from the green beans, peel \nand finely slice the garlic.\n3.  Heat 2 tbsp olive oil in a thick bottomed pan, \nand lightly brow the garlic.  Add the tomatoes, \nseason, cover and cook for 15-minutes on a \nmedium heat.\n4.  Boil the beans in well salted water until just \nsoft about 7-10 minutes.  Drain then stir into the \ntomato sauce.\n5.  Season with salt & pepper, drizzle with olive oil \nand the roughly torn basil leaves and serve.\n"
   },
   {
     "title": "PEAR & WALNUT SALAD",
     "source": "The Winter Family Kitchen 2025.pdf",
-    "url": "recipes/PEAR_&_WALNUT_SALAD.html",
+    "url": "recipes/PEAR_WALNUT_SALAD.html",
     "body": "PEAR & WALNUT SALAD\nSALAD\n200g mixed lettuce (arugula, romaine, etc.)\n1 ripe pear - unpeeled, cored, sliced \n55g walnuts, roughly chopped\n55g Pecorino Romano cheese, shaved\nVinaigrette\n2 tablespoon white wine vinegar\n1/2 teaspoon mustard\n1/2 tsp finely minced garlic\n6 tablespoons olive oil\nINSTRUCTIONS\n1.  To make the vinaigrette, combine, vinegar, \nmustard and garlic. Whisk till well combined. \nWhile whisking constantly, slowly pour in a steady \nstream of the olive oil.\n2.  Prepare the remaining ingredients, toss the \nvinaigrette with them and serve.\n"
   },
   {
@@ -3632,7 +3632,7 @@ window.searchData = [
   {
     "title": "ARANCINI WITH ANCHOVY &",
     "source": "Trente - Haute Cabriere - 30 Years of Chardonnay Pinot Noir.pdf",
-    "url": "recipes/ARANCINI_WITH_ANCHOVY_&.html",
+    "url": "recipes/ARANCINI_WITH_ANCHOVY.html",
     "body": "1 cup long-grain rice\n1 small onion\n1 stick celery finely chopped\n1 small carrot finely chopped 4 \ntbs. butter\n3 cups chicken broth\n5 tbs. grated Parmigiano\n80 gms finely diced Mozzarella \n10 - 12 anchovy fillets\n30gms parsley, chopped\n1 egg\n3 eggs \nbreadcrumbs \nnutmeg\nolive oil\nsalt\npepper\nFlour\nIn a heavy based pot saute the onion, carrot and celery \nin the butter until soft and translucent.  Then add the rice and fry \nit until it is sizzling.  Then add the hot broth slowly, stirring \nfrequently. The rice should be done in about 20 min. When the \nrice is ready, mix in half the parmesan, and then spread the rice \nout in a flat baking tray to cool.\nMix the chopped mozzarella and finely chopped \nanchovies, the rest of the parmesan, the chopped parsley, 1 egg, \nnutmeg, salt and pepper (If the mixture is a little wet add some \nmore parmesan). With slightly damp hands, take a handful of \nrice in one hand, and a pinch of stuffing with the other. Push the \nstuffing into the middle of the rice. Squeeze the rice all around \nthe stuffing and mould it into an egg shape.\nWhen you have used up all the mix, flour the croquettes, \ndip into beaten eggs, and then roll again in breadcrumbs. Fry the \nsuppli' in very hot oil, once golden and cooked through place on \npaper towel to darin and serve immediately\nARANCINI WITH ANCHOVY & \nMOZARELLA\n"
   },
   {
@@ -3662,7 +3662,7 @@ window.searchData = [
   {
     "title": "AVOCADO & ROMAINE SALAD",
     "source": "Trente - Haute Cabriere - 30 Years of Chardonnay Pinot Noir.pdf",
-    "url": "recipes/AVOCADO_&_ROMAINE_SALAD.html",
+    "url": "recipes/AVOCADO_ROMAINE_SALAD.html",
     "body": "AVOCADO & ROMAINE SALAD\nLight, quick and fresh!\n1 cup cherry tomatoes (halved)\n1 tablespoon chives (fresh, chopped)\n1 1/3 cup avocado (chopped)\n3 cups romaine hearts (chopped)\n2 teaspoons parsley (chopped)\n1 teaspoon dill (chopped)\nDrizzle balsamic vinegar (to taste)\nDrizzle extra virgin olive oil (to taste)\n, start by cutting tomatoes,\nroughly chop the chives, parsley, and dill, add everything to a\nbowl. Roughly chop the romaine lettuce and add to the\nbowl, toss gently and season with a little salt and pepper,\nplace in a serving platter\nGently peel the avocados, and cut into rough chunks\nand add these to the tomato and lettuce salad.\n2 tbsp red wine vinegar\n6 tbsp extra virgin olive oil\nWhisk together the olive\noil and vinegar, season with a little salt & pepper, drizzle over\nthe prepared salad.\n"
   },
   {
@@ -3674,7 +3674,7 @@ window.searchData = [
   {
     "title": "POTATO & LEEK SOUP",
     "source": "Trente - Haute Cabriere - 30 Years of Chardonnay Pinot Noir.pdf",
-    "url": "recipes/POTATO_&_LEEK_SOUP.html",
+    "url": "recipes/POTATO_LEEK_SOUP.html",
     "body": "INGREDIENTS\n3 tablespoons unsalted butter\n4 large leeks, white and light green parts \nonly, roughly chopped (about 5 cups)\n3 cloves garlic, peeled and smashed\n900g potatoes, peeled and roughly \nchopped into \u00bd-inch pieces\n7 cups chicken or vegetable stock\n2 bay leaves\n3 sprigs fresh thyme\n1 teaspoon salt\n\u00bc teaspoon ground black pepper\n1 cup heavy cream\nChives, finely chopped, for serving\nINSTRUCTIONS\nStep 1:  Melt the butter over medium heat in a large soup pot. \nAdd the leeks and garlic and cook, stirring regularly, until soft \nand wilted, about 10 minutes. Adjust the heat as necessary so \nas not to brown.\nStep 2:  Add the potatoes, broth, bay leaves, thyme, salt and \npepper to pot and bring to a boil. Cover and turn the heat \ndown to low. Simmer for 15 minutes, or until the potatoes are \nvery soft.\nStep 3:  Fish out the thyme sprig and bay leaves, then pur\u00e9e \nthe soup with a hand-held immersion blender until smooth. \n(Alternatively, use a standard blender to pur\u00e9e the soup in \nbatches; see note.) Add the heavy cream and bring to a \nsimmer. Taste and adjust seasoning with salt and pepper. If \nsoup is too thin, simmer until thickened. If it's too thick, add \nwater or stock to thin it out. Garnish with fresh herbs if desired.\nPOTATO & LEEK SOUP\n"
   },
   {
@@ -3692,13 +3692,13 @@ window.searchData = [
   {
     "title": "ASPARAGUS & LEMON GNOCCHI",
     "source": "Trente - Haute Cabriere - 30 Years of Chardonnay Pinot Noir.pdf",
-    "url": "recipes/ASPARAGUS_&_LEMON_GNOCCHI.html",
+    "url": "recipes/ASPARAGUS_LEMON_GNOCCHI.html",
     "body": "\u2154 cup extra-virgin olive oil\n1 large bunch asparagus, trimmed, thinly sliced\non a deep diagonal\n4 garlic cloves, smashed\n1 cup fresh cream\n4 3\"-long strips lemon zest\n\u00bd tsp. crushed red pepper flakes\n8 large basil leaves\n2 lemons, halved\n2 oz. Parmesan, finely grated (about 1 cup), plus\nmore for serving\nCook gnocchi in a large pot of boiling salted water, stirring\noccasionally, until al dente. Drain gnocchi, reserving 1\u00bd cups pasta\ncooking liquid.\nMeanwhile, heat oil in a large Dutch oven or other heavy pot over\nmedium-high until shimmering. Add asparagus, season with salt,\nand cook, stirring often, until just beginning to take on color, about 1\nminute.\nAdd garlic, lemon zest, and red pepper flakes and cook, stirring,\nuntil fragrant, about 30 seconds.\nAdd 1/2 cup stock and basil to pot with asparagus mixture and\nreturn to medium-high heat. Squeeze juice from both lemons into\npot and add 60gms Parmesan and 1/4 reserved gnocchi cooking\nliquid.\nCook, tossing vigorously, but gently, after 1 minute add the cream\nstir until the sauce is well combined and emulsified and pasta is\ncoated, about 1 minute. Taste and season with more salt if needed.\nRemove and discard garlic. Add the cooked gnocchi and stir gently\nto coat, if needed add a small splash of water\nDivide pasta among bowls, placing a lemon strip in each, and top\nwith more Parmesan.\nASPARAGUS & LEMON GNOCCHI\n"
   },
   {
     "title": "PRAWN & SAFFRON RISOTTO",
     "source": "Trente - Haute Cabriere - 30 Years of Chardonnay Pinot Noir.pdf",
-    "url": "recipes/PRAWN_&_SAFFRON_RISOTTO.html",
+    "url": "recipes/PRAWN_SAFFRON_RISOTTO.html",
     "body": "PRAWN & SAFFRON RISOTTO\n1kg prawns, shell on, deveined and cleaned \n3tbsp butter\n1/4 cup olive oil\n2 cloves of garlic, finely chopped\n1 glass white wine \nSalt & pepper\n8 cups prawn stock \n1/4 cup olive oil\n1 medium onion, diced\n1 stick of celery, finely chopped\n1 carrot, finely chopped \nLarge pinch of saffron\n2 cups arborio rice\n1 cup dry white wine\n1 tablespoon flat leaf parsley, chopped \n4 tablespoons cold butter\nSalt and pepper\n1.  In a large heavybased saucepan, add the butter and olive oil. \nPlace over a medium heat.  Once it is hot add the garlic and stir \nquickly.  Almost immediately add the prawns.  Add them in a \nsingle layer allowing them to colour, but NOT cook all the way \nthrough.\n2.  As the prawns are cooked remove and set aside.  Once all \nthe prawns have been cooked, remove their heads and shells. \nReserve all the juices and shells.\n3.  Return the pan to the heat, add half a roughly chopped \nonion, a small bunch of fresh celery leaf and stir to coat.\n4.  Once the onion starts to soften add the white wine and \ndeglaze the pan.  Now add back all the prawn shells and \nreserved juices.\n5.  Add 2litres of a good quality light vegetable stock and \nsimmer for 20-minutes, skimming off any foam that surfaces.\n6.  Strain and use immediately, or allow to cool and freeze\n1.  Heat the oil in a large saucepan over medium heat; add \nonion, carrot and celery and season with salt and pepper\n2.  Add the rice and stir to coat with the oil; season with salt and \npepper and cook until slightly translucent.\n6.  The rice should be hot and sizzling, you should stir carefully to \nensure it does not stick.\n7 .  Add wine to the hot rice, the liquid should hiss and be quickly \nabsorbed.  Stir gently until almost all the liquid has cooked off. \nAdd hot stock and broth mixture, a ladleful at a time, completely \nstirring in the liquid each time.  Remember at this stage you are \ntrying to coax the starches out the rice by gently and continuosly \nstirring.\n8.  Keep adding broth as needed so there is always a 1/2cm \nliquid layer over the rice.\n9.  After about 8 minutes add add the saffron which has been \nsoaked in 2 tbsp warm water\n10. After 15 to 20 minutes, the rice should be close to al dente.\n11.  At this stage add the reserved prawn meat, cut into bite size \nhunks, and stir to combine well - the prawns will cook through in \nthe heat of the rice.\n12.  Taste and adjust seasoning\n13.  Now cover the pan, and allow it to stand for 2-3minutes.\n"
   },
   {
@@ -3716,7 +3716,7 @@ window.searchData = [
   {
     "title": "Tagliata with rocket & Parmesan",
     "source": "Trente - Haute Cabriere - 30 Years of Chardonnay Pinot Noir.pdf",
-    "url": "recipes/Tagliata_with_rocket_&_Parmesan.html",
+    "url": "recipes/Tagliata_with_rocket_Parmesan.html",
     "body": "Tagliata with rocket & Parmesan\n6 sirloin or ribeye steaks, 3cm thick\n1 1/2 tbsp chopped rosemary\n1 1/2 tbsp chopped sage\nZest of 1 lemon\nCoarse sea salt and freshly ground pepper\n1 boneless rib eye steak, cut 2 inches thick (2 1/4 pounds)\nExtra-virgin olive oil\n1 pack of rocket\n1 tablespoon lemon juice\n1 cup shaved Grana/Parmigiano-Reggiano\n1. Start by finely chopping the rosemary and the thyme, add to a bowl.\n2. Now add a generous tsp of freshly crushed black pepper and sea salt\n3. To this add a finely zested peel of 1 lemon\n4. Add a splash of olive oil to wet the mixture slightly and coat the steaks with it.\n5. To cook the steaks add a splash of oil to a frying pan and place over medium high heat until almost smoking\n6. Add the steaks and cook until nicely browned, about 3-minutes per side for rare\n7. \nRemove the steaks, set aside and allow to stand under some foil\n8. Now prepare in a seperate bowl add your lemon juice and olive oil and mix to combine.\n9. Arrange the rocket leaves on the platter, then slice the steaks into strips and arrange over the rocket\n10. Finally drizzle with the olive and lemon dressing before topping with the parmesan shavings\nThe Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\n"
   },
   {
@@ -3782,7 +3782,7 @@ window.searchData = [
   {
     "title": "Esquites (Charred Corn Salad)",
     "source": "Vamos a cocinar.pdf",
-    "url": "recipes/Esquites_(Charred_Corn_Salad).html",
+    "url": "recipes/Esquites_Charred_Corn_Salad.html",
     "body": "The Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\nEsquites (Charred Corn Salad)\n4 cups corn (about 5 ears)\n1 tbsp olive oil\n1/2 red bell pepper chopped\n1/2 small red onion finely chopped\n1/2 cup fresh cilantro chopped\n6 spring onions chopped\n1 jalapeno pepper diced\n1/2 avocado chopped\n4 tbsp lime juice (from about 2 limes)\n1/2 tsp cumin ground\n1/2 tsp smoked paprika\n1/4 tsp black pepper ground\n1/4 tsp salt\n2 tbsp sour cream (or yogurt)\n2 tbsp mayonnaise\n1/2 cup feta, crumbled\nStart by charring the corn over a hot braai or in a very hot griddle pan. Allow to cool until it can be handled, then\ncut the corn off the cob and set aside in a large bowl.\n(You can also use canned corn or frozen corn. If using frozen, no need to thaw it out. You will need to char it in a\nvery hot dry pan)\nTransfer the corn to a large bowl and let it cool for a couple minutes.\nTo the same bowl, add the remaining ingredients. Stir everything together (excluding the diced avocado) until well\ncombined. Now add the avocado, mix gently, taste and then adjust lime juice and salt and pepper as necessary.\nTo serve garnish with additional cheese and cilantro, if preferred.\n"
   },
   {
@@ -3800,7 +3800,7 @@ window.searchData = [
   {
     "title": "Mexican Coleslaw with a cumin &",
     "source": "Vamos a cocinar.pdf",
-    "url": "recipes/Mexican_Coleslaw_with_a_cumin_&.html",
+    "url": "recipes/Mexican_Coleslaw_with_a_cumin.html",
     "body": "Mexican Coleslaw with a cumin &\nlime dressing\n4 cups shredded cabbage mix , (a mix of red and green cabbage / shredded carrots)\n1 red pepper , medium sized\nDressing:\n\u00bd cup chopped cilantro\n\u00bd cup chopped red onion\n\u00bd cup red wine vinegar , or vinegar of choice\n\u00bc cup olive oil,\n2 tablespoons lime juice , about one lime\n1 tablespoon cumin\n1/2 teaspoon sea salt\nA few tbsp vegetable stock to thin out dressing if needed , up to a1/4 cup\nPlace all dressing ingredients in a mixing bowl or container and whisk or shake well. After mixing, allow dressing to sit while\nprepping the rest of the salad so that the flavors can combine. You can also do this the day before.\nThinly slice the red pepper, cabbage, red green cabbage, and place in a large mixing bowl.\nCombine dressing and coleslaw, toss well to coat all the ingredients and serve.\nThe Colony Shopping Centre, 345 Jan Smuts Avenue, Craighall, 2024.\n"
   },
   {
@@ -3824,7 +3824,7 @@ window.searchData = [
   {
     "title": "CORIANDER & LIME CHOPPED",
     "source": "Vamos a cocinar.pdf",
-    "url": "recipes/CORIANDER_&_LIME_CHOPPED.html",
+    "url": "recipes/CORIANDER_LIME_CHOPPED.html",
     "body": "1 head of lettuce washed and leaves cut or torn\ninto large pieces\n2 tomatoes sliced or quartered\n\u00bd red onion thinly sliced\n1 avocado sliced or diced\n1 tbs finely chopped cilantro\nJuice of 2 limes\n2 tbs olive oil\nSalt and pepper to taste\nPrepare the dressing by mixing the chopped cilantro, lemon juice,\noil, salt and pepper. Set aside.\nPut the lettuce, tomatoes, onion and avocado in a salad bowl.\nAdd the dressing to the salad and toss well.\nCORIANDER & LIME CHOPPED\nSALAD\n"
   },
   {
@@ -3842,25 +3842,25 @@ window.searchData = [
   {
     "title": "CHORIZO & PEA FRITTATA",
     "source": "Womens Day Brunch 2023.pdf",
-    "url": "recipes/CHORIZO_&_PEA_FRITTATA.html",
+    "url": "recipes/CHORIZO_PEA_FRITTATA.html",
     "body": "CHORIZO & PEA FRITTATA\n1 tsp oil\n1 onion, roughly chopped\n1 red pepper, seeds removed, chopped\n200g chorizo, skin removed and roughly chopped\n6 free-range eggs\n50ml/2fl oz milk\n1 garlic clove, finely chopped\n200g cooked potatoes, roughly chopped\n100g frozen peas\n2 tbsp chopped flatleaf parsley\nPreheat the oven to 200C.\nHeat an ovenproof frying pan on the hob until just hot, then add the oil, onion and red pepper and fry for 2\nminutes, until just softened. Turn the heat up, add the chorizo and cook for 3-4 minutes until it has released its oil\nand is crisp around the edges. The mixture will go a lovely red colour.\nMeanwhile, crack the eggs into a large jug and whisk with the milk, a pinch of salt and plenty of black pepper.\nAdd the garlic and potatoes to the chorizo mixture and fry for another 2 minutes, stirring gently, until just hot\nthrough. Add the peas and cook for another minute, until the whole mixture is hot.\nPour in the egg, stir briefly, turn down to a medium heat and scatter the parsley over the top .Fry without stirring,\nfor 1\u20132 minutes, then carefully lift the edge of the frittata with a spatula to check if it is cooked and golden-brown\nunderneath. If it isn\u2019t, cook for another minute then check again.\nPlace the pan in the oven and bake for 10\u201312 minutes. When the top is bubbled up and slightly golden use a\ntea towel to grab the handle and give the pan a gentle shake. If the middle wobbles it needs a little longer. If it\u2019s\nfairly firm, put it aside to cool slightly.\nSlide the frittata out of the pan onto a plate. You can serve this hot or cold but make sure to let it cool to room\ntemperature before storing it in a sealable container in the fridge. Cut it into slices and serve with a green salad.\nSecret Sunday Brunch in partnership with Pierre Jourdan\n#anytimebubbly\n"
   },
   {
     "title": "CHEESE & SPINACH MUFFINS",
     "source": "Womens Day Brunch 2023.pdf",
-    "url": "recipes/CHEESE_&_SPINACH_MUFFINS.html",
+    "url": "recipes/CHEESE_SPINACH_MUFFINS.html",
     "body": "CHEESE & SPINACH MUFFINS\n2 medium eggs\n150ml / 1/2 cup milk\n75g / 1/2 cup butter, melted\n150g / 2 cups grated cheddar cheese\n1 spring onion, chopped\n75g / 2 cups fresh baby spinach, chopped\n1/2 red pepper, diced, and lightly pan fried\n250g / 2 cups self raising flour\n1/2 vegetable stock cube (can use low or no sodium stock cube)\nsalt and pepper to taste (but can be left out)\nPreheat the oven to 180Cand line a muffin tin with 12 muffin cases.\nGently whisk the eggs in a large bowl and stir in the milk and melted butter. Mix in the grated cheese, spring\nonion, baby spinach and diced cooked red pepper.\nFinally, add in the flour, salt and pepper (if using) and crumble in the stock cube and mix just enough until all the\ningredients have combined.\nDivide the mixture between the 12 muffin cases and bake in the oven for 20-25 minutes until cooked through (a\nskewer stuck into the middle should come out dry).\nThese muffins can be frozen once they have cooled completely. To defrost simply leave out for a few hours or\novernight.\nSecret Sunday Brunch in partnership with Pierre Jourdan\n#anytimebubbly\n"
   },
   {
     "title": "PECAN & CRANBERRY SCONES",
     "source": "Womens Day Brunch 2023.pdf",
-    "url": "recipes/PECAN_&_CRANBERRY_SCONES.html",
+    "url": "recipes/PECAN_CRANBERRY_SCONES.html",
     "body": "PECAN & CRANBERRY SCONES\n\u00be cup milk\n1 teaspoon white vinegar\n2 cups all-purpose flour\n\u00bc cup white sugar\n2 teaspoons baking powder\n\u00bd teaspoon baking soda\n\u00bd teaspoon salt\n\u00bd teaspoon grated nutmeg\n\u00bd cup butter, chilled and cut into small pieces\n1 cup dried cranberries\n\u00bd cup chopped pecans\n1 egg white, beaten\n1 \u00bd cups confectioners' sugar\n2 tablespoons milk\nPreheat oven to 425 degrees F (220 degrees C). Line a baking sheet with parchment paper.\nCombine 3/4 cup milk and vinegar in a bowl; let stand until milk is curdled, about 5 minutes.\nCombine flour, sugar, baking powder, baking soda, salt, and nutmeg in a large bowl; cut in butter with a pastry\nblender. Smooth remaining butter clumps with hands; stir in milk mixture, cranberries, and pecans. Knead until\ndough comes together in a ball.\nPlace dough onto a floured work surface. Roll out with a rolling pin to 1.8cm thickness. Cut into long, 2-inch wide\nstrips with a sharp knife; cut strips into triangles. Transfer to the baking sheet. Brush tops with egg white.\nBake in the preheated oven until tops are golden brown, about 15 minutes.\nCombine confectioners' sugar and 2 tablespoons milk in a small bowl; mix until combined. Drizzle over scones.\nSecret Sunday Brunch in partnership with Pierre Jourdan\n#anytimebubbly\n"
   },
   {
     "title": "ORANGE & CARDAMOM FRENCH TOAST",
     "source": "Womens Day Brunch 2023.pdf",
-    "url": "recipes/ORANGE_&_CARDAMOM_FRENCH_TOAST.html",
+    "url": "recipes/ORANGE_CARDAMOM_FRENCH_TOAST.html",
     "body": "ORANGE & CARDAMOM FRENCH TOAST\nWITH VANILLA STRAWBERRIES\n1 1/2 cups whole milk\n4 large eggs\n1 tablespoon light brown sugar\n1 teaspoon lightly packed orange zest\n1/2 teaspoon vanilla extract\n1/2 teaspoon ground cardamom\n1/2 teaspoon kosher salt\n8 (1-inch thick) slices sweet batard or brioche\n3 or 4 tablespoons unsalted butter\n1 tablespoon honey\n1 sachet vanilla sugar\n1/4 cup freshly squeezed orange juice\n1 pound strawberries, hulled, and halved lengthwise\nIn a large bowl, whisk together milk, eggs, sugar, orange zest, vanilla, cardamom, and salt until eggs are broken\nup and evenly combined. Soak 3 bread slices in egg mixture turning once, until soaked through,\nMeanwhile, melt 1 tablespoon of butter in a large frying pan over medium heat. When butter foams, place 3\npieces soaked bread in the pan and cook until browned, about 2 minutes per side. Repeat with remaining\nbread. Serve topped with Honeyed Strawberries.\nMix honey, vanilla sugar, and orange juice together in a medium bowl until honey is dissolved. Add strawberries,\nstir to coat, and let sit until berries give off their juices, at least 5 minutes. Stir briefly before using.\nSecret Sunday Brunch in partnership with Pierre Jourdan\n#anytimebubbly\n"
   },
   {
@@ -3890,7 +3890,7 @@ window.searchData = [
   {
     "title": "PARMA HAM & MELON",
     "source": "Womens Day Brunch 2023.pdf",
-    "url": "recipes/PARMA_HAM_&_MELON.html",
+    "url": "recipes/PARMA_HAM_MELON.html",
     "body": "PARMA HAM & MELON\n1 canteloupe or spanspek\n8 Parma ham slices\nFreshly ground pepper\nOlive oil, for drizzling\nParsley, for garnishing\nPeel the melon, remove the seeds and cut into 8 slices.\nWrap each melon wedge with a slice of Parma ham.\nDrizzle the dish with olive oil and sprinkle with parsley and pepper. Serve immediately.\nSecret Sunday Brunch in partnership with Pierre Jourdan\n#anytimebubbly\n"
   },
   {
@@ -3914,7 +3914,7 @@ window.searchData = [
   {
     "title": "BUTTERNUT, SPINACH FRITTATA",
     "source": "Womens Day Brunch 2023.pdf",
-    "url": "recipes/BUTTERNUT,_SPINACH_FRITTATA.html",
+    "url": "recipes/BUTTERNUT_SPINACH_FRITTATA.html",
     "body": "Secret Sunday Brunch in partnership with Pierre Jourdan\n#anytimebubbly\nBUTTERNUT, SPINACH FRITTATA\niNGREDIENTS\n10 large eggs\n\u00bd cup half and half (or milk)\n\u00be tsp kosher salt\n\u00bd teaspoon freshly ground black pepper\n3 tablespoon olive oil, divided\n5 cups butternut squash, cubed\n6 cups loosely packed spinach leaves\n1 teaspoon brown sugar\n\u215b teaspoon freshly ground nutmeg\n1 cup ricotta\nadditional salt and pepper to taste\nMethod:\nPreheat the oven to 200C.\nOn a baking sheet lined with parchment paper, spread out\nthe butternut squash. Drizzle with 2 tablespoon olive oil,\nbrown sugar, nutmeg, \u00bd teaspoon of salt, and \u00bc teaspoon\npepper. Toss to coat.\nRoast the squash in the oven for 20-25 minutes, until\nbrowned and easily pierced with a fork.\nWhile the squash is roasting, prepare the frittata base. In a\nmedium bowl, whisk together the eggs, half and half, \u00bc\nteaspoon salt, and \u00bc teaspoon of pepper. Set aside.\nRemove the squash from the oven and lower the oven\ntemperature to 180C. In a 10-inch oven-safe skillet, heat the\nremaining 1 tablespoon oil on medium heat. Saute the\nspinach until wilted and coated with the oil. Add the cooked\nbutternut squash, and gently mix to incorporate.\nTurn the heat down to medium-low. Add the egg mixture to\nthe pan. Make sure the ingredients are evenly spread out\nbefore adding the egg mixture. Cook the frittata on the stove\nfor about 10-12 minutes. Use a spatula to pull the eggs away\nfrom the sides, allowing the liquid to drip to the bottom. This\nensures that the frittata is cooking evenly. Cook on the stove\nuntil the sides are set and the frittata begins to firm up. Drop\nthe ricotta by tablespoons on top in 4-5 areas, covering the\npan. Season with additional salt and pepper.\nRemove the pan from the stove and finish cooking in the\noven for about 15 minutes. The frittata will be ready when it is\nbrowned on top and firm (not runny in the middle). The frittata\nwill puff up, then deflate - this is normal. Serve warm or at\nroom temperature.\n"
   },
   {
@@ -3926,7 +3926,7 @@ window.searchData = [
   {
     "title": "Sundried Tomato & Ricotta Twisted",
     "source": "Womens Day Brunch 2023.pdf",
-    "url": "recipes/Sundried_Tomato_&_Ricotta_Twisted.html",
+    "url": "recipes/Sundried_Tomato_Ricotta_Twisted.html",
     "body": "Secret Sunday Brunch in partnership with Pierre Jourdan\n#anytimebubbly\nSundried Tomato & Ricotta Twisted \nLoaf\n2 1/4 cups flour\n1/2 tsp salt\n3/4 cup lukewarm milk\n1 tbsp sugar\n15 g fresh yeast (1 envelope active dry yeast)\n1/8 cup (30 g) melted butter\n1 egg yolk\n1/4 cup (70 g) softened butter\n5 tbsp grated parmesan\n120gms sundried tomato halves\n200gms ricotta cheese\n100gms grated white cheddar\nIn a medium bowl stir fresh yeast with sugar until it liquefies. Stir in the lukewarm milk and then add the egg yolk and\nmelted butter. In a large bowl whisk together the flour and salt.\nPour the milk mixture over the dry ingredients and start kneading it until it pulls away from the edges of the bowl. Give the\ndough the shape of a ball. Sprinkle oil onto a clean bowl, place the dough and cover with plastic wrap. Let it rest for about 1\nhour at room temperature (warm space) until doubled in size.\nWhile the dough rises, process together the butter, sundried tomatoes, parmesan & ricotta cheese. Set aside.\nPreheat the oven to 400 F (200 C). Line a baking sheet with parchment paper. On a floured surface, using a rolling pin roll the\ndough to a rectangle of about 18x12 inches. Spoon the filling over top (keep about 1 tbsp of the filling for the end),\nspreading evenly, leaving a clean 1/2-inch border around the edges. Sprinkle the grated chedda cheese\u2019.\nRoll up the dough and using a sharp knife, cut the log in half lengthwise leaving one edge uncut for about 1/2 inch. Start\nbraiding the two pieces, trying to keep the open layers exposed so the cut ends remain on top (this is what makes this\nbread effect).Pinch the ends together. Transfer it to the prepared baking sheet.\nBrush the wreath with the left butter filling. Bake for 20-25 minutes until golden brown. For the last 10 minutes you can\nreduce the oven temperature to 180 C (350 F).\n"
   },
   {
@@ -3938,7 +3938,7 @@ window.searchData = [
   {
     "title": "ROASTED RED PEPPER & FETA",
     "source": "Womens Day Brunch 2023.pdf",
-    "url": "recipes/ROASTED_RED_PEPPER_&_FETA.html",
+    "url": "recipes/ROASTED_RED_PEPPER_FETA.html",
     "body": "4 red bell peppers\n1/4 cup extra-virgin olive oil\n2tbsp red wine vinegar\n2 garlic cloves, peeled\n2 cups crumbled feta cheese\nChar peppers directly over gas flame or in broiler until blackened\non all sides. Enclose in paper bag 10 minutes. Peel, seed, and\nquarter peppers.\nPuree peppers, oil, garlic, red wine vinegar and cheese\nin processor. Season with salt and pepper. Chill at least 3 hours\nor overnight.\nROASTED RED PEPPER & FETA\nDIP\n"
   }
 ];
