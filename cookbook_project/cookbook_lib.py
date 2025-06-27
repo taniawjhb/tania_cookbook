@@ -3,9 +3,18 @@ import fitz  # PyMuPDF
 import re
 from collections import defaultdict
 
+from numpy import source
+
 
 def load_pdf(path):
     return fitz.open(path)
+
+
+def sanitize_title(title):
+    # Remove special characters and replace spaces with underscores
+    title = re.sub(r"[^\w\s-]", "", title)  # Remove non-word characters except hyphen
+    title = re.sub(r"\s+", "_", title.strip())  # Replace spaces with underscores
+    return title
 
 
 def get_most_likely_title(page):
@@ -58,11 +67,7 @@ def split_recipes(doc, headings, out_dir):
         new_doc = fitz.open()
         new_doc.insert_pdf(doc, from_page=start_page, to_page=end_page - 1)
 
-        safe_title = (
-            "".join(c if c.isalnum() or c in (" ", "_") else "_" for c in title)
-            .strip()
-            .replace(" ", "_")
-        )
+        safe_title = sanitize_title(title)
         out_path = os.path.join(out_dir, f"{safe_title}.pdf")
         new_doc.save(out_path)
     return f"Split {len(headings)} recipes to: {out_dir}"
@@ -72,8 +77,8 @@ def generate_toc(headings, out_path):
     with open(out_path, "w", encoding="utf-8") as f:
         f.write("## Table of Contents\n\n")
         for i, (title, _) in enumerate(headings, 1):
-            safe_title = "_".join(title.split())
-            f.write(f"{i}. [{title}](SplitRecipes/{safe_title}.pdf)\n")
+            safe_title = sanitize_title(title)
+            f.write(f"{i}. [{title}](cookbook_site/recipes/{safe_title}.html)\n")
     return f"TOC written to: {out_path}"
 
 
@@ -181,7 +186,7 @@ def export_master_html_site(all_docs, all_headings, all_indexes, out_dir):
     for doc, headings, source_name in all_docs:
         for i, (title, start) in enumerate(headings):
             end = headings[i + 1][1] if i + 1 < len(headings) else len(doc)
-            html_filename = "_".join(title.split()) + ".html"
+            html_filename = sanitize_title(title) + ".html"
             filepath = os.path.join(recipes_dir, html_filename)
 
             # Extract and format text content
@@ -219,7 +224,7 @@ def export_master_html_site(all_docs, all_headings, all_indexes, out_dir):
 <input type="text" id="searchInput" placeholder="Search recipes..." oninput="runSearch()" style="width:100%; padding:0.5em; margin-bottom:1em;">
 <ul id="searchResults">\n"""
     for title, source in all_headings:
-        filename = "_".join(title.split()) + ".html"
+        filename = sanitize_title(title) + ".html"
         toc_body += f'<li><a href="recipes/{filename}">{title}</a> <small>({source})</small></li>\n'
     toc_body += "</ul>\n"
     toc_body += """
