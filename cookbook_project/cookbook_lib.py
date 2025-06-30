@@ -184,6 +184,18 @@ def export_master_html_site(
             recipe_text = ""
             for p in range(start, end):
                 recipe_text += doc[p].get_text("text")
+                parsed = re.sub(
+                    r"(?i)\bingredients\b",
+                    "\n\n<h2>Ingredients</h2>",
+                    recipe_text,
+                    count=1,
+                )
+                parsed = re.sub(
+                    r"(?i)\bmethod\b|\bdirections\b",
+                    "\n\n<h2>Method</h2>",
+                    parsed,
+                    count=1,
+                )
 
             html_filename = sanitize_title(title) + ".html"
             filepath = os.path.join(recipes_dir, html_filename)
@@ -199,7 +211,9 @@ def export_master_html_site(
                 body += f'<p><strong>Also found in:</strong> {", ".join(sorted(other_sources))}</p>\n'
 
             body += '<p><a href="../index.html">← Back to Index</a> | <a href="../ingredients.html">Ingredient Index</a></p>\n'
-            body += f"<pre>\n{recipe_text.strip()}\n</pre>\n"
+            # body += f"<pre>\n{recipe_text.strip()}\n</pre>\n"
+            html_recipe = parsed.strip().replace("\n", "<br>")
+            body += f"{html_recipe}\n"
 
             with open(filepath, "w", encoding="utf-8") as f:
                 f.write(wrap_html(title, body))
