@@ -1,4 +1,5 @@
 # _config.yml
+theme: jekyll-theme-primer
 with:
   source: docs
 title: "Tania's Cookbook"
