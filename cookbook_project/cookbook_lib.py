@@ -57,6 +57,10 @@ def detect_headings(doc):
     return headings
 
 
+def normalize_title(title):
+    return re.sub(r"[\W_]+", "", title).lower()
+
+
 def split_recipes(doc, headings, out_dir):
     os.makedirs(out_dir, exist_ok=True)
     for i, (title, start_page) in enumerate(headings):
@@ -152,7 +156,9 @@ def export_to_html(doc, headings, index, html_dir):
     return f"🌐 HTML cookbook created at: {html_dir}"
 
 
-def export_master_html_site(all_docs, all_headings, all_indexes, out_dir):
+def export_master_html_site(
+    all_docs, all_headings, all_indexes, out_dir, recipe_sources
+):
     os.makedirs(out_dir, exist_ok=True)
     recipes_dir = os.path.join(out_dir, "recipes")
     os.makedirs(recipes_dir, exist_ok=True)
@@ -184,6 +190,14 @@ def export_master_html_site(all_docs, all_headings, all_indexes, out_dir):
 
             body = f"<h1>{title}</h1>\n"
             body += f"<p><em>From: {source}</em></p>\n"
+
+            norm = normalize_title(title)
+            sources = recipe_sources.get(norm, [])
+
+            other_sources = [s for s in sources if s != source]
+            if other_sources:
+                body += f'<p><strong>Also found in:</strong> {", ".join(sorted(other_sources))}</p>\n'
+
             body += '<p><a href="../index.html">← Back to Index</a> | <a href="../ingredients.html">Ingredient Index</a></p>\n'
             body += f"<pre>\n{recipe_text.strip()}\n</pre>\n"
 
