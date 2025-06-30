@@ -1,22 +1,19 @@
 import os
-import fitz  # PyMuPDF
 import re
+import fitz  # PyMuPDF
+import json
 from collections import defaultdict
 
-from numpy import source
+
+def sanitize_title(title):
+    title = os.path.splitext(title)[0]  # Remove file extensions
+    title = re.sub(r"[^\w\s-]", "", title)  # Remove special characters
+    title = re.sub(r"\s+", "_", title.strip())  # Replace spaces with underscores
+    return title
 
 
 def load_pdf(path):
     return fitz.open(path)
-
-
-def sanitize_title(title):
-    title = os.path.splitext(title)[0]  # Remove .pdf or any extension
-    title = re.sub(
-        r"[^\w\s-]", "", title
-    )  # Remove parentheses and other special characters
-    title = re.sub(r"\s+", "_", title.strip())  # Replace spaces with underscores
-    return title
 
 
 def get_most_likely_title(page):
@@ -24,27 +21,25 @@ def get_most_likely_title(page):
     title_candidates = []
 
     for block in blocks:
-        if "lines" not in block:
-            continue
-        for line in block["lines"]:
-            for span in line["spans"]:
-                text = span["text"].strip()
-                size = span["size"]
-
-                if (
-                    text
-                    and len(text) < 50
-                    and not any(char.isdigit() for char in text)
-                    and not re.search(
-                        r"\b(grams|ml|cup|tablespoon|teaspoon|oz)\b", text.lower()
-                    )
-                    and not re.match(
-                        r"(?i)^(ingredients|method|directions|instructions|the cookery)$",
-                        text.lower(),
-                    )
-                    and not text.endswith(".")
-                ):
-                    title_candidates.append((text, size))
+        if "lines" in block:
+            for line in block["lines"]:
+                for span in line["spans"]:
+                    text = span["text"].strip()
+                    size = span["size"]
+                    if (
+                        text
+                        and len(text) < 50
+                        and not any(char.isdigit() for char in text)
+                        and not re.search(
+                            r"\b(grams|ml|cup|tablespoon|teaspoon|oz)\b", text.lower()
+                        )
+                        and not re.match(
+                            r"(?i)^(ingredients|method|directions|the cookery)$",
+                            text.lower(),
+                        )
+                        and not text.endswith(".")
+                    ):
+                        title_candidates.append((text, size))
 
     return (
         sorted(title_candidates, key=lambda x: -x[1])[0][0]
@@ -72,7 +67,7 @@ def split_recipes(doc, headings, out_dir):
         safe_title = sanitize_title(title)
         out_path = os.path.join(out_dir, f"{safe_title}.pdf")
         new_doc.save(out_path)
-    return f"Split {len(headings)} recipes to: {out_dir}"
+    return f"✅ Split {len(headings)} recipes to: {out_dir}"
 
 
 def generate_toc(headings, out_path):
@@ -81,15 +76,15 @@ def generate_toc(headings, out_path):
         for i, (title, _) in enumerate(headings, 1):
             safe_title = sanitize_title(title)
             f.write(f"{i}. [{title}](cookbook_site/recipes/{safe_title}.html)\n")
-    return f"TOC written to: {out_path}"
+    return f"📘 TOC written to: {out_path}"
 
 
 def build_ingredient_index(doc, headings):
     index = defaultdict(set)
-    for i, (title, page_start) in enumerate(headings):
-        page_end = headings[i + 1][1] if i + 1 < len(headings) else len(doc)
+    for i, (title, start) in enumerate(headings):
+        end = headings[i + 1][1] if i + 1 < len(headings) else len(doc)
         text = ""
-        for p in range(page_start, page_end):
+        for p in range(start, end):
             text += doc[p].get_text("text")
 
         matches = re.findall(r"\b[a-zA-Z][a-zA-Z]+\b", text)
@@ -122,25 +117,23 @@ def save_index(index, out_path):
         for ingredient in sorted(index):
             titles = ", ".join(sorted(index[ingredient]))
             f.write(f"- **{ingredient}** → {titles}\n")
-    return f"Ingredient index saved to: {out_path}"
+    return f"🥕 Ingredient index saved to: {out_path}"
 
 
 def export_to_html(doc, headings, index, html_dir):
     os.makedirs(html_dir, exist_ok=True)
 
-    # TOC page
     toc_path = os.path.join(html_dir, "index.html")
     with open(toc_path, "w", encoding="utf-8") as f:
         f.write("<h1>Recipe Index</h1>\n<ul>\n")
         for title, _ in headings:
-            filename = "_".join(title.split()) + ".html"
+            filename = sanitize_title(title) + ".html"
             f.write(f'<li><a href="{filename}">{title}</a></li>\n')
         f.write("</ul>\n")
 
-    # Recipe pages
     for i, (title, start_page) in enumerate(headings):
         end_page = headings[i + 1][1] if i + 1 < len(headings) else len(doc)
-        html_filename = "_".join(title.split()) + ".html"
+        html_filename = sanitize_title(title) + ".html"
         out_path = os.path.join(html_dir, html_filename)
 
         with open(out_path, "w", encoding="utf-8") as f:
@@ -148,7 +141,6 @@ def export_to_html(doc, headings, index, html_dir):
             for p in range(start_page, end_page):
                 f.write("<pre>\n" + doc[p].get_text("text") + "\n</pre>\n")
 
-    # Ingredient index page
     index_path = os.path.join(html_dir, "ingredients.html")
     with open(index_path, "w", encoding="utf-8") as f:
         f.write("<h1>Ingredient Index</h1>\n<ul>\n")
@@ -157,20 +149,16 @@ def export_to_html(doc, headings, index, html_dir):
             f.write(f"<li><strong>{ingredient}</strong>: {refs}</li>\n")
         f.write("</ul>\n")
 
-    return f"HTML cookbook created at: {html_dir}"
+    return f"🌐 HTML cookbook created at: {html_dir}"
 
 
 def export_master_html_site(all_docs, all_headings, all_indexes, out_dir):
-    import os
-    import json
-
     os.makedirs(out_dir, exist_ok=True)
     recipes_dir = os.path.join(out_dir, "recipes")
     os.makedirs(recipes_dir, exist_ok=True)
 
     search_records = []
 
-    # Helper: HTML page wrapper
     def wrap_html(title, body, stylesheet="../style.css"):
         return f"""<!DOCTYPE html>
 <html lang="en">
@@ -184,20 +172,18 @@ def export_master_html_site(all_docs, all_headings, all_indexes, out_dir):
 </body>
 </html>"""
 
-    # Build individual recipe pages + collect for search index
-    for doc, headings, source_name in all_docs:
+    for doc, headings, source in all_docs:
         for i, (title, start) in enumerate(headings):
             end = headings[i + 1][1] if i + 1 < len(headings) else len(doc)
-            html_filename = sanitize_title(title) + ".html"
-            filepath = os.path.join(recipes_dir, html_filename)
-
-            # Extract and format text content
             recipe_text = ""
             for p in range(start, end):
                 recipe_text += doc[p].get_text("text")
 
+            html_filename = sanitize_title(title) + ".html"
+            filepath = os.path.join(recipes_dir, html_filename)
+
             body = f"<h1>{title}</h1>\n"
-            body += f"<p><em>From: {source_name}</em></p>\n"
+            body += f"<p><em>From: {source}</em></p>\n"
             body += '<p><a href="../index.html">← Back to Index</a> | <a href="../ingredients.html">Ingredient Index</a></p>\n'
             body += f"<pre>\n{recipe_text.strip()}\n</pre>\n"
 
@@ -207,20 +193,17 @@ def export_master_html_site(all_docs, all_headings, all_indexes, out_dir):
             search_records.append(
                 {
                     "title": title,
-                    "source": source_name,
+                    "source": source,
                     "url": f"recipes/{html_filename}",
                     "body": recipe_text,
                 }
             )
 
-    # Write search index JS
-    search_data_path = os.path.join(recipes_dir, "search_data.js")
-    with open(search_data_path, "w", encoding="utf-8") as f:
+    with open(os.path.join(recipes_dir, "search_data.js"), "w", encoding="utf-8") as f:
         f.write("window.searchData = ")
         json.dump(search_records, f, indent=2)
         f.write(";")
 
-    # Build TOC page
     toc_body = """
 <h1>Master Recipe Index</h1>
 <input type="text" id="searchInput" placeholder="Search recipes..." oninput="runSearch()" style="width:100%; padding:0.5em; margin-bottom:1em;">
