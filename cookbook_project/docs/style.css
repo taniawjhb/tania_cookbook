@@ -1,0 +1,48 @@
+body {
+    font-family: "Segoe UI", sans-serif;
+    margin: 2em auto;
+    max-width: 800px;
+    background-color: #fdfcf9;
+    color: #333;
+    line-height: 1.6;
+  }
+  
+  h1 {
+    color: #3d3d3d;
+    border-bottom: 2px solid #e3e3e3;
+    padding-bottom: 0.3em;
+  }
+  
+  ul {
+    padding-left: 1.5em;
+  }
+  
+  li {
+    margin: 0.5em 0;
+  }
+  
+  a {
+    color: #0078d4;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  pre {
+    background-color: #fff6e6;
+    padding: 1em;
+    border: 1px solid #eed;
+    overflow-x: auto;
+    font-family: Consolas, monospace;
+  }
+  
+  #searchBox, #searchInput {
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%;
+    padding: 0.5em;
+    margin-bottom: 1em;
+  }
