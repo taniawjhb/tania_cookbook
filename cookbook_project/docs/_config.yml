@@ -1,0 +1,10 @@
+# _config.yml
+title: "Tania's Cookbook"
+description: "A searchable digital recipe collection."
+theme: null
+exclude:
+  - "*.pdf"
+  - "*.py"
+  - "*.ipynb"
+  - README.md
+  - .DS_Store
