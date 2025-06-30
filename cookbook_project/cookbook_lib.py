@@ -11,8 +11,10 @@ def load_pdf(path):
 
 
 def sanitize_title(title):
-    # Remove special characters and replace spaces with underscores
-    title = re.sub(r"[^\w\s-]", "", title)  # Remove non-word characters except hyphen
+    title = os.path.splitext(title)[0]  # Remove .pdf or any extension
+    title = re.sub(
+        r"[^\w\s-]", "", title
+    )  # Remove parentheses and other special characters
     title = re.sub(r"\s+", "_", title.strip())  # Replace spaces with underscores
     return title
 
