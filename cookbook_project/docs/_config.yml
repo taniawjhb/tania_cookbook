@@ -1,7 +1,7 @@
 # _config.yml
 theme: jekyll-theme-primer
 with:
-  source: docs
+  source: ..\docs
 title: "Tania's Cookbook"
 description: "A searchable digital recipe collection."
 theme: null
