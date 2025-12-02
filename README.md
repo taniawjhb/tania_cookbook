@@ -1,5 +1,5 @@
 # Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+TODO: Write a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
 
 [TOC](https://taniawjhb.github.io/tania_cookbook/cookbook_project/docs/TOC.md)
 [Index](https://taniawjhb.github.io/tania_cookbook/cookbook_project/docs/index.html)
